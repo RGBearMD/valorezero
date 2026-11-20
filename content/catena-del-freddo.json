@@ -1,0 +1,391 @@
+{
+ "titolo": "Catena del freddo e cibo",
+ "voci": [
+  {
+   "id": "fe49e597575c48e8",
+   "ctx": "h1",
+   "orig": "Catena del freddo e cibo",
+   "text": "Catena del freddo e cibo",
+   "cifre_ok": false
+  },
+  {
+   "id": "34b004d7ee58730e",
+   "ctx": "Catena del freddo e cibo › p",
+   "orig": "Il freddo permette di conservare più a lungo gli alimenti che, a temperatura ambiente, si deteriorerebbero rapidamente. Tuttavia, la temperatura necessaria per conservarli correttamente varia in base al tipo di alimento.",
+   "text": "Il freddo permette di conservare più a lungo gli alimenti che, a temperatura ambiente, si deteriorerebbero rapidamente. Tuttavia, la temperatura necessaria per conservarli correttamente varia in base al tipo di alimento.",
+   "cifre_ok": false
+  },
+  {
+   "id": "e2979f1be6561706",
+   "ctx": "Catena del freddo e cibo › p",
+   "orig": "In questa analisi distinguiamo quattro aspetti: il consumo di energia, il calore da sottrarre, il volume degli spazi refrigerati e le quote di mercato. Si tratta di grandezze diverse, che devono essere considerate separatamente e non sommate tra loro.",
+   "text": "In questa analisi distinguiamo quattro aspetti: il consumo di energia, il calore da sottrarre, il volume degli spazi refrigerati e le quote di mercato. Si tratta di grandezze diverse, che devono essere considerate separatamente e non sommate tra loro.",
+   "cifre_ok": false
+  },
+  {
+   "id": "7f510d883fd91111",
+   "ctx": "Catena del freddo e cibo › h2",
+   "orig": "Due modi per conservare gli alimenti",
+   "text": "Due modi per conservare gli alimenti",
+   "cifre_ok": false
+  },
+  {
+   "id": "2f9e293f692de10e",
+   "ctx": "Due modi per conservare gli alimenti › h3",
+   "orig": "Alimenti che richiedono il freddo",
+   "text": "Alimenti che richiedono il freddo",
+   "cifre_ok": false
+  },
+  {
+   "id": "bbeae69aab422c54",
+   "ctx": "Alimenti che richiedono il freddo › p",
+   "orig": "Latte pastorizzato, carne e pesce freschi.",
+   "text": "Latte pastorizzato, carne e pesce freschi.",
+   "cifre_ok": false
+  },
+  {
+   "id": "1d3f0f3720c1a71b",
+   "ctx": "Alimenti che richiedono il freddo › p",
+   "orig": "Per conservarli in sicurezza sono necessari frigoriferi, camion refrigerati e celle frigorifere. In genere, questi alimenti si mantengono per pochi giorni.",
+   "text": "Per conservarli in sicurezza sono necessari frigoriferi, camion refrigerati e celle frigorifere. In genere, questi alimenti si mantengono per pochi giorni.",
+   "cifre_ok": false
+  },
+  {
+   "id": "25122b715583e815",
+   "ctx": "Alimenti che richiedono il freddo › h3",
+   "orig": "Alimenti che si conservano a temperatura ambiente",
+   "text": "Alimenti che si conservano a temperatura ambiente",
+   "cifre_ok": false
+  },
+  {
+   "id": "5cb3078fd67fa913",
+   "ctx": "Alimenti che si conservano a temperatura ambient › p",
+   "orig": "Lenticchie, ceci e fagioli secchi, riso, pasta e farina.",
+   "text": "Lenticchie, ceci e fagioli secchi, riso, pasta e farina.",
+   "cifre_ok": false
+  },
+  {
+   "id": "c984fbc57bb60599",
+   "ctx": "Alimenti che si conservano a temperatura ambient › p",
+   "orig": "Possono essere conservati in dispensa, senza refrigerazione, purché siano riposti in confezioni ben chiuse e in un ambiente asciutto (fonte: CREA).",
+   "text": "Possono essere conservati in dispensa, senza refrigerazione, purché siano riposti in confezioni ben chiuse e in un ambiente asciutto (fonte: CREA).",
+   "cifre_ok": false
+  },
+  {
+   "id": "bf1956458b4eb721",
+   "ctx": "Alimenti che si conservano a temperatura ambient › p",
+   "orig": "**Attenzione:** non tutti i vegetali possono essere conservati a secco. La frutta e la verdura fresche, ad esempio, richiedono spesso la refrigerazione. Lo stesso vale per gli alimenti di origine animale: il latte UHT, invece, può essere conservato a temperatura ambiente finché la confezione rimane chiusa.",
+   "text": "**Attenzione:** non tutti i vegetali possono essere conservati a secco. La frutta e la verdura fresche, ad esempio, richiedono spesso la refrigerazione. Lo stesso vale per gli alimenti di origine animale: il latte UHT, invece, può essere conservato a temperatura ambiente finché la confezione rimane chiusa.",
+   "cifre_ok": false
+  },
+  {
+   "id": "05a210496154874e",
+   "ctx": "Alimenti che si conservano a temperatura ambient › h2",
+   "orig": "Latte e carne richiedono più freddo di patate e verdure",
+   "text": "Latte e carne richiedono più freddo di patate e verdure",
+   "cifre_ok": false
+  },
+  {
+   "id": "f3fbd816801cf13c",
+   "ctx": "⚠ contiene numeri · Latte e carne richiedono più freddo di patate e  › p",
+   "orig": "Quanto calore bisogna sottrarre agli alimenti per raffreddarli e conservarli? I dati raccolti nel Regno Unito nel 2009 mostrano una differenza significativa tra le diverse categorie alimentari.",
+   "text": "Quanto calore bisogna sottrarre agli alimenti per raffreddarli e conservarli? I dati raccolti nel Regno Unito nel 2009 mostrano una differenza significativa tra le diverse categorie alimentari.",
+   "cifre_ok": false
+  },
+  {
+   "id": "00db0aaaceefee25",
+   "ctx": "Latte e carne richiedono più freddo di patate e  › p",
+   "orig": "Latte e carne, due prodotti di origine animale, richiedono quantità di raffreddamento nettamente superiori rispetto a patate e altre verdure.",
+   "text": "Latte e carne, due prodotti di origine animale, richiedono quantità di raffreddamento nettamente superiori rispetto a patate e altre verdure.",
+   "cifre_ok": false
+  },
+  {
+   "id": "9bd142d32269e384",
+   "ctx": "⚠ contiene numeri · Latte e carne richiedono più freddo di patate e  › h3",
+   "orig": "Calore da sottrarre in un anno · Regno Unito, 2009",
+   "text": "Calore da sottrarre in un anno · Regno Unito, 2009",
+   "cifre_ok": false
+  },
+  {
+   "id": "326d62d64b14c71d",
+   "ctx": "Calore da sottrarre in un anno · Regno Unito, 20 › h3",
+   "orig": "Cosa ci dicono questi numeri?",
+   "text": "Cosa ci dicono questi numeri?",
+   "cifre_ok": false
+  },
+  {
+   "id": "ace7257168b8cd7a",
+   "ctx": "⚠ contiene numeri · Cosa ci dicono questi numeri? › p",
+   "orig": "Il raffreddamento del latte richiede oltre 9 volte il calore da sottrarre alle patate e quasi 15 volte quello delle altre verdure. La carne ne richiede quasi il doppio rispetto alle patate.",
+   "text": "Il raffreddamento del latte richiede oltre 9 volte il calore da sottrarre alle patate e quasi 15 volte quello delle altre verdure. La carne ne richiede quasi il doppio rispetto alle patate.",
+   "cifre_ok": false
+  },
+  {
+   "id": "2bea32332f79f07d",
+   "ctx": "⚠ contiene numeri · Cosa ci dicono questi numeri? › h3",
+   "orig": "Il latte: 7 GWh su ogni 10",
+   "text": "Il latte: 7 GWh su ogni 10",
+   "cifre_ok": false
+  },
+  {
+   "id": "50fc1f4125160805",
+   "ctx": "⚠ contiene numeri · Il latte: 7 GWh su ogni 10 › p",
+   "orig": "Ogni bottiglia vale 1 GWh su 10. Sommando le sei categorie dello studio, su ogni 10 GWh di calore da sottrarre circa 7 sono del latte (71%).",
+   "text": "Ogni bottiglia vale 1 GWh su 10. Sommando le sei categorie dello studio, su ogni 10 GWh di calore da sottrarre circa 7 sono del latte (71%).",
+   "cifre_ok": false
+  },
+  {
+   "id": "8030a9f67ac9f090",
+   "ctx": "Il latte: 7 GWh su ogni 10 › p",
+   "orig": "Il pesce, pur di origine animale, richiede meno calore da sottrarre di patate e verdure: il freddo non segue la divisione tra animale e vegetale.",
+   "text": "Il pesce, pur di origine animale, richiede meno calore da sottrarre di patate e verdure: il freddo non segue la divisione tra animale e vegetale.",
+   "cifre_ok": false
+  },
+  {
+   "id": "7720d59a48b4872e",
+   "ctx": "Il latte: 7 GWh su ogni 10 › p",
+   "orig": "Fonte: Evans, Swain e James. I valori indicano il calore da sottrarre durante il raffreddamento primario, non il consumo di elettricità. Sono totali per categoria, non per chilo di alimento, e dipendono da quanto cibo viene lavorato.",
+   "text": "Fonte: Evans, Swain e James. I valori indicano il calore da sottrarre durante il raffreddamento primario, non il consumo di elettricità. Sono totali per categoria, non per chilo di alimento, e dipendono da quanto cibo viene lavorato.",
+   "cifre_ok": false
+  },
+  {
+   "id": "abbd8c7ebb128ed6",
+   "ctx": "Il latte: 7 GWh su ogni 10 › summary",
+   "orig": "Quanto si potrebbe risparmiare?",
+   "text": "Quanto si potrebbe risparmiare?",
+   "cifre_ok": false
+  },
+  {
+   "id": "3bcf972c02f2f2ff",
+   "ctx": "⚠ contiene numeri · Il latte: 7 GWh su ogni 10 › p",
+   "orig": "Con le migliori tecnologie lo studio stima un risparmio di 154 GWh all’anno per le patate, 128 per il latte e 51–80 per la carne.",
+   "text": "Con le migliori tecnologie lo studio stima un risparmio di 154 GWh all’anno per le patate, 128 per il latte e 51–80 per la carne.",
+   "cifre_ok": false
+  },
+  {
+   "id": "68c8e8a580dd2f04",
+   "ctx": "Il latte: 7 GWh su ogni 10 › h2",
+   "orig": "Che cosa va in frigorifero?",
+   "text": "Che cosa va in frigorifero?",
+   "cifre_ok": false
+  },
+  {
+   "id": "20a85bdba2f5226a",
+   "ctx": "Che cosa va in frigorifero? › p",
+   "orig": "Ministero della Salute, «Decalogo» sul frigorifero. Sono tempi massimi consigliati in casa.",
+   "text": "Ministero della Salute, «Decalogo» sul frigorifero. Sono tempi massimi consigliati in casa.",
+   "cifre_ok": false
+  },
+  {
+   "id": "661f43f0a896c583",
+   "ctx": "⚠ contiene numeri · Che cosa va in frigorifero? › h3",
+   "orig": "Quanto dura in frigorifero (zona più fredda, circa 2 °C)",
+   "text": "Quanto dura in frigorifero (zona più fredda, circa 2 °C)",
+   "cifre_ok": false
+  },
+  {
+   "id": "93beba1715224f41",
+   "ctx": "⚠ contiene numeri · Quanto dura in frigorifero (zona più fredda, cir › h3",
+   "orig": "Mesi in congelatore a −18 °C",
+   "text": "Mesi in congelatore a −18 °C",
+   "cifre_ok": false
+  },
+  {
+   "id": "3f6260db3c07ac5f",
+   "ctx": "⚠ contiene numeri · Mesi in congelatore a −18 °C › p",
+   "orig": "Ministero della Salute, FAQ «Conservare gli alimenti col freddo» (13/03/2025).",
+   "text": "Ministero della Salute, FAQ «Conservare gli alimenti col freddo» (13/03/2025).",
+   "cifre_ok": false
+  },
+  {
+   "id": "5d6a607620c6808c",
+   "ctx": "⚠ contiene numeri · Mesi in congelatore a −18 °C › p",
+   "orig": "Per carni e pollame il Ministero indica sotto i 4 °C e al massimo 2–3 giorni in frigorifero (Ministero della Salute, «Precauzioni»).",
+   "text": "Per carni e pollame il Ministero indica sotto i 4 °C e al massimo 2–3 giorni in frigorifero (Ministero della Salute, «Precauzioni»).",
+   "cifre_ok": false
+  },
+  {
+   "id": "13100577e0950313",
+   "ctx": "Mesi in congelatore a −18 °C › h2",
+   "orig": "Che cosa si conserva a secco?",
+   "text": "Che cosa si conserva a secco?",
+   "cifre_ok": false
+  },
+  {
+   "id": "ea86facee12e7571",
+   "ctx": "Che cosa si conserva a secco? › p",
+   "orig": "Pasta, riso, farina e legumi secchi non si rovinano in fretta: stanno in dispensa, in contenitori chiusi, con aria e poca umidità (CREA). Il CREA non dà una durata unica in giorni o mesi.",
+   "text": "Pasta, riso, farina e legumi secchi non si rovinano in fretta: stanno in dispensa, in contenitori chiusi, con aria e poca umidità (CREA). Il CREA non dà una durata unica in giorni o mesi.",
+   "cifre_ok": false
+  },
+  {
+   "id": "6272faa92a30be64",
+   "ctx": "⚠ contiene numeri · Che cosa si conserva a secco? › h3",
+   "orig": "Latte alimentare in Italia, 2024: 3 su 4 sono UHT",
+   "text": "Latte alimentare in Italia, 2024: 3 su 4 sono UHT",
+   "cifre_ok": false
+  },
+  {
+   "id": "473c0b42f25cdeea",
+   "ctx": "⚠ contiene numeri · Latte alimentare in Italia, 2024: 3 su 4 sono UH › p",
+   "orig": "Quote dei volumi. Per valore: 67% UHT e 33% pastorizzato (ASSOLATTE 2025, riportato da CREA, Annuario 2024). Per formaggi stagionati, yogurt e burro non esiste una quota pubblicata tra venduto con e senza frigorifero.",
+   "text": "Quote dei volumi. Per valore: 67% UHT e 33% pastorizzato (ASSOLATTE 2025, riportato da CREA, Annuario 2024). Per formaggi stagionati, yogurt e burro non esiste una quota pubblicata tra venduto con e senza frigorifero.",
+   "cifre_ok": false
+  },
+  {
+   "id": "56b9df742d88b819",
+   "ctx": "Latte alimentare in Italia, 2024: 3 su 4 sono UH › h2",
+   "orig": "Quanto pesa il freddo alimentare?",
+   "text": "Quanto pesa il freddo alimentare?",
+   "cifre_ok": false
+  },
+  {
+   "id": "4b21e6b0e372a93d",
+   "ctx": "⚠ contiene numeri · Quanto pesa il freddo alimentare? › p",
+   "orig": "Il 4% e l’1% hanno perimetri diversi: il 4% include il cibo perso, l’1% no. Sono stime globali, non dati italiani.",
+   "text": "Il 4% e l’1% hanno perimetri diversi: il 4% include il cibo perso, l’1% no. Sono stime globali, non dati italiani.",
+   "cifre_ok": false
+  },
+  {
+   "id": "1a6db206cb03f4f8",
+   "ctx": "Quanto pesa il freddo alimentare? › h3",
+   "orig": "I frigoriferi di casa in Europa",
+   "text": "I frigoriferi di casa in Europa",
+   "cifre_ok": false
+  },
+  {
+   "id": "f0cc7589d853f09b",
+   "ctx": "⚠ contiene numeri · I frigoriferi di casa in Europa › h3",
+   "orig": "Volume raffreddato, UE27, 2020",
+   "text": "Volume raffreddato, UE27, 2020",
+   "cifre_ok": false
+  },
+  {
+   "id": "31349d08c9422c48",
+   "ctx": "⚠ contiene numeri · Volume raffreddato, UE27, 2020 › figcaption",
+   "orig": "Volume raffreddato: 78% refrigerato, 22% congelato",
+   "text": "Volume raffreddato: 78% refrigerato, 22% congelato",
+   "cifre_ok": false
+  },
+  {
+   "id": "41831a05d66f7e52",
+   "ctx": "⚠ contiene numeri · Volume raffreddato, UE27, 2020 › h3",
+   "orig": "Elettricità dei frigoriferi domestici, UE27",
+   "text": "Elettricità dei frigoriferi domestici, UE27",
+   "cifre_ok": false
+  },
+  {
+   "id": "711fe73ac2139cb4",
+   "ctx": "⚠ contiene numeri · Elettricità dei frigoriferi domestici, UE27 › p",
+   "orig": "Stime della Commissione europea (Ecodesign Impact Accounting 2024). ISTAT 2021: frigorifero nel 99,5% delle famiglie italiane, congelatore esterno nel 27,3%. Il consumo elettrico dei soli frigoriferi italiani non è pubblicato nelle fonti consultate.",
+   "text": "Stime della Commissione europea (Ecodesign Impact Accounting 2024). ISTAT 2021: frigorifero nel 99,5% delle famiglie italiane, congelatore esterno nel 27,3%. Il consumo elettrico dei soli frigoriferi italiani non è pubblicato nelle fonti consultate.",
+   "cifre_ok": false
+  },
+  {
+   "id": "576dd30ee07fdc3e",
+   "ctx": "Elettricità dei frigoriferi domestici, UE27 › h2",
+   "orig": "In sintesi: il freddo ha un costo",
+   "text": "In sintesi: il freddo ha un costo",
+   "cifre_ok": false
+  },
+  {
+   "id": "710cecfb454afa8d",
+   "ctx": "⚠ contiene numeri · In sintesi: il freddo ha un costo › p",
+   "orig": "Una parte degli alimenti richiede refrigerazione continua, trasporto a temperatura controllata e frigorifero. Altri, come legumi secchi, pasta e riso, si conservano a temperatura ambiente. Nello studio britannico del 2009 il latte richiede il maggior calore da togliere.",
+   "text": "Una parte degli alimenti richiede refrigerazione continua, trasporto a temperatura controllata e frigorifero. Altri, come legumi secchi, pasta e riso, si conservano a temperatura ambiente. Nello studio britannico del 2009 il latte richiede il maggior calore da togliere.",
+   "cifre_ok": false
+  },
+  {
+   "id": "bda146aa6d8d799b",
+   "ctx": "In sintesi: il freddo ha un costo › p",
+   "orig": "Scegliere più alimenti conservabili a secco può ridurre la dipendenza dalla catena del freddo per una parte della spesa. Quanto questo si traduca in risparmio di energia e di denaro dipende da quantità, produzione, trasformazione, trasporto e conservazione.",
+   "text": "Scegliere più alimenti conservabili a secco può ridurre la dipendenza dalla catena del freddo per una parte della spesa. Quanto questo si traduca in risparmio di energia e di denaro dipende da quantità, produzione, trasformazione, trasporto e conservazione.",
+   "cifre_ok": false
+  },
+  {
+   "id": "09a8e4c25e8e3990",
+   "ctx": "In sintesi: il freddo ha un costo › p",
+   "orig": "Un’ipotesi, non un dato.",
+   "text": "Un’ipotesi, non un dato.",
+   "cifre_ok": false
+  },
+  {
+   "id": "425e1edf7223ed07",
+   "ctx": "⚠ contiene numeri · In sintesi: il freddo ha un costo › p",
+   "orig": "Carne, pesce e latticini freschi sono tra gli alimenti con la durata più breve in frigorifero: da 24 ore a 3 giorni per carni e pesce secondo il Ministero. Una filiera con meno alimenti di questo tipo potrebbe richiedere meno freddo.",
+   "text": "Carne, pesce e latticini freschi sono tra gli alimenti con la durata più breve in frigorifero: da 24 ore a 3 giorni per carni e pesce secondo il Ministero. Una filiera con meno alimenti di questo tipo potrebbe richiedere meno freddo.",
+   "cifre_ok": false
+  },
+  {
+   "id": "3afa96c664cd156f",
+   "ctx": "In sintesi: il freddo ha un costo › p",
+   "orig": "**Nessuna fonte consultata misura quanto.** I dati mostrano anche il contrario in singoli casi: patate e verdure richiedono freddo, il latte UHT e i cereali no.",
+   "text": "**Nessuna fonte consultata misura quanto.** I dati mostrano anche il contrario in singoli casi: patate e verdure richiedono freddo, il latte UHT e i cereali no.",
+   "cifre_ok": false
+  },
+  {
+   "id": "4ffe5957a940c7bb",
+   "ctx": "In sintesi: il freddo ha un costo › h2",
+   "orig": "Limiti e fonti",
+   "text": "Limiti e fonti",
+   "cifre_ok": false
+  },
+  {
+   "id": "60ad57e1ae2a33f9",
+   "ctx": "Limiti e fonti › summary",
+   "orig": "Che cosa i dati non dicono",
+   "text": "Che cosa i dati non dicono",
+   "cifre_ok": false
+  },
+  {
+   "id": "999bb8c60b41f756",
+   "ctx": "Limiti e fonti › li",
+   "orig": "Non esiste un dato italiano sull’elettricità dei frigoriferi domestici, della refrigerazione commerciale, dei magazzini e dei trasporti refrigerati.",
+   "text": "Non esiste un dato italiano sull’elettricità dei frigoriferi domestici, della refrigerazione commerciale, dei magazzini e dei trasporti refrigerati.",
+   "cifre_ok": false
+  },
+  {
+   "id": "46ce8df7e236031e",
+   "ctx": "Limiti e fonti › li",
+   "orig": "Non è stata trovata una ripartizione dell’energia o del volume refrigerato tra alimenti animali e vegetali, né per l’Italia né per l’UE.",
+   "text": "Non è stata trovata una ripartizione dell’energia o del volume refrigerato tra alimenti animali e vegetali, né per l’Italia né per l’UE.",
+   "cifre_ok": false
+  },
+  {
+   "id": "db66aeede0cd41e7",
+   "ctx": "⚠ contiene numeri · Limiti e fonti › li",
+   "orig": "I dati per alimento (Evans et al.) riguardano il Regno Unito nel 2009 e il solo raffreddamento primario.",
+   "text": "I dati per alimento (Evans et al.) riguardano il Regno Unito nel 2009 e il solo raffreddamento primario.",
+   "cifre_ok": false
+  },
+  {
+   "id": "0c6617c38e786d0c",
+   "ctx": "Limiti e fonti › li",
+   "orig": "Uno studio di modellizzazione (Università del Michigan) sul freddo in Africa subsahariana trova emissioni più alte per pesce, carne e verdure (scenario nordamericano) e per pesce, carne e cereali (scenario europeo): è un modello, non un dato italiano.",
+   "text": "Uno studio di modellizzazione (Università del Michigan) sul freddo in Africa subsahariana trova emissioni più alte per pesce, carne e verdure (scenario nordamericano) e per pesce, carne e cereali (scenario europeo): è un modello, non un dato italiano.",
+   "cifre_ok": false
+  },
+  {
+   "id": "3d47c9575f69e02d",
+   "ctx": "⚠ contiene numeri · Limiti e fonti › li",
+   "orig": "Per un confronto completo servirebbero kWh per kg e per 1.000 kcal, a parità di quantità nutrizionale e con confini di filiera omogenei: oggi nessuna fonte li fornisce.",
+   "text": "Per un confronto completo servirebbero kWh per kg e per 1.000 kcal, a parità di quantità nutrizionale e con confini di filiera omogenei: oggi nessuna fonte li fornisce.",
+   "cifre_ok": false
+  },
+  {
+   "id": "bf0abe1fb1cf9b0c",
+   "ctx": "Limiti e fonti › li",
+   "orig": "I valori globali di FAO, UNEP e IPCC sono stime con perimetri diversi.",
+   "text": "I valori globali di FAO, UNEP e IPCC sono stime con perimetri diversi.",
+   "cifre_ok": false
+  },
+  {
+   "id": "42bc87eeb5d767fb",
+   "ctx": "⚠ contiene numeri · Limiti e fonti › p",
+   "orig": "FAO e UNEP (2022); IPCC AR6 WGIII cap. 12; Commissione europea, Fridges and Freezers; ISTAT, Consumi energetici delle famiglie 2021; Evans, Swain e James (2009); Ministero della Salute; CREA; IIR; Lagoeiro et al. (2024). Link completi in [Info e fonti](info.html).",
+   "text": "FAO e UNEP (2022); IPCC AR6 WGIII cap. 12; Commissione europea, Fridges and Freezers; ISTAT, Consumi energetici delle famiglie 2021; Evans, Swain e James (2009); Ministero della Salute; CREA; IIR; Lagoeiro et al. (2024). Link completi in [Info e fonti](info.html).",
+   "cifre_ok": false
+  }
+ ],
+ "orfane": []
+}

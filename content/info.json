@@ -1,0 +1,41 @@
+{
+ "titolo": "Info e fonti",
+ "voci": [
+  {
+   "id": "046500aa71a023db",
+   "ctx": "h1",
+   "orig": "Info e fonti",
+   "text": "Info e fonti",
+   "cifre_ok": false
+  },
+  {
+   "id": "2d6dfdd561fd8b51",
+   "ctx": "⚠ contiene numeri · Info e fonti › p",
+   "orig": "Valore Zer0 mostra quanti animali allevati in Italia vengono uccisi per mano umana, con il ritmo medio di 12 mesi di dati. Ogni pagina indica se il dato è ufficiale, riportato da terzi, di un'associazione, una stima o un dato di massa.",
+   "text": "Valore Zer0 mostra quanti animali allevati in Italia vengono uccisi per mano umana, con il ritmo medio di 12 mesi di dati. Ogni pagina indica se il dato è ufficiale, riportato da terzi, di un'associazione, una stima o un dato di massa.",
+   "cifre_ok": false
+  },
+  {
+   "id": "b777f7770b78e153",
+   "ctx": "⚠ contiene numeri · Info e fonti › p",
+   "orig": "I dati ISTAT di macellazione usati sono i capi macellati da agosto 2025 a luglio 2026 (365 giorni, 31.536.000 secondi). I mesi più recenti possono essere rivisti da ISTAT. Pesci e molluschi sono dati 2023 in peso. Le percentuali e i confronti per cittadino si calcolano su 58.943.000 residenti (ISTAT, 1° gennaio 2026, provvisorio).",
+   "text": "I dati ISTAT di macellazione usati sono i capi macellati da agosto 2025 a luglio 2026 (365 giorni, 31.536.000 secondi). I mesi più recenti possono essere rivisti da ISTAT. Pesci e molluschi sono dati 2023 in peso. Le percentuali e i confronti per cittadino si calcolano su 58.943.000 residenti (ISTAT, 1° gennaio 2026, provvisorio).",
+   "cifre_ok": false
+  },
+  {
+   "id": "88b76628743eca76",
+   "ctx": "Info e fonti › h2",
+   "orig": "Fonti",
+   "text": "Fonti",
+   "cifre_ok": false
+  },
+  {
+   "id": "059dd47ef5545f11",
+   "ctx": "⚠ contiene numeri · Fonti › p",
+   "orig": "Dati consultati tra il 15 e il 18/10/2026. I siti ISTAT e ISMEA non erano raggiungibili dagli strumenti di ricerca: i file ISTAT e ISMEA sono stati forniti dall'utente. Prima di usare il sito in aula si consiglia di confermare le cifre sulle tabelle primarie.",
+   "text": "Dati consultati tra il 15 e il 18/10/2026. I siti ISTAT e ISMEA non erano raggiungibili dagli strumenti di ricerca: i file ISTAT e ISMEA sono stati forniti dall'utente. Prima di usare il sito in aula si consiglia di confermare le cifre sulle tabelle primarie.",
+   "cifre_ok": false
+  }
+ ],
+ "orfane": []
+}

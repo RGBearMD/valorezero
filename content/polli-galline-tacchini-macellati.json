@@ -1,0 +1,447 @@
+{
+ "titolo": "Polli e galline (totale)",
+ "voci": [
+  {
+   "id": "08967d72bd608fdf",
+   "ctx": "h1",
+   "orig": "Polli e galline (totale)",
+   "text": "Polli e galline (totale)",
+   "cifre_ok": false
+  },
+  {
+   "id": "eedd4ca2299c44d2",
+   "ctx": "Impiego › p",
+   "orig": "Carne di pollo (petti, cosce, spiedini), hamburger, nuggets, polpette, wurstel e affettati di pollo; galline a fine carriera per brodo, ripieni e preparazioni industriali.",
+   "text": "Carne di pollo (petti, cosce, spiedini), hamburger, nuggets, polpette, wurstel e affettati di pollo; galline a fine carriera per brodo, ripieni e preparazioni industriali.",
+   "cifre_ok": false
+  },
+  {
+   "id": "16ff5f29b7d1d244",
+   "ctx": "⚠ contiene numeri · Animali uccisi per cittadino › dd",
+   "orig": "636.574.567 (ago 2025–lug 2026)",
+   "text": "636.574.567 (ago 2025–lug 2026)",
+   "cifre_ok": false
+  },
+  {
+   "id": "131067a4ab95e6db",
+   "ctx": "⚠ contiene numeri · Animali uccisi per cittadino › dd",
+   "orig": "Carcassa 2,0 kg · vivo 2,9 kg · resa 68,4%",
+   "text": "Carcassa 2,0 kg · vivo 2,9 kg · resa 68,4%",
+   "cifre_ok": false
+  },
+  {
+   "id": "7ebd8ebf2b80fbfa",
+   "ctx": "Animali uccisi per cittadino › p",
+   "orig": "ISTAT «totale polli e galline»: polli da carne, galline da uova e galline da riproduzione.",
+   "text": "ISTAT «totale polli e galline»: polli da carne, galline da uova e galline da riproduzione.",
+   "cifre_ok": false
+  },
+  {
+   "id": "31e346da82a48c24",
+   "ctx": "⚠ contiene numeri · Animali uccisi per cittadino › p",
+   "orig": "Abbattimenti per influenza aviaria: oltre 7,5 milioni di avicoli da marzo 2024 a marzo 2026, 150 focolai, tutte le specie (Greenpeace Italia, riportato da terzi). Non inclusi nel contatore.",
+   "text": "Abbattimenti per influenza aviaria: oltre 7,5 milioni di avicoli da marzo 2024 a marzo 2026, 150 focolai, tutte le specie (Greenpeace Italia, riportato da terzi). Non inclusi nel contatore.",
+   "cifre_ok": false
+  },
+  {
+   "id": "68fff3f26214f8bd",
+   "ctx": "Animali uccisi per cittadino › h2",
+   "orig": "Polli, galline, tacchini e altri uccelli: tutte le categorie",
+   "text": "Polli, galline, tacchini e altri uccelli: tutte le categorie",
+   "cifre_ok": false
+  },
+  {
+   "id": "c4263149451102bb",
+   "ctx": "⚠ contiene numeri · Definizioni › dt",
+   "orig": "Polli da carne sotto i 2 kg",
+   "text": "Polli da carne sotto i 2 kg",
+   "cifre_ok": false
+  },
+  {
+   "id": "84abfc59e6a08e10",
+   "ctx": "⚠ contiene numeri · Definizioni › dd",
+   "orig": "ISTAT «polli da carne minori di 2 kg».",
+   "text": "ISTAT «polli da carne minori di 2 kg».",
+   "cifre_ok": false
+  },
+  {
+   "id": "7d27ac46aa87fcf5",
+   "ctx": "⚠ contiene numeri · Definizioni › dt",
+   "orig": "Polli da carne sopra i 2 kg",
+   "text": "Polli da carne sopra i 2 kg",
+   "cifre_ok": false
+  },
+  {
+   "id": "9549e8fbc6af8a8a",
+   "ctx": "⚠ contiene numeri · Definizioni › dd",
+   "orig": "ISTAT «polli da carne maggiori di 2 kg».",
+   "text": "ISTAT «polli da carne maggiori di 2 kg».",
+   "cifre_ok": false
+  },
+  {
+   "id": "ed2718cc2b4e3b9c",
+   "ctx": "Definizioni › dt",
+   "orig": "Galline da uova",
+   "text": "Galline da uova",
+   "cifre_ok": false
+  },
+  {
+   "id": "23d2573ea5ed31d0",
+   "ctx": "⚠ contiene numeri · Definizioni › dd",
+   "orig": "ISTAT «galline da uova»: galline a fine ciclo avviate al macello. Gli abbattimenti sanitari fuori macello non sono in questo dato. La cifra di 17,4 milioni, che circola in fonti secondarie, non è stata ritrovata e non è usata.",
+   "text": "ISTAT «galline da uova»: galline a fine ciclo avviate al macello. Gli abbattimenti sanitari fuori macello non sono in questo dato. La cifra di 17,4 milioni, che circola in fonti secondarie, non è stata ritrovata e non è usata.",
+   "cifre_ok": false
+  },
+  {
+   "id": "35afeb5df218582c",
+   "ctx": "Definizioni › dt",
+   "orig": "Galline da riproduzione",
+   "text": "Galline da riproduzione",
+   "cifre_ok": false
+  },
+  {
+   "id": "e9f464cd4f550e27",
+   "ctx": "Definizioni › dd",
+   "orig": "ISTAT «galline da riproduzione».",
+   "text": "ISTAT «galline da riproduzione».",
+   "cifre_ok": false
+  },
+  {
+   "id": "c7c0b0469eac3ea8",
+   "ctx": "Definizioni › dt",
+   "orig": "Tacchini",
+   "text": "Tacchini",
+   "cifre_ok": false
+  },
+  {
+   "id": "27bd5fb4ed212fb5",
+   "ctx": "⚠ contiene numeri · Definizioni › dd",
+   "orig": "ISTAT «tacchini»: maschi da carne 11.916.044, femmine da carne 11.699.398, da riproduzione 326.625.",
+   "text": "ISTAT «tacchini»: maschi da carne 11.916.044, femmine da carne 11.699.398, da riproduzione 326.625.",
+   "cifre_ok": false
+  },
+  {
+   "id": "738cd633f412eaf4",
+   "ctx": "Definizioni › dt",
+   "orig": "Quaglie",
+   "text": "Quaglie",
+   "cifre_ok": false
+  },
+  {
+   "id": "4bf1207eab7bded9",
+   "ctx": "Definizioni › dd",
+   "orig": "ISTAT «quaglie».",
+   "text": "ISTAT «quaglie».",
+   "cifre_ok": false
+  },
+  {
+   "id": "80a2203520528f7a",
+   "ctx": "Definizioni › dt",
+   "orig": "Piccioni",
+   "text": "Piccioni",
+   "cifre_ok": false
+  },
+  {
+   "id": "2784bcc740259e7e",
+   "ctx": "Definizioni › dd",
+   "orig": "ISTAT «piccioni».",
+   "text": "ISTAT «piccioni».",
+   "cifre_ok": false
+  },
+  {
+   "id": "b5207ca888939742",
+   "ctx": "Definizioni › dt",
+   "orig": "Faraone",
+   "text": "Faraone",
+   "cifre_ok": false
+  },
+  {
+   "id": "4d76deb908ebb377",
+   "ctx": "Definizioni › dd",
+   "orig": "ISTAT «faraone».",
+   "text": "ISTAT «faraone».",
+   "cifre_ok": false
+  },
+  {
+   "id": "418a44b680927bd3",
+   "ctx": "Definizioni › dt",
+   "orig": "Anatre",
+   "text": "Anatre",
+   "cifre_ok": false
+  },
+  {
+   "id": "505116998baa9648",
+   "ctx": "Definizioni › dd",
+   "orig": "ISTAT «anatre».",
+   "text": "ISTAT «anatre».",
+   "cifre_ok": false
+  },
+  {
+   "id": "efa72fcacce40743",
+   "ctx": "Definizioni › dt",
+   "orig": "Pulcini maschi di linea ovaiola",
+   "text": "Pulcini maschi di linea ovaiola",
+   "cifre_ok": false
+  },
+  {
+   "id": "d471cc252200ec39",
+   "ctx": "Definizioni › dd",
+   "orig": "Stime di terzi, anno e metodo non verificati. Non esiste un dato ufficiale nazionale. Scegli una stima: il contatore si adatta.",
+   "text": "Stime di terzi, anno e metodo non verificati. Non esiste un dato ufficiale nazionale. Scegli una stima: il contatore si adatta.",
+   "cifre_ok": false
+  },
+  {
+   "id": "34a07cb9be991a7f",
+   "ctx": "Impiego › p",
+   "orig": "Polli giovani, venduti interi o a pezzi.",
+   "text": "Polli giovani, venduti interi o a pezzi.",
+   "cifre_ok": false
+  },
+  {
+   "id": "1c8f34a4eb51a409",
+   "ctx": "⚠ contiene numeri · Animali uccisi per cittadino › dd",
+   "orig": "182.255.488 (ago 2025–lug 2026)",
+   "text": "182.255.488 (ago 2025–lug 2026)",
+   "cifre_ok": false
+  },
+  {
+   "id": "41a9698fffb9b53c",
+   "ctx": "⚠ contiene numeri · Animali uccisi per cittadino › dd",
+   "orig": "Carcassa 1,1 kg · vivo 1,5 kg · resa 68,2%",
+   "text": "Carcassa 1,1 kg · vivo 1,5 kg · resa 68,2%",
+   "cifre_ok": false
+  },
+  {
+   "id": "97721eadebd7d927",
+   "ctx": "Animali uccisi per cittadino › p",
+   "orig": "Compreso nel totale «Polli e galline (totale)». Le categorie non si sommano.",
+   "text": "Compreso nel totale «Polli e galline (totale)». Le categorie non si sommano.",
+   "cifre_ok": false
+  },
+  {
+   "id": "eb33b21c90a91ef0",
+   "ctx": "Impiego › p",
+   "orig": "Polli più pesanti, venduti in tagli (petti, cosce) e trasformati in hamburger, nuggets e cotolette.",
+   "text": "Polli più pesanti, venduti in tagli (petti, cosce) e trasformati in hamburger, nuggets e cotolette.",
+   "cifre_ok": false
+  },
+  {
+   "id": "3dee9bfe9bce1e86",
+   "ctx": "⚠ contiene numeri · Animali uccisi per cittadino › dd",
+   "orig": "427.744.255 (ago 2025–lug 2026)",
+   "text": "427.744.255 (ago 2025–lug 2026)",
+   "cifre_ok": false
+  },
+  {
+   "id": "d785fa4bd8350e2b",
+   "ctx": "⚠ contiene numeri · Animali uccisi per cittadino › dd",
+   "orig": "Carcassa 2,3 kg · vivo 3,4 kg · resa 68,5%",
+   "text": "Carcassa 2,3 kg · vivo 3,4 kg · resa 68,5%",
+   "cifre_ok": false
+  },
+  {
+   "id": "e2e2f0a5fe22c07e",
+   "ctx": "Impiego › p",
+   "orig": "Uova da consumo e ovoprodotti (tuorlo e albume per pasta, dolci, maionese). A fine ciclo la gallina è macellata: carne per brodo, ripieni e preparazioni industriali.",
+   "text": "Uova da consumo e ovoprodotti (tuorlo e albume per pasta, dolci, maionese). A fine ciclo la gallina è macellata: carne per brodo, ripieni e preparazioni industriali.",
+   "cifre_ok": false
+  },
+  {
+   "id": "4cde127e0f442bd8",
+   "ctx": "Perché › p",
+   "orig": "Una gallina ovaiola produce uova per un periodo limitato, poi la produzione cala e l'allevamento la sostituisce. A fine ciclo è avviata alla macellazione (la «riforma»). Una seconda causa è l'abbattimento sanitario in caso di focolaio, per esempio di influenza aviaria.",
+   "text": "Una gallina ovaiola produce uova per un periodo limitato, poi la produzione cala e l'allevamento la sostituisce. A fine ciclo è avviata alla macellazione (la «riforma»). Una seconda causa è l'abbattimento sanitario in caso di focolaio, per esempio di influenza aviaria.",
+   "cifre_ok": false
+  },
+  {
+   "id": "7807f662e5f35222",
+   "ctx": "⚠ contiene numeri · Perché › dd",
+   "orig": "22.223.619 (ago 2025–lug 2026)",
+   "text": "22.223.619 (ago 2025–lug 2026)",
+   "cifre_ok": false
+  },
+  {
+   "id": "99f1032fd54265bb",
+   "ctx": "⚠ contiene numeri · Perché › dd",
+   "orig": "Carcassa 1,7 kg · vivo 2,6 kg · resa 67,3%",
+   "text": "Carcassa 1,7 kg · vivo 2,6 kg · resa 67,3%",
+   "cifre_ok": false
+  },
+  {
+   "id": "44e942209f378d56",
+   "ctx": "Impiego › p",
+   "orig": "Producono le uova da cui nascono i polli da carne e le future ovaiole; a fine carriera sono macellate.",
+   "text": "Producono le uova da cui nascono i polli da carne e le future ovaiole; a fine carriera sono macellate.",
+   "cifre_ok": false
+  },
+  {
+   "id": "141142c6d245fc68",
+   "ctx": "⚠ contiene numeri · Animali uccisi per cittadino › dd",
+   "orig": "4.351.205 (ago 2025–lug 2026)",
+   "text": "4.351.205 (ago 2025–lug 2026)",
+   "cifre_ok": false
+  },
+  {
+   "id": "6da2e44505ccdcca",
+   "ctx": "⚠ contiene numeri · Animali uccisi per cittadino › dd",
+   "orig": "Carcassa 2,4 kg · vivo 3,5 kg · resa 67,2%",
+   "text": "Carcassa 2,4 kg · vivo 3,5 kg · resa 67,2%",
+   "cifre_ok": false
+  },
+  {
+   "id": "a916d2a1585420b3",
+   "ctx": "Impiego › p",
+   "orig": "Carne di tacchino (fesa, cosce), hamburger, polpette, affettati e salsicce.",
+   "text": "Carne di tacchino (fesa, cosce), hamburger, polpette, affettati e salsicce.",
+   "cifre_ok": false
+  },
+  {
+   "id": "2bb2c8afd415f4da",
+   "ctx": "⚠ contiene numeri · Animali uccisi per cittadino › dd",
+   "orig": "23.942.067 (ago 2025–lug 2026)",
+   "text": "23.942.067 (ago 2025–lug 2026)",
+   "cifre_ok": false
+  },
+  {
+   "id": "52efec8b05309592",
+   "ctx": "⚠ contiene numeri · Animali uccisi per cittadino › dd",
+   "orig": "Carcassa 10 kg · vivo 14 kg · resa 73,4%",
+   "text": "Carcassa 10 kg · vivo 14 kg · resa 73,4%",
+   "cifre_ok": false
+  },
+  {
+   "id": "feeee79f34453ab3",
+   "ctx": "Impiego › p",
+   "orig": "Carne di quaglia, venduta intera; si allevano anche per le uova.",
+   "text": "Carne di quaglia, venduta intera; si allevano anche per le uova.",
+   "cifre_ok": false
+  },
+  {
+   "id": "dd8443f289855bde",
+   "ctx": "⚠ contiene numeri · Animali uccisi per cittadino › dd",
+   "orig": "7.676.600 (ago 2025–lug 2026)",
+   "text": "7.676.600 (ago 2025–lug 2026)",
+   "cifre_ok": false
+  },
+  {
+   "id": "4c545fe3a3ed29bd",
+   "ctx": "⚠ contiene numeri · Animali uccisi per cittadino › dd",
+   "orig": "Carcassa 0,14 kg · vivo 0,21 kg · resa 69,0%",
+   "text": "Carcassa 0,14 kg · vivo 0,21 kg · resa 69,0%",
+   "cifre_ok": false
+  },
+  {
+   "id": "de510713c8c85955",
+   "ctx": "Impiego › p",
+   "orig": "Carne di piccione, venduta intera, soprattutto per la ristorazione.",
+   "text": "Carne di piccione, venduta intera, soprattutto per la ristorazione.",
+   "cifre_ok": false
+  },
+  {
+   "id": "50aa8c9a5c03ecb9",
+   "ctx": "⚠ contiene numeri · Animali uccisi per cittadino › dd",
+   "orig": "37.438 (ago 2025–lug 2026)",
+   "text": "37.438 (ago 2025–lug 2026)",
+   "cifre_ok": false
+  },
+  {
+   "id": "d02f8b40ab798472",
+   "ctx": "⚠ contiene numeri · Animali uccisi per cittadino › dd",
+   "orig": "Carcassa 0,38 kg · vivo 0,52 kg · resa 72,9%",
+   "text": "Carcassa 0,38 kg · vivo 0,52 kg · resa 72,9%",
+   "cifre_ok": false
+  },
+  {
+   "id": "fcc90c98dfbc4ee7",
+   "ctx": "Impiego › p",
+   "orig": "Carne di faraona, venduta intera o a pezzi.",
+   "text": "Carne di faraona, venduta intera o a pezzi.",
+   "cifre_ok": false
+  },
+  {
+   "id": "770d2ac68a871018",
+   "ctx": "⚠ contiene numeri · Animali uccisi per cittadino › dd",
+   "orig": "3.145.563 (ago 2025–lug 2026)",
+   "text": "3.145.563 (ago 2025–lug 2026)",
+   "cifre_ok": false
+  },
+  {
+   "id": "96d52c153f976d06",
+   "ctx": "⚠ contiene numeri · Animali uccisi per cittadino › dd",
+   "orig": "Carcassa 1,7 kg · vivo 2,2 kg · resa 73,5%",
+   "text": "Carcassa 1,7 kg · vivo 2,2 kg · resa 73,5%",
+   "cifre_ok": false
+  },
+  {
+   "id": "7e353ada2de4fa29",
+   "ctx": "Impiego › p",
+   "orig": "Carne di anatra (petto, cosce) e fegato grasso.",
+   "text": "Carne di anatra (petto, cosce) e fegato grasso.",
+   "cifre_ok": false
+  },
+  {
+   "id": "c29047218a7fcf41",
+   "ctx": "⚠ contiene numeri · Animali uccisi per cittadino › dd",
+   "orig": "1.191.412 (ago 2025–lug 2026)",
+   "text": "1.191.412 (ago 2025–lug 2026)",
+   "cifre_ok": false
+  },
+  {
+   "id": "7589856f13e0dfd0",
+   "ctx": "⚠ contiene numeri · Animali uccisi per cittadino › dd",
+   "orig": "Carcassa 2,2 kg · vivo 3,2 kg · resa 69,0%",
+   "text": "Carcassa 2,2 kg · vivo 3,2 kg · resa 69,0%",
+   "cifre_ok": false
+  },
+  {
+   "id": "09fb08fb53f11465",
+   "ctx": "Impiego › p",
+   "orig": "Non sono un alimento: i pulcini maschi delle linee ovaiole non producono uova e non sono selezionati per la carne. In alcuni casi sono usati come alimento per rapaci e rettili.",
+   "text": "Non sono un alimento: i pulcini maschi delle linee ovaiole non producono uova e non sono selezionati per la carne. In alcuni casi sono usati come alimento per rapaci e rettili.",
+   "cifre_ok": false
+  },
+  {
+   "id": "89ebc8d66dba1bc6",
+   "ctx": "⚠ contiene numeri · Animali uccisi per cittadino › p",
+   "orig": "Popolazione: 58.943.000 residenti, ISTAT al 1° gennaio 2026 (dato provvisorio). Totale degli animali su 12 mesi.",
+   "text": "Popolazione: 58.943.000 residenti, ISTAT al 1° gennaio 2026 (dato provvisorio). Totale degli animali su 12 mesi.",
+   "cifre_ok": false
+  },
+  {
+   "id": "e63be9e97eb33bb9",
+   "ctx": "⚠ contiene numeri · Perché › p",
+   "orig": "I pulcini maschi delle linee selezionate per le uova non producono uova e non sono selezionati per la carne. Finora sono stati eliminati poco dopo la schiusa, di norma entro le prime 24 ore, con gassificazione o con macerazione. Il D.Lgs. 7 dicembre 2023, n. 205 (art. 3) vieta l'abbattimento selettivo dal 31 dicembre 2026 e fissa la stessa data per il divieto di triturazione. Alternative documentate: determinazione del sesso nell'uovo e linee a duplice attitudine.",
+   "text": "I pulcini maschi delle linee selezionate per le uova non producono uova e non sono selezionati per la carne. Finora sono stati eliminati poco dopo la schiusa, di norma entro le prime 24 ore, con gassificazione o con macerazione. Il D.Lgs. 7 dicembre 2023, n. 205 (art. 3) vieta l'abbattimento selettivo dal 31 dicembre 2026 e fissa la stessa data per il divieto di triturazione. Alternative documentate: determinazione del sesso nell'uovo e linee a duplice attitudine.",
+   "cifre_ok": false
+  },
+  {
+   "id": "86dc9493682cae1f",
+   "ctx": "⚠ contiene numeri · Perché › p",
+   "orig": "Giorni al 31/12/2026, data di decorrenza del divieto: 41.",
+   "text": "Giorni al 31/12/2026, data di decorrenza del divieto: 41.",
+   "cifre_ok": false
+  },
+  {
+   "id": "6e7667bcf4160f27",
+   "ctx": "Perché › dd",
+   "orig": "Eliminazione alla schiusa",
+   "text": "Eliminazione alla schiusa",
+   "cifre_ok": false
+  },
+  {
+   "id": "10923d2df0ff51c1",
+   "ctx": "⚠ contiene numeri · Perché › dd",
+   "orig": "30.000.000 (media su 365 giorni)",
+   "text": "30.000.000 (media su 365 giorni)",
+   "cifre_ok": false
+  },
+  {
+   "id": "42d8e28bd4611e9c",
+   "ctx": "Perché › dd",
+   "orig": "Stime di terzi (giornalistiche e di associazione)",
+   "text": "Stime di terzi (giornalistiche e di associazione)",
+   "cifre_ok": false
+  }
+ ],
+ "orfane": []
+}

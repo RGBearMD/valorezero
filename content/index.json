@@ -1,0 +1,76 @@
+{
+ "titolo": "Li uccidiamo a milioni. E li chiamiamo numeri.",
+ "voci": [
+  {
+   "id": "36919664df246172",
+   "ctx": "h1",
+   "orig": "Li uccidiamo a milioni. E li chiamiamo numeri.",
+   "text": "Li uccidiamo a milioni. E li chiamiamo numeri.",
+   "cifre_ok": false
+  },
+  {
+   "id": "410d0bd418fcd8f0",
+   "ctx": "Li uccidiamo a milioni. E li chiamiamo numeri. › p",
+   "orig": "Le loro vite diventano merce.",
+   "text": "Le loro vite diventano merce.",
+   "cifre_ok": false
+  },
+  {
+   "id": "b1527981670cc86e",
+   "ctx": "Li uccidiamo a milioni. E li chiamiamo numeri. › p",
+   "orig": "La loro sofferenza, un costo.",
+   "text": "La loro sofferenza, un costo.",
+   "cifre_ok": false
+  },
+  {
+   "id": "f07be61a0c48f327",
+   "ctx": "Li uccidiamo a milioni. E li chiamiamo numeri. › p",
+   "orig": "La loro morte, profitto.",
+   "text": "La loro morte, profitto.",
+   "cifre_ok": false
+  },
+  {
+   "id": "5d07a94bf6494dcc",
+   "ctx": "Li uccidiamo a milioni. E li chiamiamo numeri. › p",
+   "orig": "Il loro valore è zero. Non perché non valgano nulla, ma perché li trattiamo come oggetti, merci, commodities.",
+   "text": "Il loro valore è zero. Non perché non valgano nulla, ma perché li trattiamo come oggetti, merci, commodities.",
+   "cifre_ok": false
+  },
+  {
+   "id": "5a96c3a94167ee9b",
+   "ctx": "⚠ contiene numeri · Li uccidiamo a milioni. E li chiamiamo numeri. › p",
+   "orig": "[Che cos'è Valore Zer0](che-cose.html)",
+   "text": "[Che cos'è Valore Zer0](che-cose.html)",
+   "cifre_ok": false
+  },
+  {
+   "id": "d3fe75b37d32fe5b",
+   "ctx": "Li uccidiamo a milioni. E li chiamiamo numeri. › h2",
+   "orig": "Vite animali nella filiera dei prodotti animali",
+   "text": "Vite animali nella filiera dei prodotti animali",
+   "cifre_ok": false
+  },
+  {
+   "id": "b55b86a3d792a6d9",
+   "ctx": "Vite animali nella filiera dei prodotti animali › p",
+   "orig": "(conteggio a partire dall'apertura della pagina)",
+   "text": "(conteggio a partire dall'apertura della pagina)",
+   "cifre_ok": false
+  },
+  {
+   "id": "d4e30d1b0b28b3a8",
+   "ctx": "⚠ contiene numeri · Vite animali nella filiera dei prodotti animali › p",
+   "orig": "Ogni contatore divide il totale di 12 mesi per i secondi dell'anno: è una media, non un conteggio in tempo reale. Le categorie non si sommano. Nel caso di pesci e molluschi i dati fanno riferimento a kg e non a singoli animali.",
+   "text": "Ogni contatore divide il totale di 12 mesi per i secondi dell'anno: è una media, non un conteggio in tempo reale. Le categorie non si sommano. Nel caso di pesci e molluschi i dati fanno riferimento a kg e non a singoli animali.",
+   "cifre_ok": false
+  },
+  {
+   "id": "3a1d200fa1316cd0",
+   "ctx": "Vite animali nella filiera dei prodotti animali › h2",
+   "orig": "Approfondimenti",
+   "text": "Approfondimenti",
+   "cifre_ok": false
+  }
+ ],
+ "orfane": []
+}

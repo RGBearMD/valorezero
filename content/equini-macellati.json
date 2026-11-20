@@ -1,0 +1,167 @@
+{
+ "titolo": "Equini (totale)",
+ "voci": [
+  {
+   "id": "d0c5928de99f5d26",
+   "ctx": "h1",
+   "orig": "Equini (totale)",
+   "text": "Equini (totale)",
+   "cifre_ok": false
+  },
+  {
+   "id": "0744d48a6d91b822",
+   "ctx": "Impiego › p",
+   "orig": "Carne equina, fresca o in preparazioni (macinato, salumi). Si macellano anche cavalli a fine carriera sportiva o da lavoro, se idonei.",
+   "text": "Carne equina, fresca o in preparazioni (macinato, salumi). Si macellano anche cavalli a fine carriera sportiva o da lavoro, se idonei.",
+   "cifre_ok": false
+  },
+  {
+   "id": "c02d377990613a09",
+   "ctx": "⚠ contiene numeri · Animali uccisi per cittadino › dd",
+   "orig": "19.374 (ago 2025–lug 2026)",
+   "text": "19.374 (ago 2025–lug 2026)",
+   "cifre_ok": false
+  },
+  {
+   "id": "9b84c431f65494c2",
+   "ctx": "⚠ contiene numeri · Animali uccisi per cittadino › dd",
+   "orig": "Carcassa 257 kg · vivo 477 kg · resa 53,9%",
+   "text": "Carcassa 257 kg · vivo 477 kg · resa 53,9%",
+   "cifre_ok": false
+  },
+  {
+   "id": "e99ec2ce257c48a0",
+   "ctx": "Animali uccisi per cittadino › p",
+   "orig": "ISTAT «totale equini»: cavalli, asini, muli e bardotti. La macellazione alimentare richiede la qualifica DPA e l'idoneità legale; un cavallo ritirato dallo sport non è destinato automaticamente al macello.",
+   "text": "ISTAT «totale equini»: cavalli, asini, muli e bardotti. La macellazione alimentare richiede la qualifica DPA e l'idoneità legale; un cavallo ritirato dallo sport non è destinato automaticamente al macello.",
+   "cifre_ok": false
+  },
+  {
+   "id": "05faed7a4caca1e0",
+   "ctx": "⚠ contiene numeri · Animali uccisi per cittadino › p",
+   "orig": "Altre cifre del 2024 con perimetri diversi: Eurostat 23.790 equidi, BDN 10.156 cavalli, Vetinfo circa 17.000. Non sono alternative a questo dato.",
+   "text": "Altre cifre del 2024 con perimetri diversi: Eurostat 23.790 equidi, BDN 10.156 cavalli, Vetinfo circa 17.000. Non sono alternative a questo dato.",
+   "cifre_ok": false
+  },
+  {
+   "id": "2efa6236cb493b98",
+   "ctx": "Animali uccisi per cittadino › h2",
+   "orig": "Equini: tutte le categorie",
+   "text": "Equini: tutte le categorie",
+   "cifre_ok": false
+  },
+  {
+   "id": "8653e288345fac54",
+   "ctx": "Definizioni › dt",
+   "orig": "Cavalli",
+   "text": "Cavalli",
+   "cifre_ok": false
+  },
+  {
+   "id": "a9414e1294dbbc4d",
+   "ctx": "Definizioni › dd",
+   "orig": "ISTAT «cavalli».",
+   "text": "ISTAT «cavalli».",
+   "cifre_ok": false
+  },
+  {
+   "id": "791ee061c8fc3a88",
+   "ctx": "Definizioni › dt",
+   "orig": "Asini",
+   "text": "Asini",
+   "cifre_ok": false
+  },
+  {
+   "id": "c6a2e8562a040d94",
+   "ctx": "Definizioni › dd",
+   "orig": "ISTAT «asini».",
+   "text": "ISTAT «asini».",
+   "cifre_ok": false
+  },
+  {
+   "id": "f88664d844ec5cda",
+   "ctx": "Definizioni › dt",
+   "orig": "Muli e bardotti",
+   "text": "Muli e bardotti",
+   "cifre_ok": false
+  },
+  {
+   "id": "681544b917dac0e9",
+   "ctx": "Definizioni › dd",
+   "orig": "ISTAT «muli e bardotti».",
+   "text": "ISTAT «muli e bardotti».",
+   "cifre_ok": false
+  },
+  {
+   "id": "e77dcc7f5a92c12b",
+   "ctx": "Impiego › p",
+   "orig": "Carne di cavallo, fresca o in preparazioni come macinato e salumi.",
+   "text": "Carne di cavallo, fresca o in preparazioni come macinato e salumi.",
+   "cifre_ok": false
+  },
+  {
+   "id": "d5d113bd05a64576",
+   "ctx": "⚠ contiene numeri · Animali uccisi per cittadino › dd",
+   "orig": "16.536 (ago 2025–lug 2026)",
+   "text": "16.536 (ago 2025–lug 2026)",
+   "cifre_ok": false
+  },
+  {
+   "id": "a81b6f679dd6b75f",
+   "ctx": "⚠ contiene numeri · Animali uccisi per cittadino › dd",
+   "orig": "Carcassa 274 kg · vivo 506 kg · resa 54,2%",
+   "text": "Carcassa 274 kg · vivo 506 kg · resa 54,2%",
+   "cifre_ok": false
+  },
+  {
+   "id": "05653e12ef6dd3ca",
+   "ctx": "Animali uccisi per cittadino › p",
+   "orig": "Compreso nel totale «Equini (totale)». Le categorie non si sommano.",
+   "text": "Compreso nel totale «Equini (totale)». Le categorie non si sommano.",
+   "cifre_ok": false
+  },
+  {
+   "id": "07813c2337d72045",
+   "ctx": "Impiego › p",
+   "orig": "Carne d'asino, in alcune zone in stufati e salumi.",
+   "text": "Carne d'asino, in alcune zone in stufati e salumi.",
+   "cifre_ok": false
+  },
+  {
+   "id": "62361a1c99301a03",
+   "ctx": "⚠ contiene numeri · Animali uccisi per cittadino › dd",
+   "orig": "2062 (ago 2025–lug 2026)",
+   "text": "2062 (ago 2025–lug 2026)",
+   "cifre_ok": false
+  },
+  {
+   "id": "94e24a2eb106efdb",
+   "ctx": "⚠ contiene numeri · Animali uccisi per cittadino › dd",
+   "orig": "Carcassa 128 kg · vivo 244 kg · resa 52,2%",
+   "text": "Carcassa 128 kg · vivo 244 kg · resa 52,2%",
+   "cifre_ok": false
+  },
+  {
+   "id": "269a747deb42dc59",
+   "ctx": "Impiego › p",
+   "orig": "Carne di mulo e di bardotto, uso limitato.",
+   "text": "Carne di mulo e di bardotto, uso limitato.",
+   "cifre_ok": false
+  },
+  {
+   "id": "261175de603a9ea5",
+   "ctx": "⚠ contiene numeri · Animali uccisi per cittadino › dd",
+   "orig": "776 (ago 2025–lug 2026)",
+   "text": "776 (ago 2025–lug 2026)",
+   "cifre_ok": false
+  },
+  {
+   "id": "2887108377119802",
+   "ctx": "⚠ contiene numeri · Animali uccisi per cittadino › dd",
+   "orig": "Carcassa 252 kg · vivo 497 kg · resa 50,8%",
+   "text": "Carcassa 252 kg · vivo 497 kg · resa 50,8%",
+   "cifre_ok": false
+  }
+ ],
+ "orfane": []
+}

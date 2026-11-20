@@ -1,0 +1,153 @@
+{
+ "titolo": "La quota dei mammiferi selvatici è passata da circa il 50% a circa il 5%",
+ "voci": [
+  {
+   "id": "4b28a5de4aebad12",
+   "ctx": "⚠ contiene numeri · h1",
+   "orig": "La quota dei mammiferi selvatici è passata da circa il 50% a circa il 5%",
+   "text": "La quota dei mammiferi selvatici è passata da circa il 50% a circa il 5%",
+   "cifre_ok": false
+  },
+  {
+   "id": "beda3ce171f96906",
+   "ctx": "⚠ contiene numeri · La quota dei mammiferi selvatici è passata da ci › p",
+   "orig": "è la quota dei mammiferi selvatici sulla biomassa dei mammiferi. Umani e mammiferi domestici sono circa il 95%.",
+   "text": "è la quota dei mammiferi selvatici sulla biomassa dei mammiferi. Umani e mammiferi domestici sono circa il 95%.",
+   "cifre_ok": false
+  },
+  {
+   "id": "fd5c963530c5aa42",
+   "ctx": "⚠ contiene numeri · La quota dei mammiferi selvatici è passata da ci › p",
+   "orig": "Umani e mammiferi domestici rappresentano oggi circa il 95% della biomassa dei mammiferi. Tutti i mammiferi selvatici insieme, balene comprese, il 5%.",
+   "text": "Umani e mammiferi domestici rappresentano oggi circa il 95% della biomassa dei mammiferi. Tutti i mammiferi selvatici insieme, balene comprese, il 5%.",
+   "cifre_ok": false
+  },
+  {
+   "id": "e05dd48a263bdcca",
+   "ctx": "⚠ contiene numeri · La quota dei mammiferi selvatici è passata da ci › p",
+   "orig": "Uno studio del 2025 stima che la biomassa dei mammiferi selvatici sia scesa da circa 200 milioni di tonnellate nel 1850 a circa 60 milioni di tonnellate nel 2020. Nello stesso periodo umani e mammiferi domestici sono saliti a circa 1,1 miliardi di tonnellate.",
+   "text": "Uno studio del 2025 stima che la biomassa dei mammiferi selvatici sia scesa da circa 200 milioni di tonnellate nel 1850 a circa 60 milioni di tonnellate nel 2020. Nello stesso periodo umani e mammiferi domestici sono saliti a circa 1,1 miliardi di tonnellate.",
+   "cifre_ok": false
+  },
+  {
+   "id": "30adb84da801186f",
+   "ctx": "⚠ contiene numeri · La quota dei mammiferi selvatici è passata da ci › h2",
+   "orig": "Biomassa dei mammiferi: 1850 e 2020",
+   "text": "Biomassa dei mammiferi: 1850 e 2020",
+   "cifre_ok": false
+  },
+  {
+   "id": "ac0c483d10914210",
+   "ctx": "⚠ contiene numeri · Biomassa dei mammiferi: 1850 e 2020 › h3",
+   "orig": "1850",
+   "text": "1850",
+   "cifre_ok": false
+  },
+  {
+   "id": "0b7652f93d229410",
+   "ctx": "⚠ contiene numeri · 1850 › h3",
+   "orig": "2020",
+   "text": "2020",
+   "cifre_ok": false
+  },
+  {
+   "id": "c489848044d0f7c6",
+   "ctx": "⚠ contiene numeri · 2020 › p",
+   "orig": "Ogni quadrato è l'1% della biomassa dei mammiferi. Per il 1850 lo studio dice che umani e domestici avevano una biomassa «circa pari» a quella dei selvatici: il 50% è una stima, non un valore pubblicato.",
+   "text": "Ogni quadrato è l'1% della biomassa dei mammiferi. Per il 1850 lo studio dice che umani e domestici avevano una biomassa «circa pari» a quella dei selvatici: il 50% è una stima, non un valore pubblicato.",
+   "cifre_ok": false
+  },
+  {
+   "id": "886281ba3b873985",
+   "ctx": "2020 › h2",
+   "orig": "Mammiferi e uccelli: chi pesa di più",
+   "text": "Mammiferi e uccelli: chi pesa di più",
+   "cifre_ok": false
+  },
+  {
+   "id": "9f8ea453e71c566b",
+   "ctx": "Mammiferi e uccelli: chi pesa di più › h3",
+   "orig": "Biomassa dei Mammiferi",
+   "text": "Biomassa dei Mammiferi",
+   "cifre_ok": false
+  },
+  {
+   "id": "5cc404c566855f42",
+   "ctx": "Biomassa dei Mammiferi › h3",
+   "orig": "Biomassa degli Uccelli",
+   "text": "Biomassa degli Uccelli",
+   "cifre_ok": false
+  },
+  {
+   "id": "36a75f26d49e6e50",
+   "ctx": "⚠ contiene numeri · Biomassa degli Uccelli › figcaption",
+   "orig": "Our World in Data, licenza CC BY. Dati: Greenspoon et al. (2023) e Bar-On et al. (2018), PNAS.",
+   "text": "Our World in Data, licenza CC BY. Dati: Greenspoon et al. (2023) e Bar-On et al. (2018), PNAS.",
+   "cifre_ok": false
+  },
+  {
+   "id": "92eb69ba9f532fbe",
+   "ctx": "⚠ contiene numeri · Biomassa degli Uccelli › figcaption",
+   "orig": "Our World in Data, Hannah Ritchie e Fiona Spooner, licenza CC BY. Ogni quadrato è l'1% della biomassa dei mammiferi (circa 11 milioni di tonnellate). Dati: Greenspoon et al. (2023), PNAS.",
+   "text": "Our World in Data, Hannah Ritchie e Fiona Spooner, licenza CC BY. Ogni quadrato è l'1% della biomassa dei mammiferi (circa 11 milioni di tonnellate). Dati: Greenspoon et al. (2023), PNAS.",
+   "cifre_ok": false
+  },
+  {
+   "id": "4e5e413aafa73764",
+   "ctx": "Biomassa degli Uccelli › p",
+   "orig": "**Che cosa mostrano.** Quote stimate della biomassa mondiale, cioè della massa corporea totale: non il numero di animali né le uccisioni annuali. Ogni torta ha il proprio totale, quindi le due non si confrontano tra loro. Percentuali arrotondate.",
+   "text": "**Che cosa mostrano.** Quote stimate della biomassa mondiale, cioè della massa corporea totale: non il numero di animali né le uccisioni annuali. Ogni torta ha il proprio totale, quindi le due non si confrontano tra loro. Percentuali arrotondate.",
+   "cifre_ok": false
+  },
+  {
+   "id": "4527364c7a07b112",
+   "ctx": "⚠ contiene numeri · Biomassa degli Uccelli › p",
+   "orig": "**Fonti (verificate sui testi originali).** Mammiferi: Greenspoon et al. (2023), [The global biomass of wild mammals](https://doi.org/10.1073/pnas.2204892120), PNAS: bestiame ≈630 Mt, esseri umani ≈390 Mt, mammiferi selvatici ≈22 Mt terrestri e ≈40 Mt marini (peso fresco). Le quote 59% (allevati e da compagnia), 36% e 5% sono quelle di Our World in Data (1/12/2025) su questi dati. Uccelli: Bar-On, Phillips, Milo (2018), [The biomass distribution on Earth](https://doi.org/10.1073/pnas.1711842115), PNAS: pollame ≈0,005 Gt C, uccelli selvatici ≈0,002 Gt C, cioè 71% e 29%. Per gli uccelli selvatici l'incertezza è alta: secondo Our World in Data la quota potrebbe andare dal 14% al 44% a seconda del metodo. Con i soli dati del 2018 i mammiferi sarebbero circa 60%, 36% e 4% (0,1, 0,06 e 0,007 Gt C): la differenza viene dall'aggiornamento della stima dei selvatici.",
+   "text": "**Fonti (verificate sui testi originali).** Mammiferi: Greenspoon et al. (2023), [The global biomass of wild mammals](https://doi.org/10.1073/pnas.2204892120), PNAS: bestiame ≈630 Mt, esseri umani ≈390 Mt, mammiferi selvatici ≈22 Mt terrestri e ≈40 Mt marini (peso fresco). Le quote 59% (allevati e da compagnia), 36% e 5% sono quelle di Our World in Data (1/12/2025) su questi dati. Uccelli: Bar-On, Phillips, Milo (2018), [The biomass distribution on Earth](https://doi.org/10.1073/pnas.1711842115), PNAS: pollame ≈0,005 Gt C, uccelli selvatici ≈0,002 Gt C, cioè 71% e 29%. Per gli uccelli selvatici l'incertezza è alta: secondo Our World in Data la quota potrebbe andare dal 14% al 44% a seconda del metodo. Con i soli dati del 2018 i mammiferi sarebbero circa 60%, 36% e 4% (0,1, 0,06 e 0,007 Gt C): la differenza viene dall'aggiornamento della stima dei selvatici.",
+   "cifre_ok": false
+  },
+  {
+   "id": "989861330a2a0c10",
+   "ctx": "Biomassa degli Uccelli › h2",
+   "orig": "Cosa dice lo studio",
+   "text": "Cosa dice lo studio",
+   "cifre_ok": false
+  },
+  {
+   "id": "e2bdc576fdae38f2",
+   "ctx": "⚠ contiene numeri · Cosa dice lo studio › li",
+   "orig": "La biomassa dei mammiferi selvatici è diminuita di più della metà dal 1850.",
+   "text": "La biomassa dei mammiferi selvatici è diminuita di più della metà dal 1850.",
+   "cifre_ok": false
+  },
+  {
+   "id": "ee0192d2d5cfb544",
+   "ctx": "⚠ contiene numeri · Cosa dice lo studio › li",
+   "orig": "La biomassa dei mammiferi marini selvatici è diminuita di circa il 70%, soprattutto per il declino delle grandi balene.",
+   "text": "La biomassa dei mammiferi marini selvatici è diminuita di circa il 70%, soprattutto per il declino delle grandi balene.",
+   "cifre_ok": false
+  },
+  {
+   "id": "2e9c8323f5231535",
+   "ctx": "⚠ contiene numeri · Cosa dice lo studio › li",
+   "orig": "La quota di circa il 5% nel 2020 si ricava dalle cifre dello studio: 60 / (1.100 + 60). La quota di circa il 50% nel 1850 deriva dall'equivalenza tra le due biomasse.",
+   "text": "La quota di circa il 5% nel 2020 si ricava dalle cifre dello studio: 60 / (1.100 + 60). La quota di circa il 50% nel 1850 deriva dall'equivalenza tra le due biomasse.",
+   "cifre_ok": false
+  },
+  {
+   "id": "dde1da99aced103f",
+   "ctx": "Cosa dice lo studio › p",
+   "orig": "Il calo riflette sia la diminuzione dei mammiferi selvatici sia l'enorme espansione di esseri umani e allevamenti. Sono stime di massa corporea totale, non numeri di animali né di specie.",
+   "text": "Il calo riflette sia la diminuzione dei mammiferi selvatici sia l'enorme espansione di esseri umani e allevamenti. Sono stime di massa corporea totale, non numeri di animali né di specie.",
+   "cifre_ok": false
+  },
+  {
+   "id": "36dfba173864fbd4",
+   "ctx": "⚠ contiene numeri · Cosa dice lo studio › p",
+   "orig": "Fonte: Greenspoon L., Ramot N., Moran U. et al. (2025), «The global biomass of mammals since 1850», Nature Communications 16, 8338, [DOI 10.1038/s41467-025-63888-z](https://www.nature.com/articles/s41467-025-63888-z). Le cifre dell'abstract sono ≈200 Mt (1850) e ≈1.100 Mt (umani e domestici oggi); le 60 Mt dei selvatici nel 2020 sono nel testo dell'articolo.",
+   "text": "Fonte: Greenspoon L., Ramot N., Moran U. et al. (2025), «The global biomass of mammals since 1850», Nature Communications 16, 8338, [DOI 10.1038/s41467-025-63888-z](https://www.nature.com/articles/s41467-025-63888-z). Le cifre dell'abstract sono ≈200 Mt (1850) e ≈1.100 Mt (umani e domestici oggi); le 60 Mt dei selvatici nel 2020 sono nel testo dell'articolo.",
+   "cifre_ok": false
+  }
+ ],
+ "orfane": []
+}

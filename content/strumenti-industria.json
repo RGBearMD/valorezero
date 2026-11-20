@@ -1,0 +1,489 @@
+{
+ "titolo": "Strumenti dell'industria",
+ "voci": [
+  {
+   "id": "55a6059f6a60163c",
+   "ctx": "h1",
+   "orig": "Strumenti dell'industria",
+   "text": "Strumenti dell'industria",
+   "cifre_ok": false
+  },
+  {
+   "id": "1981c86107e7a55b",
+   "ctx": "Strumenti dell'industria › p",
+   "orig": "Gli strumenti usati nei macelli per immobilizzare, stordire, dissanguare e lavorare le carcasse, come descritti nel regolamento europeo sull'abbattimento e in documenti tecnici della FAO e della Commissione europea.",
+   "text": "Gli strumenti usati nei macelli per immobilizzare, stordire, dissanguare e lavorare le carcasse, come descritti nel regolamento europeo sull'abbattimento e in documenti tecnici della FAO e della Commissione europea.",
+   "cifre_ok": false
+  },
+  {
+   "id": "807496a530492380",
+   "ctx": "Strumenti dell'industria › h2",
+   "orig": "Immobilizzazione e stordimento",
+   "text": "Immobilizzazione e stordimento",
+   "cifre_ok": false
+  },
+  {
+   "id": "7bdd05a4e911a170",
+   "ctx": "Immobilizzazione e stordimento › p",
+   "orig": "Box o dispositivi che tengono fermo l'animale prima dello stordimento o del taglio. Per la macellazione senza stordimento il regolamento UE prevede l'immobilizzazione individuale, meccanica per i ruminanti; i sistemi che capovolgono i bovini sono vietati, salvo che per la macellazione rituale.",
+   "text": "Box o dispositivi che tengono fermo l'animale prima dello stordimento o del taglio. Per la macellazione senza stordimento il regolamento UE prevede l'immobilizzazione individuale, meccanica per i ruminanti; i sistemi che capovolgono i bovini sono vietati, salvo che per la macellazione rituale.",
+   "cifre_ok": false
+  },
+  {
+   "id": "5a4977ecb5a60974",
+   "ctx": "⚠ contiene numeri · Immobilizzazione e stordimento › p",
+   "orig": "Fonte: Reg. (CE) 1099/2009, art. 15, par. 2",
+   "text": "Fonte: Reg. (CE) 1099/2009, art. 15, par. 2",
+   "cifre_ok": false
+  },
+  {
+   "id": "def39eaa4188d1bd",
+   "ctx": "Immobilizzazione e stordimento › p",
+   "orig": "Il catalogo di un costruttore elenca trappole di abbattimento tradizionali e halal per bovini e ovini, dove l'animale è condotto singolarmente e fissato prima dello stordimento o del taglio.",
+   "text": "Il catalogo di un costruttore elenca trappole di abbattimento tradizionali e halal per bovini e ovini, dove l'animale è condotto singolarmente e fissato prima dello stordimento o del taglio.",
+   "cifre_ok": false
+  },
+  {
+   "id": "7928d2ea4786f7cd",
+   "ctx": "Immobilizzazione e stordimento › p",
+   "orig": "Fonte: Catalogo di un costruttore di impianti (testo fornito)",
+   "text": "Fonte: Catalogo di un costruttore di impianti (testo fornito)",
+   "cifre_ok": false
+  },
+  {
+   "id": "2357066b255f6591",
+   "ctx": "Immobilizzazione e stordimento › p",
+   "orig": "Per i suini il catalogo elenca la trappola pneumatica tradizionale e il restrainer per le grandi produzioni, seguiti da una rulliera inox per il dissanguamento orizzontale con vasca di raccolta del sangue, o da una linea verticale.",
+   "text": "Per i suini il catalogo elenca la trappola pneumatica tradizionale e il restrainer per le grandi produzioni, seguiti da una rulliera inox per il dissanguamento orizzontale con vasca di raccolta del sangue, o da una linea verticale.",
+   "cifre_ok": false
+  },
+  {
+   "id": "c833cfe45dee678a",
+   "ctx": "Immobilizzazione e stordimento › p",
+   "orig": "Dispositivo meccanico in cui un'asta, che resta vincolata allo strumento, colpisce il cranio dell'animale. Può essere penetrante o non penetrante. Secondo la FAO si usa su bovini e ovini, non sui suini. Per i bovini il corso CEIRSA indica come punto di applicazione la fronte, sulla linea mediana, perpendicolare al piano della fronte e appena sopra l'incontro delle diagonali che uniscono il centro degli occhi alla base delle corna; è vietato colpire dietro le corna, nello spazio tra le orecchie. Il proiettile deve forare l'osso frontale e raggiungere la corteccia cerebrale, e l'incoscienza si riconosce dalla scomparsa dei riflessi oculari.",
+   "text": "Dispositivo meccanico in cui un'asta, che resta vincolata allo strumento, colpisce il cranio dell'animale. Può essere penetrante o non penetrante. Secondo la FAO si usa su bovini e ovini, non sui suini. Per i bovini il corso CEIRSA indica come punto di applicazione la fronte, sulla linea mediana, perpendicolare al piano della fronte e appena sopra l'incontro delle diagonali che uniscono il centro degli occhi alla base delle corna; è vietato colpire dietro le corna, nello spazio tra le orecchie. Il proiettile deve forare l'osso frontale e raggiungere la corteccia cerebrale, e l'incoscienza si riconosce dalla scomparsa dei riflessi oculari.",
+   "cifre_ok": false
+  },
+  {
+   "id": "460cfa97e489ea09",
+   "ctx": "⚠ contiene numeri · Immobilizzazione e stordimento › p",
+   "orig": "Fonte: Reg. (CE) 1099/2009, all. I; FAO Paper 91, cap. 4; CEIRSA (basato sul D.Lgs. 333/98, precedente al regolamento)",
+   "text": "Fonte: Reg. (CE) 1099/2009, all. I; FAO Paper 91, cap. 4; CEIRSA (basato sul D.Lgs. 333/98, precedente al regolamento)",
+   "cifre_ok": false
+  },
+  {
+   "id": "b8356b8e6f243ce2",
+   "ctx": "⚠ contiene numeri · Immobilizzazione e stordimento › p",
+   "orig": "Due elettrodi applicati ai lati della testa fanno passare corrente per pochi secondi. La FAO indica una tensione di 60–80 V. Il regolamento distingue l'elettronarcosi limitata alla testa da quella a testa e corpo.",
+   "text": "Due elettrodi applicati ai lati della testa fanno passare corrente per pochi secondi. La FAO indica una tensione di 60–80 V. Il regolamento distingue l'elettronarcosi limitata alla testa da quella a testa e corpo.",
+   "cifre_ok": false
+  },
+  {
+   "id": "14bf2470f571ff13",
+   "ctx": "⚠ contiene numeri · Immobilizzazione e stordimento › p",
+   "orig": "Fonte: FAO Paper 91, cap. 4; Reg. (CE) 1099/2009, all. I",
+   "text": "Fonte: FAO Paper 91, cap. 4; Reg. (CE) 1099/2009, all. I",
+   "cifre_ok": false
+  },
+  {
+   "id": "445ce3b1d2e3413b",
+   "ctx": "Immobilizzazione e stordimento › p",
+   "orig": "I volatili sospesi per le zampe a una linea passano con la testa in una vasca d'acqua attraversata da corrente. È uno dei metodi elettrici elencati dal regolamento.",
+   "text": "I volatili sospesi per le zampe a una linea passano con la testa in una vasca d'acqua attraversata da corrente. È uno dei metodi elettrici elencati dal regolamento.",
+   "cifre_ok": false
+  },
+  {
+   "id": "95371c256cfd209f",
+   "ctx": "⚠ contiene numeri · Immobilizzazione e stordimento › p",
+   "orig": "Fonte: Reg. (CE) 1099/2009, all. I; art. 15, par. 3",
+   "text": "Fonte: Reg. (CE) 1099/2009, all. I; art. 15, par. 3",
+   "cifre_ok": false
+  },
+  {
+   "id": "c40f5337e0fd420c",
+   "ctx": "⚠ contiene numeri · Immobilizzazione e stordimento › p",
+   "orig": "Stordimento in atmosfera controllata. Il regolamento elenca CO₂ ad alta concentrazione, CO₂ in due fasi, miscele con gas inerti, gas inerti, monossido di carbonio e bassa pressione atmosferica. La FAO cita CO₂ all'85% per circa 45 secondi nei grandi macelli suini.",
+   "text": "Stordimento in atmosfera controllata. Il regolamento elenca CO₂ ad alta concentrazione, CO₂ in due fasi, miscele con gas inerti, gas inerti, monossido di carbonio e bassa pressione atmosferica. La FAO cita CO₂ all'85% per circa 45 secondi nei grandi macelli suini.",
+   "cifre_ok": false
+  },
+  {
+   "id": "72fce46c53130bae",
+   "ctx": "⚠ contiene numeri · Immobilizzazione e stordimento › p",
+   "orig": "Fonte: Reg. (CE) 1099/2009, all. I; FAO Paper 91, cap. 4",
+   "text": "Fonte: Reg. (CE) 1099/2009, all. I; FAO Paper 91, cap. 4",
+   "cifre_ok": false
+  },
+  {
+   "id": "df25faf275a78592",
+   "ctx": "Immobilizzazione e stordimento › p",
+   "orig": "Metodi manuali. Il regolamento stabilisce che nessuno può uccidere in questo modo più di settanta animali al giorno.",
+   "text": "Metodi manuali. Il regolamento stabilisce che nessuno può uccidere in questo modo più di settanta animali al giorno.",
+   "cifre_ok": false
+  },
+  {
+   "id": "3c30e8d77b630623",
+   "ctx": "⚠ contiene numeri · Immobilizzazione e stordimento › p",
+   "orig": "Fonte: Reg. (CE) 1099/2009, all. I, capo II",
+   "text": "Fonte: Reg. (CE) 1099/2009, all. I, capo II",
+   "cifre_ok": false
+  },
+  {
+   "id": "c0bef2ae37420ff1",
+   "ctx": "Immobilizzazione e stordimento › h2",
+   "orig": "Sollevamento e dissanguamento",
+   "text": "Sollevamento e dissanguamento",
+   "cifre_ok": false
+  },
+  {
+   "id": "8b76cee414a4d54f",
+   "ctx": "⚠ contiene numeri · Sollevamento e dissanguamento › p",
+   "orig": "Dopo lo stordimento l'animale viene sollevato con un argano su una rotaia mobile e dissanguato. Le rotaie sono a 2,4–3,4 m da terra. Il regolamento vieta di sospendere o sollevare animali coscienti.",
+   "text": "Dopo lo stordimento l'animale viene sollevato con un argano su una rotaia mobile e dissanguato. Le rotaie sono a 2,4–3,4 m da terra. Il regolamento vieta di sospendere o sollevare animali coscienti.",
+   "cifre_ok": false
+  },
+  {
+   "id": "2d5d8663fdfded61",
+   "ctx": "⚠ contiene numeri · Sollevamento e dissanguamento › p",
+   "orig": "Fonte: FAO Paper 91, cap. 4; Reg. (CE) 1099/2009, art. 15, par. 3",
+   "text": "Fonte: FAO Paper 91, cap. 4; Reg. (CE) 1099/2009, art. 15, par. 3",
+   "cifre_ok": false
+  },
+  {
+   "id": "1fceb980c0b0d218",
+   "ctx": "Sollevamento e dissanguamento › p",
+   "orig": "Il catalogo elenca carrucole a laccetto per il dissanguamento, vasche di dissanguamento in acciaio inox con grigliato antisdrucciolo, tubazioni, pompe e cisterne con agitatore, refrigerate o no.",
+   "text": "Il catalogo elenca carrucole a laccetto per il dissanguamento, vasche di dissanguamento in acciaio inox con grigliato antisdrucciolo, tubazioni, pompe e cisterne con agitatore, refrigerate o no.",
+   "cifre_ok": false
+  },
+  {
+   "id": "f10bab8e1a23b2b2",
+   "ctx": "⚠ contiene numeri · Sollevamento e dissanguamento › p",
+   "orig": "Per il sangue destinato all'uso alimentare umano si usano coltelli sterilizzati con lama cava che convogliano il sangue in un contenitore coperto di acciaio inossidabile. La FAO indica la rimozione del 40–60% del volume totale di sangue.",
+   "text": "Per il sangue destinato all'uso alimentare umano si usano coltelli sterilizzati con lama cava che convogliano il sangue in un contenitore coperto di acciaio inossidabile. La FAO indica la rimozione del 40–60% del volume totale di sangue.",
+   "cifre_ok": false
+  },
+  {
+   "id": "eb9dd9fbedc57693",
+   "ctx": "⚠ contiene numeri · Sollevamento e dissanguamento › p",
+   "orig": "Fonte: FAO Paper 91, cap. 4",
+   "text": "Fonte: FAO Paper 91, cap. 4",
+   "cifre_ok": false
+  },
+  {
+   "id": "7634ed5a87159923",
+   "ctx": "Sollevamento e dissanguamento › h2",
+   "orig": "Lavorazione della carcassa",
+   "text": "Lavorazione della carcassa",
+   "cifre_ok": false
+  },
+  {
+   "id": "90a610377bb61ce5",
+   "ctx": "⚠ contiene numeri · Lavorazione della carcassa › p",
+   "orig": "Il suino è immerso in acqua a circa 60 °C per circa 6 minuti per allentare il pelo senza cuocere la pelle. Nei grandi impianti vasche con barre o palette rotanti combinano scottatura e depilazione; in alternativa si usa un raschietto a campana.",
+   "text": "Il suino è immerso in acqua a circa 60 °C per circa 6 minuti per allentare il pelo senza cuocere la pelle. Nei grandi impianti vasche con barre o palette rotanti combinano scottatura e depilazione; in alternativa si usa un raschietto a campana.",
+   "cifre_ok": false
+  },
+  {
+   "id": "ea109845a248aae3",
+   "ctx": "⚠ contiene numeri · Lavorazione della carcassa › p",
+   "orig": "Fonte: FAO Paper 91, cap. 4; JRC BREF",
+   "text": "Fonte: FAO Paper 91, cap. 4; JRC BREF",
+   "cifre_ok": false
+  },
+  {
+   "id": "6f0c75abd5a7745a",
+   "ctx": "Lavorazione della carcassa › p",
+   "orig": "Dopo la depilazione i residui di pelo si bruciano con una torcia a gas manuale o in un forno automatico; i residui neri si raschiano.",
+   "text": "Dopo la depilazione i residui di pelo si bruciano con una torcia a gas manuale o in un forno automatico; i residui neri si raschiano.",
+   "cifre_ok": false
+  },
+  {
+   "id": "b4444a76ed47c6aa",
+   "ctx": "Lavorazione della carcassa › p",
+   "orig": "Nei grandi impianti, con le carcasse appese a rotaie aeree, un dispositivo meccanico tira la pelle dal posteriore o dalle spalle. Si usano anche coltelli rotanti pneumatici e piattaforme idrauliche di lavoro.",
+   "text": "Nei grandi impianti, con le carcasse appese a rotaie aeree, un dispositivo meccanico tira la pelle dal posteriore o dalle spalle. Si usano anche coltelli rotanti pneumatici e piattaforme idrauliche di lavoro.",
+   "cifre_ok": false
+  },
+  {
+   "id": "6199831ecfc3c324",
+   "ctx": "Lavorazione della carcassa › p",
+   "orig": "Piattaforma in acciaio inox lungo la linea, con lavelli lavamani e sterilizzatore per coltelli, su cui gli operatori lavorano la carcassa sospesa. Il catalogo parla di pedane di lavorazione; la mobilità della pedana non è indicata.",
+   "text": "Piattaforma in acciaio inox lungo la linea, con lavelli lavamani e sterilizzatore per coltelli, su cui gli operatori lavorano la carcassa sospesa. Il catalogo parla di pedane di lavorazione; la mobilità della pedana non è indicata.",
+   "cifre_ok": false
+  },
+  {
+   "id": "185b04e0d222102a",
+   "ctx": "⚠ contiene numeri · Lavorazione della carcassa › p",
+   "orig": "Depilatrici da 65 a 98 spazzole (anche in serie), spazzolatrici verticali e orizzontali a due, tre o quattro rulli e tunnel di fiammatura. Per i piccoli impianti esistono macchine combinate depilscotta da 15–20 capi/ora.",
+   "text": "Depilatrici da 65 a 98 spazzole (anche in serie), spazzolatrici verticali e orizzontali a due, tre o quattro rulli e tunnel di fiammatura. Per i piccoli impianti esistono macchine combinate depilscotta da 15–20 capi/ora.",
+   "cifre_ok": false
+  },
+  {
+   "id": "76cb850a44e7ae55",
+   "ctx": "Lavorazione della carcassa › p",
+   "orig": "Cesoia oleodinamica per zampe e corna, sega sterno, seghe per mezzene e quarti, divaricatori pneumatici e coltelli rotativi per la scuoiatura.",
+   "text": "Cesoia oleodinamica per zampe e corna, sega sterno, seghe per mezzene e quarti, divaricatori pneumatici e coltelli rotativi per la scuoiatura.",
+   "cifre_ok": false
+  },
+  {
+   "id": "75592747971c2eab",
+   "ctx": "Lavorazione della carcassa › p",
+   "orig": "Linee aeree motorizzate che portano carcasse, visceri e frattaglie anche in curva, salita e discesa. Secondo il catalogo la normativa europea non ammette contatto tra carcassa e scarti e impone la tracciabilità di ogni parte.",
+   "text": "Linee aeree motorizzate che portano carcasse, visceri e frattaglie anche in curva, salita e discesa. Secondo il catalogo la normativa europea non ammette contatto tra carcassa e scarti e impone la tracciabilità di ogni parte.",
+   "cifre_ok": false
+  },
+  {
+   "id": "fa06a62cbe0ef6d4",
+   "ctx": "Lavorazione della carcassa › p",
+   "orig": "Nei piccoli ruminanti la scuoiatura è verticale, con la carcassa tenuta aperta da un divaricatore e sospesa a un gambrel. Per gli agnelli si usa anche un nastro orizzontale a piastre d'acciaio.",
+   "text": "Nei piccoli ruminanti la scuoiatura è verticale, con la carcassa tenuta aperta da un divaricatore e sospesa a un gambrel. Per gli agnelli si usa anche un nastro orizzontale a piastre d'acciaio.",
+   "cifre_ok": false
+  },
+  {
+   "id": "ebfeeb8095e42b81",
+   "ctx": "⚠ contiene numeri · Lavorazione della carcassa › p",
+   "orig": "Per l'eviscerazione dei bovini il petto viene segato; poi la carcassa si divide lungo la colonna con sega o accetta. Gli attrezzi si sterilizzano in acqua a 82 °C tra una carcassa e l'altra.",
+   "text": "Per l'eviscerazione dei bovini il petto viene segato; poi la carcassa si divide lungo la colonna con sega o accetta. Gli attrezzi si sterilizzano in acqua a 82 °C tra una carcassa e l'altra.",
+   "cifre_ok": false
+  },
+  {
+   "id": "f9204d8b9aab7d24",
+   "ctx": "Lavorazione della carcassa › h2",
+   "orig": "Refrigerazione, taglio e confezionamento",
+   "text": "Refrigerazione, taglio e confezionamento",
+   "cifre_ok": false
+  },
+  {
+   "id": "db9f5dd4a2870840",
+   "ctx": "⚠ contiene numeri · Refrigerazione, taglio e confezionamento › p",
+   "orig": "Le carcasse entrano in cella subito dopo la pesatura, appese a rotaie. Si misura la temperatura al centro del muscolo: 6–7 °C in 28–36 ore nei bovini, 12–16 nei suini, 24–30 negli ovini, con umidità di circa 90%.",
+   "text": "Le carcasse entrano in cella subito dopo la pesatura, appese a rotaie. Si misura la temperatura al centro del muscolo: 6–7 °C in 28–36 ore nei bovini, 12–16 nei suini, 24–30 negli ovini, con umidità di circa 90%.",
+   "cifre_ok": false
+  },
+  {
+   "id": "097427c1919c16f0",
+   "ctx": "Refrigerazione, taglio e confezionamento › p",
+   "orig": "Tavolo in materiale non corrosivo con piano in plastica dura, coltelli da disosso, sega, acciaino e contenitori. La FAO descrive tre metodi: con osso, disosso muscolo per muscolo e disosso con la mezzena appesa («on the rail»), il più igienico.",
+   "text": "Tavolo in materiale non corrosivo con piano in plastica dura, coltelli da disosso, sega, acciaino e contenitori. La FAO descrive tre metodi: con osso, disosso muscolo per muscolo e disosso con la mezzena appesa («on the rail»), il più igienico.",
+   "cifre_ok": false
+  },
+  {
+   "id": "5ffe2c2644c7295d",
+   "ctx": "⚠ contiene numeri · Refrigerazione, taglio e confezionamento › p",
+   "orig": "Fonte: FAO Paper 91, cap. 5",
+   "text": "Fonte: FAO Paper 91, cap. 5",
+   "cifre_ok": false
+  },
+  {
+   "id": "bd652d662baf8f69",
+   "ctx": "⚠ contiene numeri · Refrigerazione, taglio e confezionamento › p",
+   "orig": "Nastro motorizzato in acciaio inox su cui scorrono i tagli, con nastri separati per ossa e grassi. Ogni postazione ha piano in polietilene, pedana antiscivolo, supporti per i coltelli e sterilizzatore. Il catalogo cita un modello a 16 postazioni.",
+   "text": "Nastro motorizzato in acciaio inox su cui scorrono i tagli, con nastri separati per ossa e grassi. Ogni postazione ha piano in polietilene, pedana antiscivolo, supporti per i coltelli e sterilizzatore. Il catalogo cita un modello a 16 postazioni.",
+   "cifre_ok": false
+  },
+  {
+   "id": "c4a6acfe96c6d722",
+   "ctx": "Refrigerazione, taglio e confezionamento › p",
+   "orig": "Il catalogo elenca «bilancieri e giostre di appendimento» tra gli accessori della linea. Non descrive una «giostra di selezione dei tagli anatomici».",
+   "text": "Il catalogo elenca «bilancieri e giostre di appendimento» tra gli accessori della linea. Non descrive una «giostra di selezione dei tagli anatomici».",
+   "cifre_ok": false
+  },
+  {
+   "id": "92e32eefe9393d9e",
+   "ctx": "Refrigerazione, taglio e confezionamento › p",
+   "orig": "Pese con celle di carico per carcasse e cartoni; dopo il disosso, rulliere con scanner, etichettatura, reggiatura e pallettizzazione.",
+   "text": "Pese con celle di carico per carcasse e cartoni; dopo il disosso, rulliere con scanner, etichettatura, reggiatura e pallettizzazione.",
+   "cifre_ok": false
+  },
+  {
+   "id": "117d505f43b6866b",
+   "ctx": "⚠ contiene numeri · Refrigerazione, taglio e confezionamento › p",
+   "orig": "Catene con ventilazione forzata a bassa temperatura fino a circa 4 °C sulla superficie. Il costruttore afferma che evita un calo di peso di circa il 3%.",
+   "text": "Catene con ventilazione forzata a bassa temperatura fino a circa 4 °C sulla superficie. Il costruttore afferma che evita un calo di peso di circa il 3%.",
+   "cifre_ok": false
+  },
+  {
+   "id": "6382bb6485151539",
+   "ctx": "Refrigerazione, taglio e confezionamento › p",
+   "orig": "Postazione separata per carta, film plastico o sacchetti, vicina al taglio.",
+   "text": "Postazione separata per carta, film plastico o sacchetti, vicina al taglio.",
+   "cifre_ok": false
+  },
+  {
+   "id": "baea09cd423de6cf",
+   "ctx": "Refrigerazione, taglio e confezionamento › h2",
+   "orig": "Sangue e scarti",
+   "text": "Sangue e scarti",
+   "cifre_ok": false
+  },
+  {
+   "id": "27bcf59b7e657d8e",
+   "ctx": "⚠ contiene numeri · Sangue e scarti › p",
+   "orig": "Il sangue non può andare tal quale al depuratore. Con vapore saturo in un tubo a pressione si separano solidi e liquidi: la parte solida (circa il 30% del sangue fresco) è essiccata in farina di sangue, la liquida va al depuratore.",
+   "text": "Il sangue non può andare tal quale al depuratore. Con vapore saturo in un tubo a pressione si separano solidi e liquidi: la parte solida (circa il 30% del sangue fresco) è essiccata in farina di sangue, la liquida va al depuratore.",
+   "cifre_ok": false
+  },
+  {
+   "id": "dc6755b4b30bd138",
+   "ctx": "Sangue e scarti › p",
+   "orig": "Centrifughe lavatrippe, sbiancatrici e raffinatrici in acciaio inox per trippe e organi interni destinati al consumo, con tavoli di svuotamento del pacco intestinale.",
+   "text": "Centrifughe lavatrippe, sbiancatrici e raffinatrici in acciaio inox per trippe e organi interni destinati al consumo, con tavoli di svuotamento del pacco intestinale.",
+   "cifre_ok": false
+  },
+  {
+   "id": "adaff2ac3e4cadba",
+   "ctx": "Sangue e scarti › p",
+   "orig": "Corna, zampe, pelli, visceri e rumine vanno in aree riservate fuori dalla linea con coclee e trasportatori pneumatici («cannoni»).",
+   "text": "Corna, zampe, pelli, visceri e rumine vanno in aree riservate fuori dalla linea con coclee e trasportatori pneumatici («cannoni»).",
+   "cifre_ok": false
+  },
+  {
+   "id": "eb19d4dad33afc6b",
+   "ctx": "Sangue e scarti › p",
+   "orig": "Frangiossa, trituratori, cuocitori a pressione, presse e mulini a martelli per la farina di ossa, decanter per il grasso, condensatori e torri di abbattimento fumi.",
+   "text": "Frangiossa, trituratori, cuocitori a pressione, presse e mulini a martelli per la farina di ossa, decanter per il grasso, condensatori e torri di abbattimento fumi.",
+   "cifre_ok": false
+  },
+  {
+   "id": "e157501f1bf3244e",
+   "ctx": "Sangue e scarti › h2",
+   "orig": "Movimentazione degli animali",
+   "text": "Movimentazione degli animali",
+   "cifre_ok": false
+  },
+  {
+   "id": "098f72198f378027",
+   "ctx": "Movimentazione degli animali › p",
+   "orig": "Strumento portatile che dà scariche elettriche per far avanzare animali che rifiutano di muoversi. Il regolamento chiede di evitarlo nella misura del possibile e lo ammette solo su bovini e suini adulti che hanno spazio davanti. Le scariche durano al massimo un secondo, a intervalli adeguati, e vanno applicate solo ai muscoli dei quarti posteriori. Essere Animali descrive un uso frequente su parti sensibili, come occhi, naso e genitali; il corso CEIRSA, riferito alla norma precedente, indicava due secondi.",
+   "text": "Strumento portatile che dà scariche elettriche per far avanzare animali che rifiutano di muoversi. Il regolamento chiede di evitarlo nella misura del possibile e lo ammette solo su bovini e suini adulti che hanno spazio davanti. Le scariche durano al massimo un secondo, a intervalli adeguati, e vanno applicate solo ai muscoli dei quarti posteriori. Essere Animali descrive un uso frequente su parti sensibili, come occhi, naso e genitali; il corso CEIRSA, riferito alla norma precedente, indicava due secondi.",
+   "cifre_ok": false
+  },
+  {
+   "id": "20ddae6c9c1c0460",
+   "ctx": "⚠ contiene numeri · Movimentazione degli animali › p",
+   "orig": "Fonte: Reg. (CE) 1099/2009, all. III, punto 1.9; Essere Animali (2020), articolo sui 10 strumenti; associazione, fonte integrativa; CEIRSA",
+   "text": "Fonte: Reg. (CE) 1099/2009, all. III, punto 1.9; Essere Animali (2020), articolo sui 10 strumenti; associazione, fonte integrativa; CEIRSA",
+   "cifre_ok": false
+  },
+  {
+   "id": "9a960027da951666",
+   "ctx": "Movimentazione degli animali › h2",
+   "orig": "Interventi sugli animali in allevamento",
+   "text": "Interventi sugli animali in allevamento",
+   "cifre_ok": false
+  },
+  {
+   "id": "59cb00731d089550",
+   "ctx": "Interventi sugli animali in allevamento › p",
+   "orig": "Usato per la castrazione chirurgica dei suinetti nei primi giorni di vita. La direttiva ammette la castrazione con mezzi diversi dalla lacerazione dei tessuti; dopo il settimo giorno è consentita solo sotto anestesia e con analgesici somministrati per un periodo prolungato da un veterinario. Essere Animali segnala interventi senza anestesia nei primi giorni.",
+   "text": "Usato per la castrazione chirurgica dei suinetti nei primi giorni di vita. La direttiva ammette la castrazione con mezzi diversi dalla lacerazione dei tessuti; dopo il settimo giorno è consentita solo sotto anestesia e con analgesici somministrati per un periodo prolungato da un veterinario. Essere Animali segnala interventi senza anestesia nei primi giorni.",
+   "cifre_ok": false
+  },
+  {
+   "id": "d366852c1129e4cc",
+   "ctx": "⚠ contiene numeri · Interventi sugli animali in allevamento › p",
+   "orig": "Fonte: Direttiva 2008/120/CE, all. I, cap. I, punto 8; Essere Animali (2020), articolo sui 10 strumenti; associazione, fonte integrativa",
+   "text": "Fonte: Direttiva 2008/120/CE, all. I, cap. I, punto 8; Essere Animali (2020), articolo sui 10 strumenti; associazione, fonte integrativa",
+   "cifre_ok": false
+  },
+  {
+   "id": "ff3b3a642eb018f6",
+   "ctx": "Interventi sugli animali in allevamento › p",
+   "orig": "Strumento con lama incandescente che taglia parte della coda per prevenire i morsi tra animali. La direttiva vieta questa operazione come routine e ammette il mozzamento solo di una parte della coda; dopo il settimo giorno solo con anestesia e analgesia prolungata. Essere Animali lega i morsi a noia, sovraffollamento e stress.",
+   "text": "Strumento con lama incandescente che taglia parte della coda per prevenire i morsi tra animali. La direttiva vieta questa operazione come routine e ammette il mozzamento solo di una parte della coda; dopo il settimo giorno solo con anestesia e analgesia prolungata. Essere Animali lega i morsi a noia, sovraffollamento e stress.",
+   "cifre_ok": false
+  },
+  {
+   "id": "e820b971620f20ce",
+   "ctx": "Interventi sugli animali in allevamento › p",
+   "orig": "Strumento che riduce i denti dei lattonzoli per proteggere le mammelle della scrofa. La direttiva ammette una riduzione uniforme degli incisivi entro i primi sette giorni di vita, non come routine. Essere Animali lo collega alla scrofa tenuta in uno spazio che non le permette di girarsi.",
+   "text": "Strumento che riduce i denti dei lattonzoli per proteggere le mammelle della scrofa. La direttiva ammette una riduzione uniforme degli incisivi entro i primi sette giorni di vita, non come routine. Essere Animali lo collega alla scrofa tenuta in uno spazio che non le permette di girarsi.",
+   "cifre_ok": false
+  },
+  {
+   "id": "0760c89addfd8b92",
+   "ctx": "Interventi sugli animali in allevamento › p",
+   "orig": "Brucia la base delle corna per impedirne la crescita. Secondo Essere Animali viene usato spesso senza anestesia, perché gli animali senza corna possono essere allevati più fitti. Norma specifica non verificata.",
+   "text": "Brucia la base delle corna per impedirne la crescita. Secondo Essere Animali viene usato spesso senza anestesia, perché gli animali senza corna possono essere allevati più fitti. Norma specifica non verificata.",
+   "cifre_ok": false
+  },
+  {
+   "id": "d2110827c5edc179",
+   "ctx": "⚠ contiene numeri · Interventi sugli animali in allevamento › p",
+   "orig": "Fonte: Essere Animali (2020), articolo sui 10 strumenti; associazione, fonte integrativa",
+   "text": "Fonte: Essere Animali (2020), articolo sui 10 strumenti; associazione, fonte integrativa",
+   "cifre_ok": false
+  },
+  {
+   "id": "107f4f003a2b3dc5",
+   "ctx": "Interventi sugli animali in allevamento › p",
+   "orig": "Perfora l'orecchio e fissa una targhetta identificativa. Essere Animali segnala infiammazioni e perdita delle marche. Norma specifica non verificata.",
+   "text": "Perfora l'orecchio e fissa una targhetta identificativa. Essere Animali segnala infiammazioni e perdita delle marche. Norma specifica non verificata.",
+   "cifre_ok": false
+  },
+  {
+   "id": "b6a8ec4e3dab0d25",
+   "ctx": "Interventi sugli animali in allevamento › p",
+   "orig": "Dispositivi applicati al naso dei vitelli, con punte rivolte all'esterno, che impediscono di succhiare da altri animali dopo la separazione dalla madre. Descrizione di Essere Animali; norma non verificata.",
+   "text": "Dispositivi applicati al naso dei vitelli, con punte rivolte all'esterno, che impediscono di succhiare da altri animali dopo la separazione dalla madre. Descrizione di Essere Animali; norma non verificata.",
+   "cifre_ok": false
+  },
+  {
+   "id": "2eaa1d3b05a4350c",
+   "ctx": "Interventi sugli animali in allevamento › p",
+   "orig": "Serve a somministrare ferro, vaccini e farmaci. Essere Animali segnala l'uso routinario di antibiotici e il rischio di antibiotico-resistenza, citando l'OMS. Dati non verificati.",
+   "text": "Serve a somministrare ferro, vaccini e farmaci. Essere Animali segnala l'uso routinario di antibiotici e il rischio di antibiotico-resistenza, citando l'OMS. Dati non verificati.",
+   "cifre_ok": false
+  },
+  {
+   "id": "950f4a0cce2c994a",
+   "ctx": "⚠ contiene numeri · Interventi sugli animali in allevamento › p",
+   "orig": "Tubo con cui si somministra cibo ipercalorico per ingrossare il fegato (foie gras). Essere Animali riferisce 800–1000 g di purea di mais per pasto e dice che in Italia è vietato, mentre in Spagna e Francia è consentito. Non verificato su fonti ufficiali.",
+   "text": "Tubo con cui si somministra cibo ipercalorico per ingrossare il fegato (foie gras). Essere Animali riferisce 800–1000 g di purea di mais per pasto e dice che in Italia è vietato, mentre in Spagna e Francia è consentito. Non verificato su fonti ufficiali.",
+   "cifre_ok": false
+  },
+  {
+   "id": "56b69874db9d7f61",
+   "ctx": "Interventi sugli animali in allevamento › h2",
+   "orig": "Strumenti storici non più ammessi",
+   "text": "Strumenti storici non più ammessi",
+   "cifre_ok": false
+  },
+  {
+   "id": "b04adf8a839f02e7",
+   "ctx": "Strumenti storici non più ammessi › p",
+   "orig": "Il corso CEIRSA elenca come metodi di stordimento del passato, oggi non più accettati, la mazza (anche inglese), la maschera di Bruneau con mazza di legno, il bolzone a molla di Kleinschmidt, l'enervazione con stiletto e gli apparecchi a proiettile libero.",
+   "text": "Il corso CEIRSA elenca come metodi di stordimento del passato, oggi non più accettati, la mazza (anche inglese), la maschera di Bruneau con mazza di legno, il bolzone a molla di Kleinschmidt, l'enervazione con stiletto e gli apparecchi a proiettile libero.",
+   "cifre_ok": false
+  },
+  {
+   "id": "ba6d34aafaf7fcf5",
+   "ctx": "⚠ contiene numeri · Strumenti storici non più ammessi › p",
+   "orig": "Fonte: CEIRSA, corso per addetti allo stordimento (basato sul D.Lgs. 333/98)",
+   "text": "Fonte: CEIRSA, corso per addetti allo stordimento (basato sul D.Lgs. 333/98)",
+   "cifre_ok": false
+  },
+  {
+   "id": "d2296042231d49b3",
+   "ctx": "Strumenti storici non più ammessi › p",
+   "orig": "Il corso CEIRSA indica che le cartucce della pistola captiva hanno potenza diversa secondo la taglia dell'animale e si riconoscono dal colore: rosa, giallo, verde, rosso e nero, in ordine di potenza. Dopo ogni colpo l'operatore deve controllare che il proiettile torni in posizione.",
+   "text": "Il corso CEIRSA indica che le cartucce della pistola captiva hanno potenza diversa secondo la taglia dell'animale e si riconoscono dal colore: rosa, giallo, verde, rosso e nero, in ordine di potenza. Dopo ogni colpo l'operatore deve controllare che il proiettile torni in posizione.",
+   "cifre_ok": false
+  },
+  {
+   "id": "09f8ad960472c6f1",
+   "ctx": "⚠ contiene numeri · Strumenti storici non più ammessi › p",
+   "orig": "I gruppi sugli interventi in allevamento riportano la documentazione di un'associazione animalista (Essere Animali), con le norme verificate accanto; le sue affermazioni sono attribuite e non confermate da fonti ufficiali. Le schede con fonte «Catalogo di un costruttore» descrivono prodotti commerciali, non standard ufficiali. La FAO Paper 91 è del 1991 e descrive impianti di dimensioni medio-piccole: gli impianti industriali attuali possono usare attrezzature più automatizzate. Le attrezzature della linea dei volatili (scottatura, spennatura, eviscerazione, raffreddamento) sono descritte nelle sezioni 3.4.1 del documento JRC.",
+   "text": "I gruppi sugli interventi in allevamento riportano la documentazione di un'associazione animalista (Essere Animali), con le norme verificate accanto; le sue affermazioni sono attribuite e non confermate da fonti ufficiali. Le schede con fonte «Catalogo di un costruttore» descrivono prodotti commerciali, non standard ufficiali. La FAO Paper 91 è del 1991 e descrive impianti di dimensioni medio-piccole: gli impianti industriali attuali possono usare attrezzature più automatizzate. Le attrezzature della linea dei volatili (scottatura, spennatura, eviscerazione, raffreddamento) sono descritte nelle sezioni 3.4.1 del documento JRC.",
+   "cifre_ok": false
+  },
+  {
+   "id": "445902a216404c02",
+   "ctx": "Strumenti storici non più ammessi › p",
+   "orig": "[Processi di macellazione](processi-macellazione.html) · [Info e fonti](info.html)",
+   "text": "[Processi di macellazione](processi-macellazione.html) · [Info e fonti](info.html)",
+   "cifre_ok": false
+  }
+ ],
+ "orfane": []
+}

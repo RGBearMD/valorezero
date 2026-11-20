@@ -1,0 +1,377 @@
+{
+ "titolo": "Bovini (totale)",
+ "voci": [
+  {
+   "id": "8994c73b247f373d",
+   "ctx": "h1",
+   "orig": "Bovini (totale)",
+   "text": "Bovini (totale)",
+   "cifre_ok": false
+  },
+  {
+   "id": "9b3ed5d487407cee",
+   "ctx": "Bovini (totale) › h2",
+   "orig": "Impiego",
+   "text": "Impiego",
+   "cifre_ok": false
+  },
+  {
+   "id": "7790630be63a32d8",
+   "ctx": "Impiego › p",
+   "orig": "Carne fresca (tagli, macinato), hamburger, polpette e carne in scatola; dai sottoprodotti anche pelli, gelatine e grassi. Il totale comprende anche animali della filiera del latte a fine carriera.",
+   "text": "Carne fresca (tagli, macinato), hamburger, polpette e carne in scatola; dai sottoprodotti anche pelli, gelatine e grassi. Il totale comprende anche animali della filiera del latte a fine carriera.",
+   "cifre_ok": false
+  },
+  {
+   "id": "03f518de3bb097ad",
+   "ctx": "Impiego › h2",
+   "orig": "Animali uccisi per cittadino",
+   "text": "Animali uccisi per cittadino",
+   "cifre_ok": false
+  },
+  {
+   "id": "0dd1b2feb400d6ed",
+   "ctx": "⚠ contiene numeri · Animali uccisi per cittadino › p",
+   "orig": "Popolazione: 58.943.000 residenti, ISTAT al 1° gennaio 2026 (dato provvisorio). Totale degli animali su 12 mesi (ago 2025–lug 2026).",
+   "text": "Popolazione: 58.943.000 residenti, ISTAT al 1° gennaio 2026 (dato provvisorio). Totale degli animali su 12 mesi (ago 2025–lug 2026).",
+   "cifre_ok": false
+  },
+  {
+   "id": "978fc697ef018ac1",
+   "ctx": "Animali uccisi per cittadino › dt",
+   "orig": "Tipo",
+   "text": "Tipo",
+   "cifre_ok": false
+  },
+  {
+   "id": "b616976994b86c33",
+   "ctx": "Animali uccisi per cittadino › dd",
+   "orig": "Macellazione",
+   "text": "Macellazione",
+   "cifre_ok": false
+  },
+  {
+   "id": "e2a0b21c8b198726",
+   "ctx": "Animali uccisi per cittadino › dt",
+   "orig": "Totale",
+   "text": "Totale",
+   "cifre_ok": false
+  },
+  {
+   "id": "6e082093ad5c34a4",
+   "ctx": "⚠ contiene numeri · Animali uccisi per cittadino › dd",
+   "orig": "2.402.197 (ago 2025–lug 2026)",
+   "text": "2.402.197 (ago 2025–lug 2026)",
+   "cifre_ok": false
+  },
+  {
+   "id": "cbeeea42275c34f8",
+   "ctx": "Animali uccisi per cittadino › dt",
+   "orig": "Peso medio per capo",
+   "text": "Peso medio per capo",
+   "cifre_ok": false
+  },
+  {
+   "id": "101bfb0d9f24df8c",
+   "ctx": "⚠ contiene numeri · Animali uccisi per cittadino › dd",
+   "orig": "Carcassa 261 kg · vivo 454 kg · resa 57,6%",
+   "text": "Carcassa 261 kg · vivo 454 kg · resa 57,6%",
+   "cifre_ok": false
+  },
+  {
+   "id": "c473d91fc4d4ea85",
+   "ctx": "Animali uccisi per cittadino › dt",
+   "orig": "Fonte",
+   "text": "Fonte",
+   "cifre_ok": false
+  },
+  {
+   "id": "3331eb9d58a67533",
+   "ctx": "⚠ contiene numeri · Animali uccisi per cittadino › dd",
+   "orig": "[ISTAT, macellazioni mensili (dataset 101\\_1033), capi macellati](https://dati.istat.it/)",
+   "text": "[ISTAT, macellazioni mensili (dataset 101\\_1033), capi macellati](https://dati.istat.it/)",
+   "cifre_ok": false
+  },
+  {
+   "id": "a181ab1d03439e31",
+   "ctx": "Animali uccisi per cittadino › p",
+   "orig": "Totale ISTAT dei bovini macellati: comprende vitelli, vitelloni, manzi, buoi, tori e vacche. Le altre schede bovine sono componenti di questo totale.",
+   "text": "Totale ISTAT dei bovini macellati: comprende vitelli, vitelloni, manzi, buoi, tori e vacche. Le altre schede bovine sono componenti di questo totale.",
+   "cifre_ok": false
+  },
+  {
+   "id": "9f171caa7fafa05b",
+   "ctx": "⚠ contiene numeri · Animali uccisi per cittadino › p",
+   "orig": "Peso medio per capo: ISTAT, macellazioni mensili (ago 2025–lug 2026), peso morto complessivo ÷ capi macellati, ponderato sui capi. Resa = peso morto ÷ peso vivo.",
+   "text": "Peso medio per capo: ISTAT, macellazioni mensili (ago 2025–lug 2026), peso morto complessivo ÷ capi macellati, ponderato sui capi. Resa = peso morto ÷ peso vivo.",
+   "cifre_ok": false
+  },
+  {
+   "id": "9f32941200b89d7e",
+   "ctx": "⚠ contiene numeri · Animali uccisi per cittadino › p",
+   "orig": "Abbattimenti sanitari documentati: dermatite nodulare in Sardegna, 759 bovini abbattuti nel 2025 al 24/9 (Quotidiano Sanità, riportato da terzi). Non inclusi nel contatore.",
+   "text": "Abbattimenti sanitari documentati: dermatite nodulare in Sardegna, 759 bovini abbattuti nel 2025 al 24/9 (Quotidiano Sanità, riportato da terzi). Non inclusi nel contatore.",
+   "cifre_ok": false
+  },
+  {
+   "id": "1c134be1317a38c4",
+   "ctx": "Animali uccisi per cittadino › h2",
+   "orig": "Bovini: tutte le categorie",
+   "text": "Bovini: tutte le categorie",
+   "cifre_ok": false
+  },
+  {
+   "id": "488abdf226091cfe",
+   "ctx": "Bovini: tutte le categorie › p",
+   "orig": "Il totale comprende le altre categorie: i valori non si sommano.",
+   "text": "Il totale comprende le altre categorie: i valori non si sommano.",
+   "cifre_ok": false
+  },
+  {
+   "id": "396a05883ef1ad12",
+   "ctx": "Bovini: tutte le categorie › h3",
+   "orig": "Definizioni",
+   "text": "Definizioni",
+   "cifre_ok": false
+  },
+  {
+   "id": "2a3b8558fbe61cbd",
+   "ctx": "Definizioni › dt",
+   "orig": "Vitelli",
+   "text": "Vitelli",
+   "cifre_ok": false
+  },
+  {
+   "id": "07ecf1d43626759b",
+   "ctx": "⚠ contiene numeri · Definizioni › dd",
+   "orig": "ISTAT «vitelli»: 560.909 sotto gli 8 mesi e 68.256 da 8 mesi in su.",
+   "text": "ISTAT «vitelli»: 560.909 sotto gli 8 mesi e 68.256 da 8 mesi in su.",
+   "cifre_ok": false
+  },
+  {
+   "id": "6e12ef54938dc5ba",
+   "ctx": "Definizioni › dt",
+   "orig": "Vitelloni maschi e manzi",
+   "text": "Vitelloni maschi e manzi",
+   "cifre_ok": false
+  },
+  {
+   "id": "b341b608d2a5633e",
+   "ctx": "Definizioni › dd",
+   "orig": "ISTAT «vitelloni maschi e manzi». ISTAT non separa i manzi dai vitelloni maschi.",
+   "text": "ISTAT «vitelloni maschi e manzi». ISTAT non separa i manzi dai vitelloni maschi.",
+   "cifre_ok": false
+  },
+  {
+   "id": "0fd24148af63e7ab",
+   "ctx": "Definizioni › dt",
+   "orig": "Vitelloni femmine",
+   "text": "Vitelloni femmine",
+   "cifre_ok": false
+  },
+  {
+   "id": "f999eb3d1b0793c5",
+   "ctx": "Definizioni › dd",
+   "orig": "ISTAT «vitelloni femmine».",
+   "text": "ISTAT «vitelloni femmine».",
+   "cifre_ok": false
+  },
+  {
+   "id": "db00538b2fc6822e",
+   "ctx": "Definizioni › dt",
+   "orig": "Buoi",
+   "text": "Buoi",
+   "cifre_ok": false
+  },
+  {
+   "id": "223df0bd48409554",
+   "ctx": "Definizioni › dd",
+   "orig": "ISTAT «buoi».",
+   "text": "ISTAT «buoi».",
+   "cifre_ok": false
+  },
+  {
+   "id": "a6a3c2f422f092f4",
+   "ctx": "Definizioni › dt",
+   "orig": "Tori",
+   "text": "Tori",
+   "cifre_ok": false
+  },
+  {
+   "id": "5f6483e7ebb92ddf",
+   "ctx": "Definizioni › dd",
+   "orig": "ISTAT «tori».",
+   "text": "ISTAT «tori».",
+   "cifre_ok": false
+  },
+  {
+   "id": "02a2936367b48455",
+   "ctx": "Definizioni › dt",
+   "orig": "Vacche",
+   "text": "Vacche",
+   "cifre_ok": false
+  },
+  {
+   "id": "84996af44c3375fa",
+   "ctx": "Definizioni › dd",
+   "orig": "ISTAT «vacche».",
+   "text": "ISTAT «vacche».",
+   "cifre_ok": false
+  },
+  {
+   "id": "e52b70bd2e47a6f9",
+   "ctx": "Impiego › p",
+   "orig": "Carne di vitello (fettine, bocconcini). Molti vitelli nascono nella filiera del latte: i maschi non servono alla produzione di latte e sono avviati alla carne.",
+   "text": "Carne di vitello (fettine, bocconcini). Molti vitelli nascono nella filiera del latte: i maschi non servono alla produzione di latte e sono avviati alla carne.",
+   "cifre_ok": false
+  },
+  {
+   "id": "969a7628d402d36f",
+   "ctx": "Animali uccisi per cittadino › h2",
+   "orig": "Perché",
+   "text": "Perché",
+   "cifre_ok": false
+  },
+  {
+   "id": "2f09d8935c84c7f3",
+   "ctx": "Perché › p",
+   "orig": "I vitelli maschi dell'industria del latte, non destinati alla rimonta, sono avviati all'ingrasso o alla macellazione.",
+   "text": "I vitelli maschi dell'industria del latte, non destinati alla rimonta, sono avviati all'ingrasso o alla macellazione.",
+   "cifre_ok": false
+  },
+  {
+   "id": "32c02a9476b374b6",
+   "ctx": "⚠ contiene numeri · Perché › dd",
+   "orig": "629.165 (ago 2025–lug 2026)",
+   "text": "629.165 (ago 2025–lug 2026)",
+   "cifre_ok": false
+  },
+  {
+   "id": "0696ccbd6c3a03d4",
+   "ctx": "⚠ contiene numeri · Perché › dd",
+   "orig": "Carcassa 133 kg · vivo 213 kg · resa 62,2%",
+   "text": "Carcassa 133 kg · vivo 213 kg · resa 62,2%",
+   "cifre_ok": false
+  },
+  {
+   "id": "02b80ae3bb2bfd70",
+   "ctx": "Perché › p",
+   "orig": "Compreso nel totale «Bovini (totale)». Le categorie non si sommano.",
+   "text": "Compreso nel totale «Bovini (totale)». Le categorie non si sommano.",
+   "cifre_ok": false
+  },
+  {
+   "id": "a7823696dae58ec1",
+   "ctx": "Impiego › p",
+   "orig": "Carne di vitellone e di manzo: tagli, macinato, hamburger e polpette, di solito dopo un periodo di ingrasso.",
+   "text": "Carne di vitellone e di manzo: tagli, macinato, hamburger e polpette, di solito dopo un periodo di ingrasso.",
+   "cifre_ok": false
+  },
+  {
+   "id": "cb053c4019113a52",
+   "ctx": "⚠ contiene numeri · Animali uccisi per cittadino › dd",
+   "orig": "706.487 (ago 2025–lug 2026)",
+   "text": "706.487 (ago 2025–lug 2026)",
+   "cifre_ok": false
+  },
+  {
+   "id": "b1d53c8b13c046f1",
+   "ctx": "⚠ contiene numeri · Animali uccisi per cittadino › dd",
+   "orig": "Carcassa 343 kg · vivo 567 kg · resa 60,5%",
+   "text": "Carcassa 343 kg · vivo 567 kg · resa 60,5%",
+   "cifre_ok": false
+  },
+  {
+   "id": "8e27395c4d17ac79",
+   "ctx": "Impiego › p",
+   "orig": "Carne di vitellone femmina: tagli, macinato, hamburger e polpette.",
+   "text": "Carne di vitellone femmina: tagli, macinato, hamburger e polpette.",
+   "cifre_ok": false
+  },
+  {
+   "id": "2a67edaf760c6847",
+   "ctx": "⚠ contiene numeri · Animali uccisi per cittadino › dd",
+   "orig": "574.303 (ago 2025–lug 2026)",
+   "text": "574.303 (ago 2025–lug 2026)",
+   "cifre_ok": false
+  },
+  {
+   "id": "82f1e4c079e2aacf",
+   "ctx": "⚠ contiene numeri · Animali uccisi per cittadino › dd",
+   "orig": "Carcassa 282 kg · vivo 496 kg · resa 56,9%",
+   "text": "Carcassa 282 kg · vivo 496 kg · resa 56,9%",
+   "cifre_ok": false
+  },
+  {
+   "id": "079ed41ad085825e",
+   "ctx": "Impiego › p",
+   "orig": "Carne bovina: tagli e macinato.",
+   "text": "Carne bovina: tagli e macinato.",
+   "cifre_ok": false
+  },
+  {
+   "id": "3a8c54b1a9661567",
+   "ctx": "⚠ contiene numeri · Animali uccisi per cittadino › dd",
+   "orig": "3649 (ago 2025–lug 2026)",
+   "text": "3649 (ago 2025–lug 2026)",
+   "cifre_ok": false
+  },
+  {
+   "id": "aaee11e2e8c4a47d",
+   "ctx": "⚠ contiene numeri · Animali uccisi per cittadino › dd",
+   "orig": "Carcassa 303 kg · vivo 533 kg · resa 56,9%",
+   "text": "Carcassa 303 kg · vivo 533 kg · resa 56,9%",
+   "cifre_ok": false
+  },
+  {
+   "id": "657d7f8c37ac8df3",
+   "ctx": "Impiego › p",
+   "orig": "Carne di toro, macinato e preparazioni. Alcuni maschi sono tenuti come riproduttori.",
+   "text": "Carne di toro, macinato e preparazioni. Alcuni maschi sono tenuti come riproduttori.",
+   "cifre_ok": false
+  },
+  {
+   "id": "d769be1d89a0df10",
+   "ctx": "⚠ contiene numeri · Animali uccisi per cittadino › dd",
+   "orig": "11.546 (ago 2025–lug 2026)",
+   "text": "11.546 (ago 2025–lug 2026)",
+   "cifre_ok": false
+  },
+  {
+   "id": "e29da2f8a1ffd8f2",
+   "ctx": "⚠ contiene numeri · Animali uccisi per cittadino › dd",
+   "orig": "Carcassa 406 kg · vivo 677 kg · resa 60,0%",
+   "text": "Carcassa 406 kg · vivo 677 kg · resa 60,0%",
+   "cifre_ok": false
+  },
+  {
+   "id": "4e0d485009764f2d",
+   "ctx": "Impiego › p",
+   "orig": "Carne di vacche a fine carriera, dopo anni di produzione di latte: macinato, hamburger, carne in scatola e preparazioni industriali.",
+   "text": "Carne di vacche a fine carriera, dopo anni di produzione di latte: macinato, hamburger, carne in scatola e preparazioni industriali.",
+   "cifre_ok": false
+  },
+  {
+   "id": "fdbc1bf8953f5b27",
+   "ctx": "Perché › p",
+   "orig": "Le vacche da latte sono macellate a fine carriera produttiva.",
+   "text": "Le vacche da latte sono macellate a fine carriera produttiva.",
+   "cifre_ok": false
+  },
+  {
+   "id": "3e05dcff6438dc22",
+   "ctx": "⚠ contiene numeri · Perché › dd",
+   "orig": "477.047 (ago 2025–lug 2026)",
+   "text": "477.047 (ago 2025–lug 2026)",
+   "cifre_ok": false
+  },
+  {
+   "id": "3c102c7899dfc8ad",
+   "ctx": "⚠ contiene numeri · Perché › dd",
+   "orig": "Carcassa 280 kg · vivo 546 kg · resa 51,3%",
+   "text": "Carcassa 280 kg · vivo 546 kg · resa 51,3%",
+   "cifre_ok": false
+  }
+ ],
+ "orfane": []
+}

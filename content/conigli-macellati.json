@@ -1,0 +1,41 @@
+{
+ "titolo": "Conigli",
+ "voci": [
+  {
+   "id": "dbe29f4ed5c76c84",
+   "ctx": "h1",
+   "orig": "Conigli",
+   "text": "Conigli",
+   "cifre_ok": false
+  },
+  {
+   "id": "fffa00197909ed1f",
+   "ctx": "Impiego › p",
+   "orig": "Carne di coniglio, intera o a pezzi, e preparati come hamburger.",
+   "text": "Carne di coniglio, intera o a pezzi, e preparati come hamburger.",
+   "cifre_ok": false
+  },
+  {
+   "id": "e471284a265238f2",
+   "ctx": "⚠ contiene numeri · Animali uccisi per cittadino › dd",
+   "orig": "12.714.970 (ago 2025–lug 2026)",
+   "text": "12.714.970 (ago 2025–lug 2026)",
+   "cifre_ok": false
+  },
+  {
+   "id": "599505218e8cc49a",
+   "ctx": "⚠ contiene numeri · Animali uccisi per cittadino › dd",
+   "orig": "Carcassa 1,6 kg · vivo 2,7 kg · resa 60,2%",
+   "text": "Carcassa 1,6 kg · vivo 2,7 kg · resa 60,2%",
+   "cifre_ok": false
+  },
+  {
+   "id": "944c9944c4a24ebd",
+   "ctx": "⚠ contiene numeri · Animali uccisi per cittadino › p",
+   "orig": "ISTAT «totale conigli». Annuale ISTAT: 13.709.624 nel 2024 e 12.699.382 nel 2025. Macelli registrati: la macellazione in azienda non è inclusa. La cifra di 14.507.537 (CIWF) non è confermata.",
+   "text": "ISTAT «totale conigli». Annuale ISTAT: 13.709.624 nel 2024 e 12.699.382 nel 2025. Macelli registrati: la macellazione in azienda non è inclusa. La cifra di 14.507.537 (CIWF) non è confermata.",
+   "cifre_ok": false
+  }
+ ],
+ "orfane": []
+}

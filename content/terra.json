@@ -1,0 +1,335 @@
+{
+ "titolo": "Terra per allevamenti e mangimi",
+ "voci": [
+  {
+   "id": "bbb7db6138a3a7b4",
+   "ctx": "h1",
+   "orig": "Terra per allevamenti e mangimi",
+   "text": "Terra per allevamenti e mangimi",
+   "cifre_ok": false
+  },
+  {
+   "id": "33466c5a919f438e",
+   "ctx": "Terra per allevamenti e mangimi › p",
+   "orig": "I dati fisici (ettari censiti) e le stime di modello (impronta di terra per prodotto) sono grandezze diverse e restano separate in questa pagina. Non si sommano.",
+   "text": "I dati fisici (ettari censiti) e le stime di modello (impronta di terra per prodotto) sono grandezze diverse e restano separate in questa pagina. Non si sommano.",
+   "cifre_ok": false
+  },
+  {
+   "id": "325d2bf72e49ab68",
+   "ctx": "Terra per allevamenti e mangimi › h2",
+   "orig": "Animali o persone? La terra agricola a colpo d'occhio",
+   "text": "Animali o persone? La terra agricola a colpo d'occhio",
+   "cifre_ok": false
+  },
+  {
+   "id": "23c033311e1bef79",
+   "ctx": "⚠ contiene numeri · Animali o persone? La terra agricola a colpo d'o › h3",
+   "orig": "Italia, 2024: 12,9 milioni di ettari",
+   "text": "Italia, 2024: 12,9 milioni di ettari",
+   "cifre_ok": false
+  },
+  {
+   "id": "b4f9b7b968b79555",
+   "ctx": "⚠ contiene numeri · Italia, 2024: 12,9 milioni di ettari › p",
+   "orig": "FAOSTAT, uso del suolo, Italia 2024. Le superfici sono ettari censiti. «Uso misto» non è «cibo umano»: cereali e soia vanno anche ai mangimi, ma i dati non dicono in che quota.",
+   "text": "FAOSTAT, uso del suolo, Italia 2024. Le superfici sono ettari censiti. «Uso misto» non è «cibo umano»: cereali e soia vanno anche ai mangimi, ma i dati non dicono in che quota.",
+   "cifre_ok": false
+  },
+  {
+   "id": "ab2d685fb574306c",
+   "ctx": "⚠ contiene numeri · Italia, 2024: 12,9 milioni di ettari › h3",
+   "orig": "Unione europea (UE-27), 2023: 153,6 milioni di ettari",
+   "text": "Unione europea (UE-27), 2023: 153,6 milioni di ettari",
+   "cifre_ok": false
+  },
+  {
+   "id": "1def37e89f78f70c",
+   "ctx": "⚠ contiene numeri · Unione europea (UE-27), 2023: 153,6 milioni di e › p",
+   "orig": "Eurostat 2023. I prati permanenti e i seminativi totali (96,52 Mha) vengono dall'indagine sulla struttura delle aziende; le foraggere verdi (19,72 Mha) e i cereali (50,97 Mha) dalle statistiche annuali sulle colture. «Altri seminativi» è calcolato per differenza (96,52 − 19,72 − 50,97 = 25,83) e comprende il maggese. Fonti e metodi diversi: i confini tra le voci sono approssimati.",
+   "text": "Eurostat 2023. I prati permanenti e i seminativi totali (96,52 Mha) vengono dall'indagine sulla struttura delle aziende; le foraggere verdi (19,72 Mha) e i cereali (50,97 Mha) dalle statistiche annuali sulle colture. «Altri seminativi» è calcolato per differenza (96,52 − 19,72 − 50,97 = 25,83) e comprende il maggese. Fonti e metodi diversi: i confini tra le voci sono approssimati.",
+   "cifre_ok": false
+  },
+  {
+   "id": "957551b0caed6dff",
+   "ctx": "Unione europea (UE-27), 2023: 153,6 milioni di e › h2",
+   "orig": "Quanta terra si libererebbe senza allevamenti?",
+   "text": "Quanta terra si libererebbe senza allevamenti?",
+   "cifre_ok": false
+  },
+  {
+   "id": "afb5e9917f6554e9",
+   "ctx": "Quanta terra si libererebbe senza allevamenti? › p",
+   "orig": "Nessuna fonte che abbiamo letto calcola questo scenario per l'Italia o per l'UE. Si può dire quanta terra occupano oggi i prati, i pascoli e le foraggere: è un limite superiore teorico, non una previsione.",
+   "text": "Nessuna fonte che abbiamo letto calcola questo scenario per l'Italia o per l'UE. Si può dire quanta terra occupano oggi i prati, i pascoli e le foraggere: è un limite superiore teorico, non una previsione.",
+   "cifre_ok": false
+  },
+  {
+   "id": "bfe480e82fd3cd98",
+   "ctx": "⚠ contiene numeri · Quanta terra si libererebbe senza allevamenti? › p",
+   "orig": "Territorio nazionale e boschi: FAOSTAT 2024 (29,57 Mha di superficie terrestre; 9,41 Mha di foreste).",
+   "text": "Territorio nazionale e boschi: FAOSTAT 2024 (29,57 Mha di superficie terrestre; 9,41 Mha di foreste).",
+   "cifre_ok": false
+  },
+  {
+   "id": "cdb215d842aafc27",
+   "ctx": "Quanta terra si libererebbe senza allevamenti? › h3",
+   "orig": "Perché non è un conto semplice",
+   "text": "Perché non è un conto semplice",
+   "cifre_ok": false
+  },
+  {
+   "id": "4aa53df3618ae0ac",
+   "ctx": "Perché non è un conto semplice › li",
+   "orig": "Non tutta la terra a prato o pascolo è coltivabile: Our World in Data riporta che due terzi dei pascoli del mondo non sono adatti alle colture.",
+   "text": "Non tutta la terra a prato o pascolo è coltivabile: Our World in Data riporta che due terzi dei pascoli del mondo non sono adatti alle colture.",
+   "cifre_ok": false
+  },
+  {
+   "id": "8588e8afdeb2cb7c",
+   "ctx": "⚠ contiene numeri · Perché non è un conto semplice › li",
+   "orig": "Il modello di Poore e Nemecek stima che un mondo senza prodotti animali userebbe il 76% di terra in meno per il cibo (3,1 miliardi di ettari). Per Our World in Data la terra agricola scenderebbe da 4 a 1 miliardo di ettari. Sono scenari globali, non valori per l'Italia.",
+   "text": "Il modello di Poore e Nemecek stima che un mondo senza prodotti animali userebbe il 76% di terra in meno per il cibo (3,1 miliardi di ettari). Per Our World in Data la terra agricola scenderebbe da 4 a 1 miliardo di ettari. Sono scenari globali, non valori per l'Italia.",
+   "cifre_ok": false
+  },
+  {
+   "id": "2dcbc5381706d23d",
+   "ctx": "Perché non è un conto semplice › li",
+   "orig": "L'Italia importa mangimi: la terra estera usata per farli non è nei numeri di questa pagina.",
+   "text": "L'Italia importa mangimi: la terra estera usata per farli non è nei numeri di questa pagina.",
+   "cifre_ok": false
+  },
+  {
+   "id": "495fab10c5b83475",
+   "ctx": "Perché non è un conto semplice › li",
+   "orig": "Liberare la terra non coincide con destinarla a nuove colture: potrebbe tornare a bosco o prato naturale.",
+   "text": "Liberare la terra non coincide con destinarla a nuove colture: potrebbe tornare a bosco o prato naturale.",
+   "cifre_ok": false
+  },
+  {
+   "id": "974980a5c0bcf84a",
+   "ctx": "Perché non è un conto semplice › h2",
+   "orig": "Nel mondo: terra, calorie e proteine",
+   "text": "Nel mondo: terra, calorie e proteine",
+   "cifre_ok": false
+  },
+  {
+   "id": "0c4bb85e7b7b5f3a",
+   "ctx": "Nel mondo: terra, calorie e proteine › figcaption",
+   "orig": "Terra agricola usata per il bestiame",
+   "text": "Terra agricola usata per il bestiame",
+   "cifre_ok": false
+  },
+  {
+   "id": "4ace04e2ae383dda",
+   "ctx": "Nel mondo: terra, calorie e proteine › figcaption",
+   "orig": "Calorie fornite da carne, latticini e pesce",
+   "text": "Calorie fornite da carne, latticini e pesce",
+   "cifre_ok": false
+  },
+  {
+   "id": "de88d86904a097b3",
+   "ctx": "Nel mondo: terra, calorie e proteine › figcaption",
+   "orig": "Proteine fornite da carne, latticini e pesce",
+   "text": "Proteine fornite da carne, latticini e pesce",
+   "cifre_ok": false
+  },
+  {
+   "id": "73565423bf4b6b2a",
+   "ctx": "⚠ contiene numeri · Nel mondo: terra, calorie e proteine › p",
+   "orig": "Our World in Data (2024), su dati FAO e Poore e Nemecek 2018. Nel caso della terra, le quote sono stime di modello. Il «resto» di calorie e proteine è calcolato per differenza.",
+   "text": "Our World in Data (2024), su dati FAO e Poore e Nemecek 2018. Nel caso della terra, le quote sono stime di modello. Il «resto» di calorie e proteine è calcolato per differenza.",
+   "cifre_ok": false
+  },
+  {
+   "id": "3fd90f423f66d0f1",
+   "ctx": "Nel mondo: terra, calorie e proteine › h2",
+   "orig": "Italia: prati, pascoli ed erbai",
+   "text": "Italia: prati, pascoli ed erbai",
+   "cifre_ok": false
+  },
+  {
+   "id": "eaf6c05bf1215aa5",
+   "ctx": "⚠ contiene numeri · Italia: prati, pascoli ed erbai › p",
+   "orig": "ISTAT, superfici coltivate, anno 2025, ettari. Dato fisico, indagine statistica.",
+   "text": "ISTAT, superfici coltivate, anno 2025, ettari. Dato fisico, indagine statistica.",
+   "cifre_ok": false
+  },
+  {
+   "id": "691aec33e3dbca72",
+   "ctx": "⚠ contiene numeri · Italia: prati, pascoli ed erbai › p",
+   "orig": "Le tre voci dei prati permanenti sommano 3.506.622 ettari: ai 3.536.791 del totale ne mancano 30.169, non ripartiti nel file. Le foraggere dei seminativi sono la somma di 16 voci del file ISTAT (codici Eurostat G): non c'è un totale ufficiale nel file e non si può escludere una sovrapposizione tra voci, ma il risultato coincide entro lo 0,3% con la categoria FAO «prati e pascoli temporanei» (sotto).",
+   "text": "Le tre voci dei prati permanenti sommano 3.506.622 ettari: ai 3.536.791 del totale ne mancano 30.169, non ripartiti nel file. Le foraggere dei seminativi sono la somma di 16 voci del file ISTAT (codici Eurostat G): non c'è un totale ufficiale nel file e non si può escludere una sovrapposizione tra voci, ma il risultato coincide entro lo 0,3% con la categoria FAO «prati e pascoli temporanei» (sotto).",
+   "cifre_ok": false
+  },
+  {
+   "id": "a14bc856bcbeb222",
+   "ctx": "Italia: prati, pascoli ed erbai › h2",
+   "orig": "Controllo con FAO",
+   "text": "Controllo con FAO",
+   "cifre_ok": false
+  },
+  {
+   "id": "18756134a12248d9",
+   "ctx": "⚠ contiene numeri · Controllo con FAO › p",
+   "orig": "FAOSTAT, uso del suolo in Italia, 2024, ettari.",
+   "text": "FAOSTAT, uso del suolo in Italia, 2024, ettari.",
+   "cifre_ok": false
+  },
+  {
+   "id": "ed44b29a000cf9df",
+   "ctx": "⚠ contiene numeri · Controllo con FAO › p",
+   "orig": "Permanenti più temporanei: 6.113.800 ettari, il 47,4% della superficie agricola FAO. Il confronto con ISTAT: permanenti 3.553.810 (FAO 2024) contro 3.536.791 (ISTAT 2025); temporanei 2.559.990 contro 2.552.220. Nel censimento ISTAT del 2020 i prati permanenti e pascoli erano 3.136.555 ettari e la SAU 12.535.356: non è lo stesso anno né la stessa rilevazione. I seminativi FAO comprendono anche i prati temporanei.",
+   "text": "Permanenti più temporanei: 6.113.800 ettari, il 47,4% della superficie agricola FAO. Il confronto con ISTAT: permanenti 3.553.810 (FAO 2024) contro 3.536.791 (ISTAT 2025); temporanei 2.559.990 contro 2.552.220. Nel censimento ISTAT del 2020 i prati permanenti e pascoli erano 3.136.555 ettari e la SAU 12.535.356: non è lo stesso anno né la stessa rilevazione. I seminativi FAO comprendono anche i prati temporanei.",
+   "cifre_ok": false
+  },
+  {
+   "id": "58970ec6304d98ea",
+   "ctx": "Controllo con FAO › h2",
+   "orig": "Cereali e semi: quanti ettari vanno ai mangimi?",
+   "text": "Cereali e semi: quanti ettari vanno ai mangimi?",
+   "cifre_ok": false
+  },
+  {
+   "id": "abdf4b3dfaac9993",
+   "ctx": "⚠ contiene numeri · Cereali e semi: quanti ettari vanno ai mangimi? › p",
+   "orig": "ISTAT 2025, ettari totali della coltura, non la quota per mangimi.",
+   "text": "ISTAT 2025, ettari totali della coltura, non la quota per mangimi.",
+   "cifre_ok": false
+  },
+  {
+   "id": "5fcb8110a1e4ec97",
+   "ctx": "Cereali e semi: quanti ettari vanno ai mangimi? › p",
+   "orig": "Queste colture sono usate anche per l'alimentazione umana, l'industria e l'esportazione. ISTAT non indica quanta superficie o produzione vada ai mangimi, quindi **non esiste un totale in ettari per i cereali da mangime** e non lo stimiamo. Anche Our World in Data scrive che la FAO non fornisce la ripartizione tra cibo, mangimi e usi industriali.",
+   "text": "Queste colture sono usate anche per l'alimentazione umana, l'industria e l'esportazione. ISTAT non indica quanta superficie o produzione vada ai mangimi, quindi **non esiste un totale in ettari per i cereali da mangime** e non lo stimiamo. Anche Our World in Data scrive che la FAO non fornisce la ripartizione tra cibo, mangimi e usi industriali.",
+   "cifre_ok": false
+  },
+  {
+   "id": "702264e2e062ced7",
+   "ctx": "⚠ contiene numeri · Cereali e semi: quanti ettari vanno ai mangimi? › h2",
+   "orig": "Unione europea (UE-27)",
+   "text": "Unione europea (UE-27)",
+   "cifre_ok": false
+  },
+  {
+   "id": "a1943069703c4138",
+   "ctx": "⚠ contiene numeri · Unione europea (UE-27) › p",
+   "orig": "Eurostat, apro\\_cpsh1, anno 2024, milioni di ettari. Dato fisico, statistica ufficiale. L'Italia ha 2,56 milioni di ettari di foraggere verdi dei seminativi, il 12,8% del totale UE.",
+   "text": "Eurostat, apro\\_cpsh1, anno 2024, milioni di ettari. Dato fisico, statistica ufficiale. L'Italia ha 2,56 milioni di ettari di foraggere verdi dei seminativi, il 12,8% del totale UE.",
+   "cifre_ok": false
+  },
+  {
+   "id": "a2fc7420f85fdde8",
+   "ctx": "Unione europea (UE-27) › p",
+   "orig": "Cereali da granella, ettari totali, non la quota per mangimi:",
+   "text": "Cereali da granella, ettari totali, non la quota per mangimi:",
+   "cifre_ok": false
+  },
+  {
+   "id": "f2b9f1681d13fff9",
+   "ctx": "Unione europea (UE-27) › p",
+   "orig": "Le tre voci in dettaglio delle foraggere non sommano al totale: restano altre colture verdi (cereali raccolti verdi e altre piante) non mostrate. Per l'Unione europea non c'è, come per l'Italia, la quota di cereali e soia destinata ai mangimi.",
+   "text": "Le tre voci in dettaglio delle foraggere non sommano al totale: restano altre colture verdi (cereali raccolti verdi e altre piante) non mostrate. Per l'Unione europea non c'è, come per l'Italia, la quota di cereali e soia destinata ai mangimi.",
+   "cifre_ok": false
+  },
+  {
+   "id": "2189a40dbe5a0379",
+   "ctx": "Unione europea (UE-27) › h3",
+   "orig": "Prati permanenti e superficie agricola",
+   "text": "Prati permanenti e superficie agricola",
+   "cifre_ok": false
+  },
+  {
+   "id": "12a36cb885901ec0",
+   "ctx": "⚠ contiene numeri · Prati permanenti e superficie agricola › p",
+   "orig": "Eurostat, indagine sulla struttura delle aziende agricole (ef\\_lus\\_main), solo aziende sopra la soglia, 2023, milioni di ettari. L'indagine esce solo ogni tre anni circa (2020, 2023), non ogni anno.",
+   "text": "Eurostat, indagine sulla struttura delle aziende agricole (ef\\_lus\\_main), solo aziende sopra la soglia, 2023, milioni di ettari. L'indagine esce solo ogni tre anni circa (2020, 2023), non ogni anno.",
+   "cifre_ok": false
+  },
+  {
+   "id": "0f891f29e71718bc",
+   "ctx": "⚠ contiene numeri · Prati permanenti e superficie agricola › p",
+   "orig": "I prati permanenti sono il 29,9% della superficie agricola nell'UE-27 e il 24,0% in Italia. Nel 2020 erano 46,57 milioni di ettari nell'UE-27 e 3,09 in Italia. I numeri non coincidono con quelli di ISTAT, FAO o di altre statistiche UE (per l'Italia 2,95 qui contro 3,54 di ISTAT 2025 e 3,14 del censimento 2020): cambiano la rilevazione, le soglie e la definizione di «all'aperto». Vanno letti per fonte, non confrontati.",
+   "text": "I prati permanenti sono il 29,9% della superficie agricola nell'UE-27 e il 24,0% in Italia. Nel 2020 erano 46,57 milioni di ettari nell'UE-27 e 3,09 in Italia. I numeri non coincidono con quelli di ISTAT, FAO o di altre statistiche UE (per l'Italia 2,95 qui contro 3,54 di ISTAT 2025 e 3,14 del censimento 2020): cambiano la rilevazione, le soglie e la definizione di «all'aperto». Vanno letti per fonte, non confrontati.",
+   "cifre_ok": false
+  },
+  {
+   "id": "9092d0cec3954be6",
+   "ctx": "Prati permanenti e superficie agricola › h2",
+   "orig": "Nel mondo: quanti ettari",
+   "text": "Nel mondo: quanti ettari",
+   "cifre_ok": false
+  },
+  {
+   "id": "c0fad9ff0450e321",
+   "ctx": "⚠ contiene numeri · Nel mondo: quanti ettari › p",
+   "orig": "Sommando i pascoli e i coltivi per mangimi, il bestiame occupa l'80% della terra agricola; il cibo vegetale per le persone il 16% e le colture non alimentari il 4%. Carne, latticini e pesce d'allevamento forniscono il 17% delle calorie e il 38% delle proteine (FAO, tramite Our World in Data).",
+   "text": "Sommando i pascoli e i coltivi per mangimi, il bestiame occupa l'80% della terra agricola; il cibo vegetale per le persone il 16% e le colture non alimentari il 4%. Carne, latticini e pesce d'allevamento forniscono il 17% delle calorie e il 38% delle proteine (FAO, tramite Our World in Data).",
+   "cifre_ok": false
+  },
+  {
+   "id": "da6279662854ab83",
+   "ctx": "Nel mondo: quanti ettari › p",
+   "orig": "Dati di modello, non ettari censiti. I pascoli dello studio sono stimati con poche osservazioni per l'Africa e senza osservazioni per Arabia Saudita, Kazakistan e Mongolia: gli autori dicono che questo porta a sottostimare l'uso di terra dei ruminanti. Our World in Data riporta che due terzi dei pascoli non sono adatti alla coltivazione.",
+   "text": "Dati di modello, non ettari censiti. I pascoli dello studio sono stimati con poche osservazioni per l'Africa e senza osservazioni per Arabia Saudita, Kazakistan e Mongolia: gli autori dicono che questo porta a sottostimare l'uso di terra dei ruminanti. Our World in Data riporta che due terzi dei pascoli non sono adatti alla coltivazione.",
+   "cifre_ok": false
+  },
+  {
+   "id": "f76a05f1151e32cd",
+   "ctx": "⚠ contiene numeri · Nel mondo: quanti ettari › h2",
+   "orig": "Quanta terra per 100 grammi di proteine?",
+   "text": "Quanta terra per 100 grammi di proteine?",
+   "cifre_ok": false
+  },
+  {
+   "id": "225b23e964ce4f93",
+   "ctx": "⚠ contiene numeri · Quanta terra per 100 grammi di proteine? › p",
+   "orig": "Poore e Nemecek 2018, metri quadrati di terra per un anno per 100 g di proteine. Media del campione ricampionato; tra parentesi la mediana. Stima di modello su aziende di 119 Paesi.",
+   "text": "Poore e Nemecek 2018, metri quadrati di terra per un anno per 100 g di proteine. Media del campione ricampionato; tra parentesi la mediana. Stima di modello su aziende di 119 Paesi.",
+   "cifre_ok": false
+  },
+  {
+   "id": "53381ad95f4f2e47",
+   "ctx": "Quanta terra per 100 grammi di proteine? › p",
+   "orig": "La differenza tra media e mediana è grande per i ruminanti: la terra per grammo di proteina varia molto tra aziende e Paesi. Il latte è misurato per litro, non per proteina, e non è nel grafico. Il dato include i pascoli, che per molti ruminanti sono terra non coltivabile.",
+   "text": "La differenza tra media e mediana è grande per i ruminanti: la terra per grammo di proteina varia molto tra aziende e Paesi. Il latte è misurato per litro, non per proteina, e non è nel grafico. Il dato include i pascoli, che per molti ruminanti sono terra non coltivabile.",
+   "cifre_ok": false
+  },
+  {
+   "id": "9ae7b9bc2f963a5d",
+   "ctx": "Limiti › li",
+   "orig": "Per l'Unione europea manca la quota di cereali e soia destinata ai mangimi.",
+   "text": "Per l'Unione europea manca la quota di cereali e soia destinata ai mangimi.",
+   "cifre_ok": false
+  },
+  {
+   "id": "4a7e397b9d1be128",
+   "ctx": "Limiti › li",
+   "orig": "Mancano gli ettari di terra estera per i mangimi importati (soia e altri): non c'è un dato verificato.",
+   "text": "Mancano gli ettari di terra estera per i mangimi importati (soia e altri): non c'è un dato verificato.",
+   "cifre_ok": false
+  },
+  {
+   "id": "fd914a2e790a4674",
+   "ctx": "Limiti › li",
+   "orig": "Il dato FAO «fabbricati e cortili aziendali» non distingue le stalle e quindi non è usato.",
+   "text": "Il dato FAO «fabbricati e cortili aziendali» non distingue le stalle e quindi non è usato.",
+   "cifre_ok": false
+  },
+  {
+   "id": "089a47afd7d99b9e",
+   "ctx": "Limiti › li",
+   "orig": "Il pascolo è terra occupata, non necessariamente sottratta ad altri usi: per questo i dati vanno letti insieme alla qualità del suolo.",
+   "text": "Il pascolo è terra occupata, non necessariamente sottratta ad altri usi: per questo i dati vanno letti insieme alla qualità del suolo.",
+   "cifre_ok": false
+  },
+  {
+   "id": "f556cc52321b2b34",
+   "ctx": "⚠ contiene numeri · Limiti › p",
+   "orig": "Fonti: ISTAT, Superfici e produzione, dati in complesso (dataset IT1101\\_1015\\_DF\\_DCSP\\_COLTIVAZIONI\\_11.0); FAOSTAT, Land Use; Ritchie e Roser, Our World in Data (2024 e 2021); Poore e Nemecek 2018, Science, materiali supplementari. Si veda [Info e fonti](info.html).",
+   "text": "Fonti: ISTAT, Superfici e produzione, dati in complesso (dataset IT1101\\_1015\\_DF\\_DCSP\\_COLTIVAZIONI\\_11.0); FAOSTAT, Land Use; Ritchie e Roser, Our World in Data (2024 e 2021); Poore e Nemecek 2018, Science, materiali supplementari. Si veda [Info e fonti](info.html).",
+   "cifre_ok": false
+  }
+ ],
+ "orfane": []
+}

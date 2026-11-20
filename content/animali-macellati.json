@@ -1,0 +1,706 @@
+{
+ "titolo": "Animali macellati: Italia, Europa e mondo",
+ "voci": [
+  {
+   "id": "c7782c0d16512404",
+   "ctx": "h1",
+   "orig": "Animali macellati: Italia, Europa e mondo",
+   "text": "Animali macellati: Italia, Europa e mondo",
+   "cifre_ok": false
+  },
+  {
+   "id": "3b3745bf2d04f973",
+   "ctx": "⚠ contiene numeri · Animali macellati: Italia, Europa e mondo › p",
+   "orig": "polli macellati nel mondo nel 2024.",
+   "text": "polli macellati nel mondo nel 2024.",
+   "cifre_ok": false
+  },
+  {
+   "id": "6758e2f195ed4317",
+   "ctx": "Animali macellati: Italia, Europa e mondo › p",
+   "orig": "Questa pagina riporta numeri di animali macellati. Per leggere solo l'essenziale scegli «Facile».",
+   "text": "Questa pagina riporta numeri di animali macellati. Per leggere solo l'essenziale scegli «Facile».",
+   "cifre_ok": false
+  },
+  {
+   "id": "616ed2d7da448348",
+   "ctx": "⚠ contiene numeri · Animali macellati: Italia, Europa e mondo › p",
+   "orig": "Fonte: FAO, FAOSTAT, animali macellati per la carne, anno 2024. Ogni specie è un conteggio a sé: le specie non vengono sommate.",
+   "text": "Fonte: FAO, FAOSTAT, animali macellati per la carne, anno 2024. Ogni specie è un conteggio a sé: le specie non vengono sommate.",
+   "cifre_ok": false
+  },
+  {
+   "id": "0124d9b2474924ea",
+   "ctx": "⚠ contiene numeri · Bovini › p",
+   "orig": "In Italia (2024) sono stati macellati circa 2,6 milioni di bovini. Nel mondo (2024), circa 305 milioni di bovini.",
+   "text": "In Italia (2024) sono stati macellati circa 2,6 milioni di bovini. Nel mondo (2024), circa 305 milioni di bovini.",
+   "cifre_ok": false
+  },
+  {
+   "id": "e333325d1a49cc2a",
+   "ctx": "⚠ contiene numeri · Bovini › p",
+   "orig": "Ogni icona è 1 animale ogni 100 macellati nel mondo. In Italia: 1 su 100. Calcolo su dati FAO.",
+   "text": "Ogni icona è 1 animale ogni 100 macellati nel mondo. In Italia: 1 su 100. Calcolo su dati FAO.",
+   "cifre_ok": false
+  },
+  {
+   "id": "e6772643bab0ac01",
+   "ctx": "⚠ contiene numeri · Bovini › p",
+   "orig": "Le barre sono confrontate con il mondo, nella stessa specie. L'Italia è 0,9% del totale mondiale.",
+   "text": "Le barre sono confrontate con il mondo, nella stessa specie. L'Italia è 0,9% del totale mondiale.",
+   "cifre_ok": false
+  },
+  {
+   "id": "ea37676d7b1049c9",
+   "ctx": "Bovini › dt",
+   "orig": "Mondo",
+   "text": "Mondo",
+   "cifre_ok": false
+  },
+  {
+   "id": "3a37fb3a01cbc2ab",
+   "ctx": "⚠ contiene numeri · Bovini › dd",
+   "orig": "stima FAO, 304.744.668 capi",
+   "text": "stima FAO, 304.744.668 capi",
+   "cifre_ok": false
+  },
+  {
+   "id": "81ceaa4ed1c16058",
+   "ctx": "Bovini › dt",
+   "orig": "Europa",
+   "text": "Europa",
+   "cifre_ok": false
+  },
+  {
+   "id": "b733800ae61edaae",
+   "ctx": "⚠ contiene numeri · Bovini › dd",
+   "orig": "valore ufficiale FAO, 37.842.889 capi",
+   "text": "valore ufficiale FAO, 37.842.889 capi",
+   "cifre_ok": false
+  },
+  {
+   "id": "730832a3e43712d1",
+   "ctx": "⚠ contiene numeri · Bovini › dt",
+   "orig": "Italia 2024",
+   "text": "Italia 2024",
+   "cifre_ok": false
+  },
+  {
+   "id": "9205e777ec04d674",
+   "ctx": "⚠ contiene numeri · Bovini › dd",
+   "orig": "valore ufficiale FAO, 2.607.110 capi",
+   "text": "valore ufficiale FAO, 2.607.110 capi",
+   "cifre_ok": false
+  },
+  {
+   "id": "db862dbab0832c5b",
+   "ctx": "⚠ contiene numeri · Bufalini › p",
+   "orig": "In Italia (2024) sono stati macellati circa 99.830 bufalini. Nel mondo (2024), circa 29,0 milioni di bufalini.",
+   "text": "In Italia (2024) sono stati macellati circa 99.830 bufalini. Nel mondo (2024), circa 29,0 milioni di bufalini.",
+   "cifre_ok": false
+  },
+  {
+   "id": "b1bd8f6bf51b7b26",
+   "ctx": "⚠ contiene numeri · Bufalini › p",
+   "orig": "Ogni icona è 1 animale ogni 100 macellati nel mondo. In Italia: meno di 1 su 100. Calcolo su dati FAO.",
+   "text": "Ogni icona è 1 animale ogni 100 macellati nel mondo. In Italia: meno di 1 su 100. Calcolo su dati FAO.",
+   "cifre_ok": false
+  },
+  {
+   "id": "7dade8d95b83579a",
+   "ctx": "⚠ contiene numeri · Bufalini › p",
+   "orig": "Le barre sono confrontate con il mondo, nella stessa specie. L'Italia è 0,3% del totale mondiale.",
+   "text": "Le barre sono confrontate con il mondo, nella stessa specie. L'Italia è 0,3% del totale mondiale.",
+   "cifre_ok": false
+  },
+  {
+   "id": "f300c8bc2a881b3a",
+   "ctx": "⚠ contiene numeri · Bufalini › dd",
+   "orig": "stima FAO, 29.040.868 capi",
+   "text": "stima FAO, 29.040.868 capi",
+   "cifre_ok": false
+  },
+  {
+   "id": "197c028ac9f4abbe",
+   "ctx": "⚠ contiene numeri · Bufalini › dd",
+   "orig": "valore ufficiale FAO, 103.613 capi",
+   "text": "valore ufficiale FAO, 103.613 capi",
+   "cifre_ok": false
+  },
+  {
+   "id": "6073f47bfb94d50c",
+   "ctx": "⚠ contiene numeri · Bufalini › dd",
+   "orig": "valore ufficiale FAO, 99.830 capi",
+   "text": "valore ufficiale FAO, 99.830 capi",
+   "cifre_ok": false
+  },
+  {
+   "id": "bb01211ee69d9700",
+   "ctx": "⚠ contiene numeri · Suini › p",
+   "orig": "In Italia (2024) sono stati macellati circa 10,1 milioni di suini. Nel mondo (2024), circa 1,49 miliardi di suini.",
+   "text": "In Italia (2024) sono stati macellati circa 10,1 milioni di suini. Nel mondo (2024), circa 1,49 miliardi di suini.",
+   "cifre_ok": false
+  },
+  {
+   "id": "edbae64545ec39a7",
+   "ctx": "⚠ contiene numeri · Suini › p",
+   "orig": "Le barre sono confrontate con il mondo, nella stessa specie. L'Italia è 0,7% del totale mondiale.",
+   "text": "Le barre sono confrontate con il mondo, nella stessa specie. L'Italia è 0,7% del totale mondiale.",
+   "cifre_ok": false
+  },
+  {
+   "id": "eec5d340cee92bdf",
+   "ctx": "⚠ contiene numeri · Suini › dd",
+   "orig": "valore ufficiale FAO, 1.493.796.985 capi",
+   "text": "valore ufficiale FAO, 1.493.796.985 capi",
+   "cifre_ok": false
+  },
+  {
+   "id": "be064a55618e875c",
+   "ctx": "⚠ contiene numeri · Suini › dd",
+   "orig": "valore ufficiale FAO, 303.209.683 capi",
+   "text": "valore ufficiale FAO, 303.209.683 capi",
+   "cifre_ok": false
+  },
+  {
+   "id": "63aef63abfdfbbf0",
+   "ctx": "⚠ contiene numeri · Suini › dd",
+   "orig": "valore ufficiale FAO, 10.086.260 capi",
+   "text": "valore ufficiale FAO, 10.086.260 capi",
+   "cifre_ok": false
+  },
+  {
+   "id": "2a7c8c60f4bbd582",
+   "ctx": "⚠ contiene numeri · Ovini › p",
+   "orig": "In Italia (2024) sono stati macellati circa 2,0 milioni di ovini. Nel mondo (2024), circa 704 milioni di ovini.",
+   "text": "In Italia (2024) sono stati macellati circa 2,0 milioni di ovini. Nel mondo (2024), circa 704 milioni di ovini.",
+   "cifre_ok": false
+  },
+  {
+   "id": "fe55625472577d80",
+   "ctx": "⚠ contiene numeri · Ovini › dd",
+   "orig": "stima FAO, 703.861.354 capi",
+   "text": "stima FAO, 703.861.354 capi",
+   "cifre_ok": false
+  },
+  {
+   "id": "6d7fe3dc103cb475",
+   "ctx": "⚠ contiene numeri · Ovini › dd",
+   "orig": "valore ufficiale FAO, 59.392.730 capi",
+   "text": "valore ufficiale FAO, 59.392.730 capi",
+   "cifre_ok": false
+  },
+  {
+   "id": "0c3d202ff8f643ff",
+   "ctx": "⚠ contiene numeri · Ovini › dd",
+   "orig": "valore ufficiale FAO, 2.030.540 capi",
+   "text": "valore ufficiale FAO, 2.030.540 capi",
+   "cifre_ok": false
+  },
+  {
+   "id": "be9f80adb41e57fa",
+   "ctx": "⚠ contiene numeri · Caprini › p",
+   "orig": "In Italia (2024) sono stati macellati circa 118.780 caprini. Nel mondo (2024), circa 564 milioni di caprini.",
+   "text": "In Italia (2024) sono stati macellati circa 118.780 caprini. Nel mondo (2024), circa 564 milioni di caprini.",
+   "cifre_ok": false
+  },
+  {
+   "id": "330dc4fd6e4152f5",
+   "ctx": "⚠ contiene numeri · Caprini › p",
+   "orig": "Le barre sono confrontate con il mondo, nella stessa specie. L'Italia è meno dello 0,1% del totale mondiale.",
+   "text": "Le barre sono confrontate con il mondo, nella stessa specie. L'Italia è meno dello 0,1% del totale mondiale.",
+   "cifre_ok": false
+  },
+  {
+   "id": "9b60b685e772114e",
+   "ctx": "⚠ contiene numeri · Caprini › dd",
+   "orig": "stima FAO, 563.722.557 capi",
+   "text": "stima FAO, 563.722.557 capi",
+   "cifre_ok": false
+  },
+  {
+   "id": "9b000464cc55ea8c",
+   "ctx": "⚠ contiene numeri · Caprini › dd",
+   "orig": "valore ufficiale FAO, 6.486.382 capi",
+   "text": "valore ufficiale FAO, 6.486.382 capi",
+   "cifre_ok": false
+  },
+  {
+   "id": "f44d9b561f66063f",
+   "ctx": "⚠ contiene numeri · Caprini › dd",
+   "orig": "valore ufficiale FAO, 118.780 capi",
+   "text": "valore ufficiale FAO, 118.780 capi",
+   "cifre_ok": false
+  },
+  {
+   "id": "efb1e49573a34685",
+   "ctx": "⚠ contiene numeri · Polli › p",
+   "orig": "In Italia (2024) sono stati macellati circa 591 milioni di polli. Nel mondo (2024), circa 78,53 miliardi di polli.",
+   "text": "In Italia (2024) sono stati macellati circa 591 milioni di polli. Nel mondo (2024), circa 78,53 miliardi di polli.",
+   "cifre_ok": false
+  },
+  {
+   "id": "c73b8add9c020070",
+   "ctx": "⚠ contiene numeri · Polli › p",
+   "orig": "Le barre sono confrontate con il mondo, nella stessa specie. L'Italia è 0,8% del totale mondiale.",
+   "text": "Le barre sono confrontate con il mondo, nella stessa specie. L'Italia è 0,8% del totale mondiale.",
+   "cifre_ok": false
+  },
+  {
+   "id": "80d56c23a0873e0d",
+   "ctx": "⚠ contiene numeri · Polli › dd",
+   "orig": "stima FAO, 78.533.923.000 capi",
+   "text": "stima FAO, 78.533.923.000 capi",
+   "cifre_ok": false
+  },
+  {
+   "id": "117f6c0d579b8f38",
+   "ctx": "⚠ contiene numeri · Polli › dd",
+   "orig": "stima FAO, 11.960.588.000 capi",
+   "text": "stima FAO, 11.960.588.000 capi",
+   "cifre_ok": false
+  },
+  {
+   "id": "b0b68c7bda2af558",
+   "ctx": "⚠ contiene numeri · Polli › dd",
+   "orig": "valore ufficiale FAO, 590.905.000 capi",
+   "text": "valore ufficiale FAO, 590.905.000 capi",
+   "cifre_ok": false
+  },
+  {
+   "id": "8a265624f9f956ef",
+   "ctx": "⚠ contiene numeri · Tacchini › p",
+   "orig": "In Italia (2024) sono stati macellati circa 24,0 milioni di tacchini. Nel mondo (2024), circa 504 milioni di tacchini.",
+   "text": "In Italia (2024) sono stati macellati circa 24,0 milioni di tacchini. Nel mondo (2024), circa 504 milioni di tacchini.",
+   "cifre_ok": false
+  },
+  {
+   "id": "23f94d803338cefb",
+   "ctx": "⚠ contiene numeri · Tacchini › p",
+   "orig": "Ogni icona è 1 animale ogni 100 macellati nel mondo. In Italia: 5 su 100. Calcolo su dati FAO.",
+   "text": "Ogni icona è 1 animale ogni 100 macellati nel mondo. In Italia: 5 su 100. Calcolo su dati FAO.",
+   "cifre_ok": false
+  },
+  {
+   "id": "7f0aee41b2e81210",
+   "ctx": "⚠ contiene numeri · Tacchini › p",
+   "orig": "Le barre sono confrontate con il mondo, nella stessa specie. L'Italia è 4,8% del totale mondiale.",
+   "text": "Le barre sono confrontate con il mondo, nella stessa specie. L'Italia è 4,8% del totale mondiale.",
+   "cifre_ok": false
+  },
+  {
+   "id": "82bf5a809436af74",
+   "ctx": "⚠ contiene numeri · Tacchini › dd",
+   "orig": "valore ufficiale FAO, 504.128.000 capi",
+   "text": "valore ufficiale FAO, 504.128.000 capi",
+   "cifre_ok": false
+  },
+  {
+   "id": "599488cf67c04c58",
+   "ctx": "⚠ contiene numeri · Tacchini › dd",
+   "orig": "valore ufficiale FAO, 174.171.000 capi",
+   "text": "valore ufficiale FAO, 174.171.000 capi",
+   "cifre_ok": false
+  },
+  {
+   "id": "d0ac2939caddd684",
+   "ctx": "⚠ contiene numeri · Tacchini › dd",
+   "orig": "valore ufficiale FAO, 23.961.000 capi",
+   "text": "valore ufficiale FAO, 23.961.000 capi",
+   "cifre_ok": false
+  },
+  {
+   "id": "8af6415b86806a63",
+   "ctx": "⚠ contiene numeri · Anatre › p",
+   "orig": "In Italia (2024) sono stati macellati circa 1,2 milioni di anatre. Nel mondo (2024), circa 4,23 miliardi di anatre.",
+   "text": "In Italia (2024) sono stati macellati circa 1,2 milioni di anatre. Nel mondo (2024), circa 4,23 miliardi di anatre.",
+   "cifre_ok": false
+  },
+  {
+   "id": "a0fbe3d9a5f3a85e",
+   "ctx": "⚠ contiene numeri · Anatre › dd",
+   "orig": "stima FAO, 4.227.882.000 capi",
+   "text": "stima FAO, 4.227.882.000 capi",
+   "cifre_ok": false
+  },
+  {
+   "id": "0c5b6c64f8b890c5",
+   "ctx": "⚠ contiene numeri · Anatre › dd",
+   "orig": "valore ufficiale FAO, 173.078.000 capi",
+   "text": "valore ufficiale FAO, 173.078.000 capi",
+   "cifre_ok": false
+  },
+  {
+   "id": "1a4a62d6b71d835c",
+   "ctx": "⚠ contiene numeri · Anatre › dd",
+   "orig": "valore ufficiale FAO, 1.216.000 capi",
+   "text": "valore ufficiale FAO, 1.216.000 capi",
+   "cifre_ok": false
+  },
+  {
+   "id": "6bf3adfc0a478c5c",
+   "ctx": "⚠ contiene numeri · Oche › p",
+   "orig": "In Italia (2023) sono stati macellati circa 6000 oche. Nel mondo (2024), circa 803 milioni di oche.",
+   "text": "In Italia (2023) sono stati macellati circa 6000 oche. Nel mondo (2024), circa 803 milioni di oche.",
+   "cifre_ok": false
+  },
+  {
+   "id": "0c00222e768bad71",
+   "ctx": "⚠ contiene numeri · Oche › p",
+   "orig": "Il dato italiano è del 2023, quindi non si calcola la quota sul mondo.",
+   "text": "Il dato italiano è del 2023, quindi non si calcola la quota sul mondo.",
+   "cifre_ok": false
+  },
+  {
+   "id": "485a611ed90943db",
+   "ctx": "Oche › p",
+   "orig": "Le barre sono confrontate con il mondo, nella stessa specie.",
+   "text": "Le barre sono confrontate con il mondo, nella stessa specie.",
+   "cifre_ok": false
+  },
+  {
+   "id": "6053a4200b019624",
+   "ctx": "⚠ contiene numeri · Oche › dd",
+   "orig": "stima FAO, 803.201.000 capi",
+   "text": "stima FAO, 803.201.000 capi",
+   "cifre_ok": false
+  },
+  {
+   "id": "c3f199614520c1f1",
+   "ctx": "⚠ contiene numeri · Oche › dd",
+   "orig": "stima FAO, 14.985.000 capi",
+   "text": "stima FAO, 14.985.000 capi",
+   "cifre_ok": false
+  },
+  {
+   "id": "d7012cbf6de88612",
+   "ctx": "⚠ contiene numeri · Oche › dt",
+   "orig": "Italia 2023",
+   "text": "Italia 2023",
+   "cifre_ok": false
+  },
+  {
+   "id": "da3693dc53499d04",
+   "ctx": "⚠ contiene numeri · Oche › dd",
+   "orig": "valore ufficiale FAO, 6000 capi",
+   "text": "valore ufficiale FAO, 6000 capi",
+   "cifre_ok": false
+  },
+  {
+   "id": "4eb91877caec81d2",
+   "ctx": "⚠ contiene numeri · Conigli › p",
+   "orig": "In Italia (2023) sono stati macellati circa 14,5 milioni di conigli. Nel mondo (2024), circa 604 milioni di conigli.",
+   "text": "In Italia (2023) sono stati macellati circa 14,5 milioni di conigli. Nel mondo (2024), circa 604 milioni di conigli.",
+   "cifre_ok": false
+  },
+  {
+   "id": "ed20920cb839f81c",
+   "ctx": "⚠ contiene numeri · Conigli › dd",
+   "orig": "stima FAO, 604.235.000 capi",
+   "text": "stima FAO, 604.235.000 capi",
+   "cifre_ok": false
+  },
+  {
+   "id": "229d245decf2649e",
+   "ctx": "⚠ contiene numeri · Conigli › dd",
+   "orig": "stima FAO, 84.746.000 capi",
+   "text": "stima FAO, 84.746.000 capi",
+   "cifre_ok": false
+  },
+  {
+   "id": "08dc59f257c2a08e",
+   "ctx": "⚠ contiene numeri · Conigli › dd",
+   "orig": "valore ufficiale FAO, 14.509.000 capi",
+   "text": "valore ufficiale FAO, 14.509.000 capi",
+   "cifre_ok": false
+  },
+  {
+   "id": "8e310d39235d43ae",
+   "ctx": "⚠ contiene numeri · Cavalli › p",
+   "orig": "In Italia (2024) sono stati macellati circa 22.209 cavalli. Nel mondo (2024), circa 4,5 milioni di cavalli.",
+   "text": "In Italia (2024) sono stati macellati circa 22.209 cavalli. Nel mondo (2024), circa 4,5 milioni di cavalli.",
+   "cifre_ok": false
+  },
+  {
+   "id": "a0feeebf7efe1740",
+   "ctx": "⚠ contiene numeri · Cavalli › p",
+   "orig": "Le barre sono confrontate con il mondo, nella stessa specie. L'Italia è 0,5% del totale mondiale.",
+   "text": "Le barre sono confrontate con il mondo, nella stessa specie. L'Italia è 0,5% del totale mondiale.",
+   "cifre_ok": false
+  },
+  {
+   "id": "13ea118b808d87af",
+   "ctx": "⚠ contiene numeri · Cavalli › dd",
+   "orig": "stima FAO, 4.451.641 capi",
+   "text": "stima FAO, 4.451.641 capi",
+   "cifre_ok": false
+  },
+  {
+   "id": "4ff931107d794d27",
+   "ctx": "⚠ contiene numeri · Cavalli › dd",
+   "orig": "stima FAO, 454.828 capi",
+   "text": "stima FAO, 454.828 capi",
+   "cifre_ok": false
+  },
+  {
+   "id": "3bfd74eab3fa7fbd",
+   "ctx": "⚠ contiene numeri · Cavalli › dd",
+   "orig": "valore ufficiale FAO, 22.209 capi",
+   "text": "valore ufficiale FAO, 22.209 capi",
+   "cifre_ok": false
+  },
+  {
+   "id": "99ed6a481405025b",
+   "ctx": "Cavalli › h2",
+   "orig": "Come cambia nel tempo",
+   "text": "Come cambia nel tempo",
+   "cifre_ok": false
+  },
+  {
+   "id": "874b517af8ff484c",
+   "ctx": "Come cambia nel tempo › p",
+   "orig": "Scegli la specie e l'area. L'asse parte da zero. Linea piena: valori ufficiali. Linea tratteggiata: stime FAO.",
+   "text": "Scegli la specie e l'area. L'asse parte da zero. Linea piena: valori ufficiali. Linea tratteggiata: stime FAO.",
+   "cifre_ok": false
+  },
+  {
+   "id": "bb37288431401eb8",
+   "ctx": "⚠ contiene numeri · Come cambia nel tempo › p",
+   "orig": "Nel 1961 (Mondo): 6,58 miliardi di polli. Nel 2024: 78,53 miliardi di polli. In questo periodo il numero è cresciuto di circa 11,9 volte. Calcolo su dati FAO.",
+   "text": "Nel 1961 (Mondo): 6,58 miliardi di polli. Nel 2024: 78,53 miliardi di polli. In questo periodo il numero è cresciuto di circa 11,9 volte. Calcolo su dati FAO.",
+   "cifre_ok": false
+  },
+  {
+   "id": "c7f48e40bb43520a",
+   "ctx": "Come cambia nel tempo › summary",
+   "orig": "Tabella dei dati",
+   "text": "Tabella dei dati",
+   "cifre_ok": false
+  },
+  {
+   "id": "6ca4021c14f75398",
+   "ctx": "Come cambia nel tempo › h2",
+   "orig": "Una cifra per capire",
+   "text": "Una cifra per capire",
+   "cifre_ok": false
+  },
+  {
+   "id": "e357855fe3b5ef41",
+   "ctx": "⚠ contiene numeri · Una cifra per capire › p",
+   "orig": "Nel mondo, nel 2024, i polli macellati sono oltre 50 volte i suini (78,53 miliardi contro 1,49 miliardi). Il rapporto è un calcolo su dati FAO. Conta il numero di animali, non il peso della carne.",
+   "text": "Nel mondo, nel 2024, i polli macellati sono oltre 50 volte i suini (78,53 miliardi contro 1,49 miliardi). Il rapporto è un calcolo su dati FAO. Conta il numero di animali, non il peso della carne.",
+   "cifre_ok": false
+  },
+  {
+   "id": "674d6757d5f98d8f",
+   "ctx": "Una cifra per capire › h2",
+   "orig": "Parole difficili",
+   "text": "Parole difficili",
+   "cifre_ok": false
+  },
+  {
+   "id": "2e30909ce54ac09e",
+   "ctx": "Parole difficili › summary",
+   "orig": "Macellare",
+   "text": "Macellare",
+   "cifre_ok": false
+  },
+  {
+   "id": "5de50f0a016f224b",
+   "ctx": "Parole difficili › p",
+   "orig": "Uccidere un animale per ricavarne carne e altri prodotti.",
+   "text": "Uccidere un animale per ricavarne carne e altri prodotti.",
+   "cifre_ok": false
+  },
+  {
+   "id": "20b6b3a4fbbc4335",
+   "ctx": "Parole difficili › summary",
+   "orig": "Capo",
+   "text": "Capo",
+   "cifre_ok": false
+  },
+  {
+   "id": "d28948bbc2b3db07",
+   "ctx": "Parole difficili › p",
+   "orig": "Un singolo animale.",
+   "text": "Un singolo animale.",
+   "cifre_ok": false
+  },
+  {
+   "id": "872876bdd6253e95",
+   "ctx": "Parole difficili › summary",
+   "orig": "FAO",
+   "text": "FAO",
+   "cifre_ok": false
+  },
+  {
+   "id": "d3d6e163ad439b49",
+   "ctx": "Parole difficili › p",
+   "orig": "L'organizzazione delle Nazioni Unite per l'alimentazione e l'agricoltura.",
+   "text": "L'organizzazione delle Nazioni Unite per l'alimentazione e l'agricoltura.",
+   "cifre_ok": false
+  },
+  {
+   "id": "371b74af990322a0",
+   "ctx": "Parole difficili › summary",
+   "orig": "Valore ufficiale",
+   "text": "Valore ufficiale",
+   "cifre_ok": false
+  },
+  {
+   "id": "20fa62ca9be1b78c",
+   "ctx": "Parole difficili › p",
+   "orig": "Un numero che la FAO registra come ufficiale per quel Paese e quell'anno.",
+   "text": "Un numero che la FAO registra come ufficiale per quel Paese e quell'anno.",
+   "cifre_ok": false
+  },
+  {
+   "id": "1cf2236ae97f8c15",
+   "ctx": "Parole difficili › summary",
+   "orig": "Stima",
+   "text": "Stima",
+   "cifre_ok": false
+  },
+  {
+   "id": "e28b60c3019847db",
+   "ctx": "Parole difficili › p",
+   "orig": "Un numero non misurato direttamente, ma stimato. Può cambiare quando la FAO rivede i dati.",
+   "text": "Un numero non misurato direttamente, ma stimato. Può cambiare quando la FAO rivede i dati.",
+   "cifre_ok": false
+  },
+  {
+   "id": "3d95dded5a8cc007",
+   "ctx": "Parole difficili › summary",
+   "orig": "Europa (FAO)",
+   "text": "Europa (FAO)",
+   "cifre_ok": false
+  },
+  {
+   "id": "fbd5f33c23b0d777",
+   "ctx": "Parole difficili › p",
+   "orig": "I Paesi che la FAO include nella regione Europa. Non coincide con l'Unione europea.",
+   "text": "I Paesi che la FAO include nella regione Europa. Non coincide con l'Unione europea.",
+   "cifre_ok": false
+  },
+  {
+   "id": "7e45d2dd314f344d",
+   "ctx": "Parole difficili › h2",
+   "orig": "Che cosa non dicono questi numeri",
+   "text": "Che cosa non dicono questi numeri",
+   "cifre_ok": false
+  },
+  {
+   "id": "4bcf0ed4d2587f1a",
+   "ctx": "Che cosa non dicono questi numeri › summary",
+   "orig": "Apri l'elenco",
+   "text": "Apri l'elenco",
+   "cifre_ok": false
+  },
+  {
+   "id": "b0786e56f48d584c",
+   "ctx": "Che cosa non dicono questi numeri › li",
+   "orig": "Non dicono quanti animali vivono: contano solo quelli macellati in un anno.",
+   "text": "Non dicono quanti animali vivono: contano solo quelli macellati in un anno.",
+   "cifre_ok": false
+  },
+  {
+   "id": "3cdc9ac4b702e6df",
+   "ctx": "Che cosa non dicono questi numeri › li",
+   "orig": "Non dicono quanta carne si ottiene: un pollo e un bovino hanno pesi molto diversi.",
+   "text": "Non dicono quanta carne si ottiene: un pollo e un bovino hanno pesi molto diversi.",
+   "cifre_ok": false
+  },
+  {
+   "id": "47be1fadac655170",
+   "ctx": "Che cosa non dicono questi numeri › li",
+   "orig": "Non confrontano specie diverse tra loro: ogni specie ha la sua scala.",
+   "text": "Non confrontano specie diverse tra loro: ogni specie ha la sua scala.",
+   "cifre_ok": false
+  },
+  {
+   "id": "ed28f1c154f31339",
+   "ctx": "Che cosa non dicono questi numeri › li",
+   "orig": "Non comprendono pesci e molluschi, né i pulcini maschi eliminati alla schiusa.",
+   "text": "Non comprendono pesci e molluschi, né i pulcini maschi eliminati alla schiusa.",
+   "cifre_ok": false
+  },
+  {
+   "id": "ffd05c830950c72a",
+   "ctx": "Che cosa non dicono questi numeri › li",
+   "orig": "Non spiegano perché i numeri cambiano nel tempo.",
+   "text": "Non spiegano perché i numeri cambiano nel tempo.",
+   "cifre_ok": false
+  },
+  {
+   "id": "45fa356d26014301",
+   "ctx": "Che cosa non dicono questi numeri › summary",
+   "orig": "Perché si contano gli animali",
+   "text": "Perché si contano gli animali",
+   "cifre_ok": false
+  },
+  {
+   "id": "7371c5ab278a5c4c",
+   "ctx": "Che cosa non dicono questi numeri › p",
+   "orig": "Il numero di animali mostra quanti individui sono coinvolti, mentre il peso della carne nasconde la differenza tra specie piccole e grandi. Il peso è un altro indicatore e qui non è mostrato.",
+   "text": "Il numero di animali mostra quanti individui sono coinvolti, mentre il peso della carne nasconde la differenza tra specie piccole e grandi. Il peso è un altro indicatore e qui non è mostrato.",
+   "cifre_ok": false
+  },
+  {
+   "id": "7bbef2c2d1a19d5c",
+   "ctx": "Limiti › li",
+   "orig": "«Europa» è la regione FAO, non l'UE.",
+   "text": "«Europa» è la regione FAO, non l'UE.",
+   "cifre_ok": false
+  },
+  {
+   "id": "38dd8a00be5ab63f",
+   "ctx": "Limiti › li",
+   "orig": "Per il mondo molte specie sono stime FAO, non valori ufficiali dei Paesi.",
+   "text": "Per il mondo molte specie sono stime FAO, non valori ufficiali dei Paesi.",
+   "cifre_ok": false
+  },
+  {
+   "id": "adcc103297ecf242",
+   "ctx": "⚠ contiene numeri · Limiti › li",
+   "orig": "La FAO rivede i dati negli anni: per il 2021 l'articolo di Our World in Data (2023) riporta 331,95 milioni di bovini nel mondo, mentre il file FAOSTAT scaricato il 9/11/2026 ne riporta 286,94 milioni. Qui si usa il file più recente.",
+   "text": "La FAO rivede i dati negli anni: per il 2021 l'articolo di Our World in Data (2023) riporta 331,95 milioni di bovini nel mondo, mentre il file FAOSTAT scaricato il 9/11/2026 ne riporta 286,94 milioni. Qui si usa il file più recente.",
+   "cifre_ok": false
+  },
+  {
+   "id": "90e642eeac661b9a",
+   "ctx": "⚠ contiene numeri · Limiti › li",
+   "orig": "Italia: conigli e oche sono dati 2023, perché il 2024 non è nel file.",
+   "text": "Italia: conigli e oche sono dati 2023, perché il 2024 non è nel file.",
+   "cifre_ok": false
+  },
+  {
+   "id": "bb770f262194d4bc",
+   "ctx": "Limiti › li",
+   "orig": "Asini, muli, cammelli e selvaggina non sono mostrati.",
+   "text": "Asini, muli, cammelli e selvaggina non sono mostrati.",
+   "cifre_ok": false
+  },
+  {
+   "id": "e6c7213b087a8d8c",
+   "ctx": "⚠ contiene numeri · Limiti › li",
+   "orig": "I numeri dell'Italia in questa pagina non coincidono con quelli della home, che usa i dati ISTAT da agosto 2025 a luglio 2026 (bovini 2.402.197; polli e galline 636.574.567). Periodo e perimetro sono diversi: per l'Italia valgono i dati ISTAT della home.",
+   "text": "I numeri dell'Italia in questa pagina non coincidono con quelli della home, che usa i dati ISTAT da agosto 2025 a luglio 2026 (bovini 2.402.197; polli e galline 636.574.567). Periodo e perimetro sono diversi: per l'Italia valgono i dati ISTAT della home.",
+   "cifre_ok": false
+  },
+  {
+   "id": "0c922c290f7e122d",
+   "ctx": "Limiti › li",
+   "orig": "Il dato FAO sui polli non è stato verificato per distinguere polli da carne e galline a fine ciclo.",
+   "text": "Il dato FAO sui polli non è stato verificato per distinguere polli da carne e galline a fine ciclo.",
+   "cifre_ok": false
+  },
+  {
+   "id": "cf6541e64f43c598",
+   "ctx": "⚠ contiene numeri · Limiti › p",
+   "orig": "Fonti: FAO, FAOSTAT, QCL, [fao.org/faostat](https://www.fao.org/faostat/en/#data/QCL); Our World in Data, [How many animals get slaughtered every day?](https://ourworldindata.org/how-many-animals-get-slaughtered-every-day) (Max Roser, 2023, CC BY 4.0) e [Animal Welfare Data Explorer](https://ourworldindata.org/explorers/animal-welfare?Metric=Animals+slaughtered&Animal=All+land+animals&Per+capita=false&country=OWID_WRL~USA~CHN~IND~BRA~GBR~ESP). Si veda [Info e fonti](info.html).",
+   "text": "Fonti: FAO, FAOSTAT, QCL, [fao.org/faostat](https://www.fao.org/faostat/en/#data/QCL); Our World in Data, [How many animals get slaughtered every day?](https://ourworldindata.org/how-many-animals-get-slaughtered-every-day) (Max Roser, 2023, CC BY 4.0) e [Animal Welfare Data Explorer](https://ourworldindata.org/explorers/animal-welfare?Metric=Animals+slaughtered&Animal=All+land+animals&Per+capita=false&country=OWID_WRL~USA~CHN~IND~BRA~GBR~ESP). Si veda [Info e fonti](info.html).",
+   "cifre_ok": false
+  }
+ ],
+ "orfane": []
+}

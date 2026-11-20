@@ -1,0 +1,125 @@
+{
+ "titolo": "Bufalini (totale)",
+ "voci": [
+  {
+   "id": "4cf8a3eb619eb07f",
+   "ctx": "h1",
+   "orig": "Bufalini (totale)",
+   "text": "Bufalini (totale)",
+   "cifre_ok": false
+  },
+  {
+   "id": "cacefa802ee3601b",
+   "ctx": "Impiego › p",
+   "orig": "Carne di bufalo e preparazioni. La filiera principale è quella del latte per la mozzarella e i latticini.",
+   "text": "Carne di bufalo e preparazioni. La filiera principale è quella del latte per la mozzarella e i latticini.",
+   "cifre_ok": false
+  },
+  {
+   "id": "c0ae356e4ffecc67",
+   "ctx": "⚠ contiene numeri · Animali uccisi per cittadino › dd",
+   "orig": "97.839 (ago 2025–lug 2026)",
+   "text": "97.839 (ago 2025–lug 2026)",
+   "cifre_ok": false
+  },
+  {
+   "id": "e92ec6b3bc44b070",
+   "ctx": "⚠ contiene numeri · Animali uccisi per cittadino › dd",
+   "orig": "Carcassa 169 kg · vivo 304 kg · resa 55,6%",
+   "text": "Carcassa 169 kg · vivo 304 kg · resa 55,6%",
+   "cifre_ok": false
+  },
+  {
+   "id": "2f4e56bf79d611f9",
+   "ctx": "⚠ contiene numeri · Animali uccisi per cittadino › p",
+   "orig": "ISTAT «totale bufalini». La consistenza BDN (437.521 capi al 31/12/2024) non è un flusso e non entra nel contatore.",
+   "text": "ISTAT «totale bufalini». La consistenza BDN (437.521 capi al 31/12/2024) non è un flusso e non entra nel contatore.",
+   "cifre_ok": false
+  },
+  {
+   "id": "91c17905b1ff4a7e",
+   "ctx": "Animali uccisi per cittadino › h2",
+   "orig": "Bufalini: tutte le categorie",
+   "text": "Bufalini: tutte le categorie",
+   "cifre_ok": false
+  },
+  {
+   "id": "96cca77a90378257",
+   "ctx": "Definizioni › dt",
+   "orig": "Annutoli (vitelli bufalini)",
+   "text": "Annutoli (vitelli bufalini)",
+   "cifre_ok": false
+  },
+  {
+   "id": "3c4697f817adc1ee",
+   "ctx": "Definizioni › dd",
+   "orig": "ISTAT «annutoli», i vitelli bufalini.",
+   "text": "ISTAT «annutoli», i vitelli bufalini.",
+   "cifre_ok": false
+  },
+  {
+   "id": "5073f9dd6ac2faee",
+   "ctx": "Definizioni › dt",
+   "orig": "Bufale",
+   "text": "Bufale",
+   "cifre_ok": false
+  },
+  {
+   "id": "22f5e3d622c49126",
+   "ctx": "Definizioni › dd",
+   "orig": "ISTAT «bufale».",
+   "text": "ISTAT «bufale».",
+   "cifre_ok": false
+  },
+  {
+   "id": "e6ff6b29f13857e2",
+   "ctx": "Impiego › p",
+   "orig": "Carne di annutolo (vitello di bufala), in genere sottoprodotto della filiera del latte di bufala.",
+   "text": "Carne di annutolo (vitello di bufala), in genere sottoprodotto della filiera del latte di bufala.",
+   "cifre_ok": false
+  },
+  {
+   "id": "e21093eb65bf965d",
+   "ctx": "⚠ contiene numeri · Animali uccisi per cittadino › dd",
+   "orig": "63.051 (ago 2025–lug 2026)",
+   "text": "63.051 (ago 2025–lug 2026)",
+   "cifre_ok": false
+  },
+  {
+   "id": "953ed3e6f2c4b5af",
+   "ctx": "⚠ contiene numeri · Animali uccisi per cittadino › dd",
+   "orig": "Carcassa 130 kg · vivo 220 kg · resa 59,2%",
+   "text": "Carcassa 130 kg · vivo 220 kg · resa 59,2%",
+   "cifre_ok": false
+  },
+  {
+   "id": "a1ac2a9d399a7f4f",
+   "ctx": "Animali uccisi per cittadino › p",
+   "orig": "Compreso nel totale «Bufalini (totale)». Le categorie non si sommano.",
+   "text": "Compreso nel totale «Bufalini (totale)». Le categorie non si sommano.",
+   "cifre_ok": false
+  },
+  {
+   "id": "b04812648386770c",
+   "ctx": "Impiego › p",
+   "orig": "Carne di bufale a fine carriera, dopo la produzione di latte per mozzarella e latticini.",
+   "text": "Carne di bufale a fine carriera, dopo la produzione di latte per mozzarella e latticini.",
+   "cifre_ok": false
+  },
+  {
+   "id": "ae5793e5a311adc2",
+   "ctx": "⚠ contiene numeri · Animali uccisi per cittadino › dd",
+   "orig": "30.576 (ago 2025–lug 2026)",
+   "text": "30.576 (ago 2025–lug 2026)",
+   "cifre_ok": false
+  },
+  {
+   "id": "872f8e4577a274b7",
+   "ctx": "⚠ contiene numeri · Animali uccisi per cittadino › dd",
+   "orig": "Carcassa 240 kg · vivo 458 kg · resa 52,4%",
+   "text": "Carcassa 240 kg · vivo 458 kg · resa 52,4%",
+   "cifre_ok": false
+  }
+ ],
+ "orfane": []
+}

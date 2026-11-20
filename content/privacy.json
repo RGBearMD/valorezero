@@ -1,0 +1,146 @@
+{
+ "titolo": "Informativa sulla privacy",
+ "voci": [
+  {
+   "id": "4e3d1145bf83d6f0",
+   "ctx": "h1",
+   "orig": "Informativa sulla privacy",
+   "text": "Informativa sulla privacy",
+   "cifre_ok": false
+  },
+  {
+   "id": "e375054170daae19",
+   "ctx": "⚠ contiene numeri · Informativa sulla privacy › p",
+   "orig": "Informativa ai sensi degli artt. 13 e 14 del Regolamento (UE) 2016/679 (GDPR). Ultimo aggiornamento: 31/10/2026.",
+   "text": "Informativa ai sensi degli artt. 13 e 14 del Regolamento (UE) 2016/679 (GDPR). Ultimo aggiornamento: 31/10/2026.",
+   "cifre_ok": false
+  },
+  {
+   "id": "9838e3b68334a2ce",
+   "ctx": "Informativa sulla privacy › h2",
+   "orig": "In breve",
+   "text": "In breve",
+   "cifre_ok": false
+  },
+  {
+   "id": "024f3f88d7894c39",
+   "ctx": "In breve › p",
+   "orig": "Questo sito non richiede registrazione, non ha moduli, non usa cookie, non usa strumenti di analisi o di profilazione e salva sul tuo dispositivo soltanto la scelta del tema (chiaro, scuro o automatico), se la modifichi. La pagina non raccoglie né conserva dati personali di chi la visita. Non carica contenuti da servizi di terzi: i caratteri tipografici sono ospitati sul sito stesso.",
+   "text": "Questo sito non richiede registrazione, non ha moduli, non usa cookie, non usa strumenti di analisi o di profilazione e salva sul tuo dispositivo soltanto la scelta del tema (chiaro, scuro o automatico), se la modifichi. La pagina non raccoglie né conserva dati personali di chi la visita. Non carica contenuti da servizi di terzi: i caratteri tipografici sono ospitati sul sito stesso.",
+   "cifre_ok": false
+  },
+  {
+   "id": "d6610ec4ba8ac2bc",
+   "ctx": "In breve › h2",
+   "orig": "Chi gestisce il sito",
+   "text": "Chi gestisce il sito",
+   "cifre_ok": false
+  },
+  {
+   "id": "229cc74d54cd18d7",
+   "ctx": "⚠ contiene numeri · Chi gestisce il sito › p",
+   "orig": "Valore Zer0 è un progetto informativo e didattico senza scopo di lucro. Per qualsiasi richiesta sui dati personali scrivi a [privacyvalore0@rgbear.it](mailto:privacyvalore0@rgbear.it).",
+   "text": "Valore Zer0 è un progetto informativo e didattico senza scopo di lucro. Per qualsiasi richiesta sui dati personali scrivi a [privacyvalore0@rgbear.it](mailto:privacyvalore0@rgbear.it).",
+   "cifre_ok": false
+  },
+  {
+   "id": "8a29743c5e2f65ba",
+   "ctx": "Chi gestisce il sito › h2",
+   "orig": "Quali dati vengono trattati",
+   "text": "Quali dati vengono trattati",
+   "cifre_ok": false
+  },
+  {
+   "id": "34f1b30ff772f28b",
+   "ctx": "Quali dati vengono trattati › li",
+   "orig": "**Dati di navigazione.** Per mostrare il sito, il servizio di hosting che lo ospita riceve dal tuo browser dati tecnici come indirizzo IP, data e ora della richiesta, tipo di browser e di dispositivo. Questi dati sono trattati dal fornitore di hosting per erogare e proteggere il servizio. Chi gestisce il sito non li usa per identificarti.",
+   "text": "**Dati di navigazione.** Per mostrare il sito, il servizio di hosting che lo ospita riceve dal tuo browser dati tecnici come indirizzo IP, data e ora della richiesta, tipo di browser e di dispositivo. Questi dati sono trattati dal fornitore di hosting per erogare e proteggere il servizio. Chi gestisce il sito non li usa per identificarti.",
+   "cifre_ok": false
+  },
+  {
+   "id": "70161d5508c77025",
+   "ctx": "Quali dati vengono trattati › li",
+   "orig": "**Link esterni.** Le fonti rimandano a siti di terzi (ISTAT, Eurostat, Nature e altri). Se li apri, valgono le loro informative.",
+   "text": "**Link esterni.** Le fonti rimandano a siti di terzi (ISTAT, Eurostat, Nature e altri). Se li apri, valgono le loro informative.",
+   "cifre_ok": false
+  },
+  {
+   "id": "e7beb13feb931f7c",
+   "ctx": "Quali dati vengono trattati › h2",
+   "orig": "Finalità e base giuridica",
+   "text": "Finalità e base giuridica",
+   "cifre_ok": false
+  },
+  {
+   "id": "d1dbdc00d8819d8d",
+   "ctx": "⚠ contiene numeri · Finalità e base giuridica › p",
+   "orig": "Erogazione e sicurezza del sito: legittimo interesse (art. 6, par. 1, lett. f, GDPR) a mantenere il sito funzionante e protetto. Il sito ha finalità informative e didattiche. Non c'è nessuna decisione automatizzata né profilazione.",
+   "text": "Erogazione e sicurezza del sito: legittimo interesse (art. 6, par. 1, lett. f, GDPR) a mantenere il sito funzionante e protetto. Il sito ha finalità informative e didattiche. Non c'è nessuna decisione automatizzata né profilazione.",
+   "cifre_ok": false
+  },
+  {
+   "id": "aa4c9bc5d6befe12",
+   "ctx": "Finalità e base giuridica › h2",
+   "orig": "Cookie e dispositivo",
+   "text": "Cookie e dispositivo",
+   "cifre_ok": false
+  },
+  {
+   "id": "e1f4b1d64cffc32e",
+   "ctx": "Cookie e dispositivo › p",
+   "orig": "Il sito non installa cookie. Se scegli il tema chiaro o scuro, il browser conserva questa sola preferenza nella memoria locale (localStorage): non contiene dati personali, non viene inviata a nessuno e serve solo a ricordare la tua scelta. Puoi cancellarla in qualsiasi momento dalle impostazioni del browser o tornando alla modalità automatica. Il sito non legge altre informazioni dal tuo dispositivo e non mostra un banner dei cookie. Se in futuro verranno aggiunti strumenti di analisi o altri servizi di terzi, questa informativa sarà aggiornata e, dove serve, sarà chiesto il consenso.",
+   "text": "Il sito non installa cookie. Se scegli il tema chiaro o scuro, il browser conserva questa sola preferenza nella memoria locale (localStorage): non contiene dati personali, non viene inviata a nessuno e serve solo a ricordare la tua scelta. Puoi cancellarla in qualsiasi momento dalle impostazioni del browser o tornando alla modalità automatica. Il sito non legge altre informazioni dal tuo dispositivo e non mostra un banner dei cookie. Se in futuro verranno aggiunti strumenti di analisi o altri servizi di terzi, questa informativa sarà aggiornata e, dove serve, sarà chiesto il consenso.",
+   "cifre_ok": false
+  },
+  {
+   "id": "5167e90605354589",
+   "ctx": "Cookie e dispositivo › h2",
+   "orig": "Conservazione e trasferimenti",
+   "text": "Conservazione e trasferimenti",
+   "cifre_ok": false
+  },
+  {
+   "id": "68fd51e30af76480",
+   "ctx": "Conservazione e trasferimenti › p",
+   "orig": "La pagina non conserva dati. I tempi di conservazione dei dati tecnici dipendono dal fornitore di hosting, che può trattarli anche fuori dallo Spazio economico europeo con le garanzie previste dal GDPR (per esempio decisioni di adeguatezza o clausole contrattuali tipo). Dettagli nell'informativa del fornitore.",
+   "text": "La pagina non conserva dati. I tempi di conservazione dei dati tecnici dipendono dal fornitore di hosting, che può trattarli anche fuori dallo Spazio economico europeo con le garanzie previste dal GDPR (per esempio decisioni di adeguatezza o clausole contrattuali tipo). Dettagli nell'informativa del fornitore.",
+   "cifre_ok": false
+  },
+  {
+   "id": "c6d02472403c838f",
+   "ctx": "Conservazione e trasferimenti › h2",
+   "orig": "I tuoi diritti",
+   "text": "I tuoi diritti",
+   "cifre_ok": false
+  },
+  {
+   "id": "5242e2999fae6661",
+   "ctx": "⚠ contiene numeri · I tuoi diritti › p",
+   "orig": "Puoi chiedere l'accesso ai tuoi dati, la rettifica, la cancellazione, la limitazione, l'opposizione al trattamento e, dove applicabile, la portabilità (artt. 15–22 GDPR), scrivendo a [privacyvalore0@rgbear.it](mailto:privacyvalore0@rgbear.it). Hai inoltre il diritto di proporre reclamo al Garante per la protezione dei dati personali ([garanteprivacy.it](https://www.garanteprivacy.it)) o all'autorità del tuo Paese.",
+   "text": "Puoi chiedere l'accesso ai tuoi dati, la rettifica, la cancellazione, la limitazione, l'opposizione al trattamento e, dove applicabile, la portabilità (artt. 15–22 GDPR), scrivendo a [privacyvalore0@rgbear.it](mailto:privacyvalore0@rgbear.it). Hai inoltre il diritto di proporre reclamo al Garante per la protezione dei dati personali ([garanteprivacy.it](https://www.garanteprivacy.it)) o all'autorità del tuo Paese.",
+   "cifre_ok": false
+  },
+  {
+   "id": "cc9c54ffd090568a",
+   "ctx": "I tuoi diritti › h2",
+   "orig": "Minori",
+   "text": "Minori",
+   "cifre_ok": false
+  },
+  {
+   "id": "4a0eb1a708f6cb2e",
+   "ctx": "Minori › p",
+   "orig": "Il sito può essere usato in classe. Non raccoglie dati dei minori e non richiede di inserirne.",
+   "text": "Il sito può essere usato in classe. Non raccoglie dati dei minori e non richiede di inserirne.",
+   "cifre_ok": false
+  },
+  {
+   "id": "39acd8b303025080",
+   "ctx": "⚠ contiene numeri · Minori › p",
+   "orig": "Le fonti dei numeri sono elencate in [Info e fonti](info.html). Caratteri: Anton e IBM Plex Sans, licenza SIL Open Font License 1.1.",
+   "text": "Le fonti dei numeri sono elencate in [Info e fonti](info.html). Caratteri: Anton e IBM Plex Sans, licenza SIL Open Font License 1.1.",
+   "cifre_ok": false
+  }
+ ],
+ "orfane": []
+}

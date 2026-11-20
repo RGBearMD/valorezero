@@ -1,0 +1,321 @@
+{
+ "titolo": "Che cos'è Valore Zer0",
+ "voci": [
+  {
+   "id": "b02cf35818c783ce",
+   "ctx": "Che cos'è Valore Zer0 › p",
+   "orig": "Per gli animali, il valore è sempre zero.",
+   "text": "Per gli animali, il valore è sempre zero.",
+   "cifre_ok": false
+  },
+  {
+   "id": "71104167d247635c",
+   "ctx": "Che cos'è Valore Zer0 › p",
+   "orig": "Zero quando vengono contati. Zero quando vengono allevati. Zero quando vengono uccisi.",
+   "text": "Zero quando vengono contati. Zero quando vengono allevati. Zero quando vengono uccisi.",
+   "cifre_ok": false
+  },
+  {
+   "id": "d84b710567cf7382",
+   "ctx": "Che cos'è Valore Zer0 › p",
+   "orig": "Le loro vite entrano nei bilanci come costi, i loro corpi diventano prodotti, la loro morte una voce di mercato. La sofferenza non compare nei prezzi. L'individualità non entra nei conti.",
+   "text": "Le loro vite entrano nei bilanci come costi, i loro corpi diventano prodotti, la loro morte una voce di mercato. La sofferenza non compare nei prezzi. L'individualità non entra nei conti.",
+   "cifre_ok": false
+  },
+  {
+   "id": "237b54330e972503",
+   "ctx": "Che cos'è Valore Zer0 › p",
+   "orig": "Eppure, ognuno di loro è qualcuno. Una vita capace di sentire, di provare paura, dolore e benessere. Non una cosa. Non un'unità. Non un numero.",
+   "text": "Eppure, ognuno di loro è qualcuno. Una vita capace di sentire, di provare paura, dolore e benessere. Non una cosa. Non un'unità. Non un numero.",
+   "cifre_ok": false
+  },
+  {
+   "id": "fff1e205a247cfe1",
+   "ctx": "Che cos'è Valore Zer0 › p",
+   "orig": "**Zero non è il valore che hanno. È il valore che gli viene assegnato.**",
+   "text": "**Zero non è il valore che hanno. È il valore che gli viene assegnato.**",
+   "cifre_ok": false
+  },
+  {
+   "id": "15aa2ac309b7e993",
+   "ctx": "Che cos'è Valore Zer0 › p",
+   "orig": "Questo contatore rende visibile ciò che il sistema riduce a statistica: le vite animali sacrificate ogni secondo alle nostre abitudini e ai nostri consumi.",
+   "text": "Questo contatore rende visibile ciò che il sistema riduce a statistica: le vite animali sacrificate ogni secondo alle nostre abitudini e ai nostri consumi.",
+   "cifre_ok": false
+  },
+  {
+   "id": "55708520149fe39b",
+   "ctx": "Che cos'è Valore Zer0 › p",
+   "orig": "Perché dietro ogni numero c'è una vita. E nessuna vita dovrebbe valere zero.",
+   "text": "Perché dietro ogni numero c'è una vita. E nessuna vita dovrebbe valere zero.",
+   "cifre_ok": false
+  },
+  {
+   "id": "124467f79ae84e9b",
+   "ctx": "Che cos'è Valore Zer0 › h2",
+   "orig": "Quante vite scorrono dietro le nostre scelte?",
+   "text": "Quante vite scorrono dietro le nostre scelte?",
+   "cifre_ok": false
+  },
+  {
+   "id": "88484189f23149ac",
+   "ctx": "⚠ contiene numeri · Quante vite scorrono dietro le nostre scelte? › p",
+   "orig": "Ogni anno in Italia milioni di animali allevati vengono uccisi per mano umana. Questi contatori trasformano i totali di 12 mesi in un ritmo che si può osservare.",
+   "text": "Ogni anno in Italia milioni di animali allevati vengono uccisi per mano umana. Questi contatori trasformano i totali di 12 mesi in un ritmo che si può osservare.",
+   "cifre_ok": false
+  },
+  {
+   "id": "0548b69166ae8ecd",
+   "ctx": "Quante vite scorrono dietro le nostre scelte? › h2",
+   "orig": "Come leggere i contatori",
+   "text": "Come leggere i contatori",
+   "cifre_ok": false
+  },
+  {
+   "id": "1edf341b0bb08ae7",
+   "ctx": "Come leggere i contatori › li",
+   "orig": "Sono contate solo le uccisioni per mano umana: macellazione, abbattimento sanitario, eutanasia. La mortalità naturale non rientra.",
+   "text": "Sono contate solo le uccisioni per mano umana: macellazione, abbattimento sanitario, eutanasia. La mortalità naturale non rientra.",
+   "cifre_ok": false
+  },
+  {
+   "id": "1b68adac86914851",
+   "ctx": "⚠ contiene numeri · Come leggere i contatori › li",
+   "orig": "Ogni contatore divide il totale di 12 mesi per i secondi di quel periodo. È una media aritmetica, non un conteggio in tempo reale.",
+   "text": "Ogni contatore divide il totale di 12 mesi per i secondi di quel periodo. È una media aritmetica, non un conteggio in tempo reale.",
+   "cifre_ok": false
+  },
+  {
+   "id": "642ff1dd4b7238b7",
+   "ctx": "⚠ contiene numeri · Come leggere i contatori › li",
+   "orig": "Ogni pagina ha una griglia di 100 icone. Le icone piene sono quelle «avvenute» in media da quando hai aperto la pagina. La scala è scritta sotto la griglia e la griglia ricomincia quando si riempie.",
+   "text": "Ogni pagina ha una griglia di 100 icone. Le icone piene sono quelle «avvenute» in media da quando hai aperto la pagina. La scala è scritta sotto la griglia e la griglia ricomincia quando si riempie.",
+   "cifre_ok": false
+  },
+  {
+   "id": "e569f134905d6591",
+   "ctx": "Come leggere i contatori › li",
+   "orig": "Ogni pagina ha due confronti con la popolazione italiana: la quota sul totale dei residenti e quanti animali sono uccisi «per ogni cittadino».",
+   "text": "Ogni pagina ha due confronti con la popolazione italiana: la quota sul totale dei residenti e quanti animali sono uccisi «per ogni cittadino».",
+   "cifre_ok": false
+  },
+  {
+   "id": "75e0fe47807ba38a",
+   "ctx": "Come leggere i contatori › li",
+   "orig": "Consistenza (animali presenti) e flusso (animali uccisi in un periodo) non si confondono. Macellazioni, abbattimenti sanitari e altre eliminazioni non si sommano.",
+   "text": "Consistenza (animali presenti) e flusso (animali uccisi in un periodo) non si confondono. Macellazioni, abbattimenti sanitari e altre eliminazioni non si sommano.",
+   "cifre_ok": false
+  },
+  {
+   "id": "0e33c60baf41be67",
+   "ctx": "Come leggere i contatori › li",
+   "orig": "Dove il dato manca non c'è uno zero: la pagina spiega cosa manca. Le tonnellate non diventano individui. Le stime non sono chiamate dato ufficiale.",
+   "text": "Dove il dato manca non c'è uno zero: la pagina spiega cosa manca. Le tonnellate non diventano individui. Le stime non sono chiamate dato ufficiale.",
+   "cifre_ok": false
+  },
+  {
+   "id": "c4e448b24bf901d9",
+   "ctx": "Come leggere i contatori › h2",
+   "orig": "Categorie senza contatore",
+   "text": "Categorie senza contatore",
+   "cifre_ok": false
+  },
+  {
+   "id": "208df71b0f0250c0",
+   "ctx": "Categorie senza contatore › p",
+   "orig": "Per queste categorie non esiste un dato di animali uccisi, confrontabile e affidabile.",
+   "text": "Per queste categorie non esiste un dato di animali uccisi, confrontabile e affidabile.",
+   "cifre_ok": false
+  },
+  {
+   "id": "63f055e2d3e0bb20",
+   "ctx": "Categorie senza contatore › li",
+   "orig": "[Api](senza-contatore.html#api): Non è calcolabile un numero di api uccise. L'unità pertinente è la colonia, e non c'è un dato nazionale sulle colonie distrutte per ordine sanitario.",
+   "text": "[Api](senza-contatore.html#api): Non è calcolabile un numero di api uccise. L'unità pertinente è la colonia, e non c'è un dato nazionale sulle colonie distrutte per ordine sanitario.",
+   "cifre_ok": false
+  },
+  {
+   "id": "ce5839fc7028a922",
+   "ctx": "Categorie senza contatore › li",
+   "orig": "[Animali nella ricerca](senza-contatore.html#ric): Il dato riguarda gli utilizzi, non le uccisioni. La quota soppressa a fine procedura non è stata trovata. Per questo non c'è un contatore di uccisioni.",
+   "text": "[Animali nella ricerca](senza-contatore.html#ric): Il dato riguarda gli utilizzi, non le uccisioni. La quota soppressa a fine procedura non è stata trovata. Per questo non c'è un contatore di uccisioni.",
+   "cifre_ok": false
+  },
+  {
+   "id": "2aad65200d5bce8e",
+   "ctx": "Categorie senza contatore › p",
+   "orig": "Pesci e molluschi hanno un contatore di massa, in chilogrammi, non di individui.",
+   "text": "Pesci e molluschi hanno un contatore di massa, in chilogrammi, non di individui.",
+   "cifre_ok": false
+  },
+  {
+   "id": "d03ddea4c6392b9a",
+   "ctx": "Categorie senza contatore › h2",
+   "orig": "Come funzionano le filiere",
+   "text": "Come funzionano le filiere",
+   "cifre_ok": false
+  },
+  {
+   "id": "a8c45a9bd45af52d",
+   "ctx": "Come funzionano le filiere › p",
+   "orig": "Descrizioni generali, non quantificate qui. I numeri sono nelle pagine dei contatori.",
+   "text": "Descrizioni generali, non quantificate qui. I numeri sono nelle pagine dei contatori.",
+   "cifre_ok": false
+  },
+  {
+   "id": "76363afb3ddde354",
+   "ctx": "Come funzionano le filiere › summary",
+   "orig": "Carne: la macellazione",
+   "text": "Carne: la macellazione",
+   "cifre_ok": false
+  },
+  {
+   "id": "ecad47da6f6a826f",
+   "ctx": "Come funzionano le filiere › p",
+   "orig": "La macellazione è l'uscita prevista per gli animali allevati per la carne. Le statistiche contano gli animali macellati in stabilimenti riconosciuti. La macellazione in azienda per autoconsumo è esclusa e non sempre è stimata.",
+   "text": "La macellazione è l'uscita prevista per gli animali allevati per la carne. Le statistiche contano gli animali macellati in stabilimenti riconosciuti. La macellazione in azienda per autoconsumo è esclusa e non sempre è stimata.",
+   "cifre_ok": false
+  },
+  {
+   "id": "66ee2921d504e987",
+   "ctx": "Come funzionano le filiere › summary",
+   "orig": "Uova: galline e pulcini",
+   "text": "Uova: galline e pulcini",
+   "cifre_ok": false
+  },
+  {
+   "id": "6d9828fcd085d81c",
+   "ctx": "⚠ contiene numeri · Come funzionano le filiere › p",
+   "orig": "Il sistema delle uova produce due flussi di uccisioni: le galline a fine ciclo e i pulcini maschi. Il codice stampato sul guscio indica il metodo di allevamento: 0 biologico, 1 all'aperto, 2 a terra, 3 in gabbia.",
+   "text": "Il sistema delle uova produce due flussi di uccisioni: le galline a fine ciclo e i pulcini maschi. Il codice stampato sul guscio indica il metodo di allevamento: 0 biologico, 1 all'aperto, 2 a terra, 3 in gabbia.",
+   "cifre_ok": false
+  },
+  {
+   "id": "8406e3bfbf87121b",
+   "ctx": "Come funzionano le filiere › summary",
+   "orig": "Latte: vacche e vitelli",
+   "text": "Latte: vacche e vitelli",
+   "cifre_ok": false
+  },
+  {
+   "id": "0aa7ce1a1186f1d8",
+   "ctx": "Come funzionano le filiere › p",
+   "orig": "Le vacche da latte sono macellate a fine carriera produttiva. I vitelli maschi non destinati alla rimonta sono avviati all'ingrasso e poi alla macellazione.",
+   "text": "Le vacche da latte sono macellate a fine carriera produttiva. I vitelli maschi non destinati alla rimonta sono avviati all'ingrasso e poi alla macellazione.",
+   "cifre_ok": false
+  },
+  {
+   "id": "7281a4c68619e8f9",
+   "ctx": "Come funzionano le filiere › summary",
+   "orig": "Abbattimenti sanitari",
+   "text": "Abbattimenti sanitari",
+   "cifre_ok": false
+  },
+  {
+   "id": "611d6b18c90ed698",
+   "ctx": "Come funzionano le filiere › p",
+   "orig": "Quando una malattia soggetta a notifica è accertata, l'autorità sanitaria può ordinare l'abbattimento degli animali dell'allevamento. È un flusso diverso dalla macellazione e i totali non vanno sommati.",
+   "text": "Quando una malattia soggetta a notifica è accertata, l'autorità sanitaria può ordinare l'abbattimento degli animali dell'allevamento. È un flusso diverso dalla macellazione e i totali non vanno sommati.",
+   "cifre_ok": false
+  },
+  {
+   "id": "53892765f228316a",
+   "ctx": "Come funzionano le filiere › summary",
+   "orig": "Pesci e molluschi",
+   "text": "Pesci e molluschi",
+   "cifre_ok": false
+  },
+  {
+   "id": "a25ea7513656373e",
+   "ctx": "Come funzionano le filiere › p",
+   "orig": "Le statistiche ufficiali misurano il peso prodotto, non gli individui. Per questo sono mostrati come contatori di massa: chilogrammi al secondo.",
+   "text": "Le statistiche ufficiali misurano il peso prodotto, non gli individui. Per questo sono mostrati come contatori di massa: chilogrammi al secondo.",
+   "cifre_ok": false
+  },
+  {
+   "id": "a20250998b447e5c",
+   "ctx": "Come funzionano le filiere › h2",
+   "orig": "Dai numeri agli individui",
+   "text": "Dai numeri agli individui",
+   "cifre_ok": false
+  },
+  {
+   "id": "4cbc188ae364a532",
+   "ctx": "Dai numeri agli individui › h3",
+   "orig": "I numeri rendono visibile",
+   "text": "I numeri rendono visibile",
+   "cifre_ok": false
+  },
+  {
+   "id": "e8ab6d6fb771f569",
+   "ctx": "I numeri rendono visibile › p",
+   "orig": "Una realtà che resta fuori dall'esperienza quotidiana, perché avviene altrove e in modo industriale.",
+   "text": "Una realtà che resta fuori dall'esperienza quotidiana, perché avviene altrove e in modo industriale.",
+   "cifre_ok": false
+  },
+  {
+   "id": "933b814bffbee12a",
+   "ctx": "I numeri rendono visibile › h3",
+   "orig": "Dietro ogni cifra una filiera",
+   "text": "Dietro ogni cifra una filiera",
+   "cifre_ok": false
+  },
+  {
+   "id": "1b33929a9f8b1eeb",
+   "ctx": "Dietro ogni cifra una filiera › p",
+   "orig": "Uova, latte, carne e pesce seguono logiche produttive diverse. Le filiere sopra le descrivono.",
+   "text": "Uova, latte, carne e pesce seguono logiche produttive diverse. Le filiere sopra le descrivono.",
+   "cifre_ok": false
+  },
+  {
+   "id": "1d26b1e07321ffb3",
+   "ctx": "Dietro ogni cifra una filiera › h3",
+   "orig": "Cos'è lo specismo",
+   "text": "Cos'è lo specismo",
+   "cifre_ok": false
+  },
+  {
+   "id": "66bcffefff542487",
+   "ctx": "⚠ contiene numeri · Cos'è lo specismo › p",
+   "orig": "Il termine fu coniato da Richard Ryder nel 1970 e diffuso da Peter Singer. L'antispecismo sostiene che la specie, da sola, non giustifichi un trattamento diverso degli interessi degli animali.",
+   "text": "Il termine fu coniato da Richard Ryder nel 1970 e diffuso da Peter Singer. L'antispecismo sostiene che la specie, da sola, non giustifichi un trattamento diverso degli interessi degli animali.",
+   "cifre_ok": false
+  },
+  {
+   "id": "48702a6903c16e57",
+   "ctx": "Cos'è lo specismo › h3",
+   "orig": "Domande aperte",
+   "text": "Domande aperte",
+   "cifre_ok": false
+  },
+  {
+   "id": "76b87629741aba78",
+   "ctx": "Domande aperte › p",
+   "orig": "Quali interessi hanno gli animali che alleviamo? Perché alcune specie sono compagni e altre alimenti? Quali scelte quotidiane dipendono dall'abitudine?",
+   "text": "Quali interessi hanno gli animali che alleviamo? Perché alcune specie sono compagni e altre alimenti? Quali scelte quotidiane dipendono dall'abitudine?",
+   "cifre_ok": false
+  },
+  {
+   "id": "2e8e8a496b2afb87",
+   "ctx": "Domande aperte › h3",
+   "orig": "Strumenti pratici",
+   "text": "Strumenti pratici",
+   "cifre_ok": false
+  },
+  {
+   "id": "8efc3a3acc4723ae",
+   "ctx": "Strumenti pratici › p",
+   "orig": "Leggere il codice sulle uova, informarsi sulle filiere, provare alternative vegetali, condividere una singola pagina con le sue fonti.",
+   "text": "Leggere il codice sulle uova, informarsi sulle filiere, provare alternative vegetali, condividere una singola pagina con le sue fonti.",
+   "cifre_ok": false
+  },
+  {
+   "id": "cf6d454b68e3bb89",
+   "ctx": "Strumenti pratici › p",
+   "orig": "Chi non condivide questa prospettiva può usare i contatori come strumento di conoscenza. Questa pagina non giudica chi legge.",
+   "text": "Chi non condivide questa prospettiva può usare i contatori come strumento di conoscenza. Questa pagina non giudica chi legge.",
+   "cifre_ok": false
+  }
+ ],
+ "orfane": []
+}

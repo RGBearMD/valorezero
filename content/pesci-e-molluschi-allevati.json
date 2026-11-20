@@ -1,0 +1,90 @@
+{
+ "titolo": "Pesci d'acquacoltura",
+ "voci": [
+  {
+   "id": "d512ad5569ffd363",
+   "ctx": "h1",
+   "orig": "Pesci d'acquacoltura",
+   "text": "Pesci d'acquacoltura",
+   "cifre_ok": false
+  },
+  {
+   "id": "10d5cba197b281dd",
+   "ctx": "Impiego › p",
+   "orig": "Pesce intero, filetti, tranci, surgelati e preparati (trota, orata, branzino, salmone); dai sottoprodotti anche farine e mangimi.",
+   "text": "Pesce intero, filetti, tranci, surgelati e preparati (trota, orata, branzino, salmone); dai sottoprodotti anche farine e mangimi.",
+   "cifre_ok": false
+  },
+  {
+   "id": "0bc89c162405d1b5",
+   "ctx": "Animali uccisi per cittadino › dd",
+   "orig": "Produzione in peso",
+   "text": "Produzione in peso",
+   "cifre_ok": false
+  },
+  {
+   "id": "9ecf2bf6068c8ecb",
+   "ctx": "⚠ contiene numeri · Animali uccisi per cittadino › dd",
+   "orig": "50.553 t nel 2023",
+   "text": "50.553 t nel 2023",
+   "cifre_ok": false
+  },
+  {
+   "id": "2d61d691c6fc1dca",
+   "ctx": "⚠ contiene numeri · Animali uccisi per cittadino › dd",
+   "orig": "[ISPRA, indicatori ambientali (dati MASAF-CREA ed Eurostat)](https://indicatoriambientali.isprambiente.it/en/node/4965)",
+   "text": "[ISPRA, indicatori ambientali (dati MASAF-CREA ed Eurostat)](https://indicatoriambientali.isprambiente.it/en/node/4965)",
+   "cifre_ok": false
+  },
+  {
+   "id": "cd5280dbd8ddafad",
+   "ctx": "⚠ contiene numeri · Animali uccisi per cittadino › p",
+   "orig": "50.553 t di pesci (37.304 t acqua dolce, 13.249 t marino; trota 34.143 t). Escluso il totale dei molluschi. Non indica il numero di pesci né che tutta la biomassa sia stata uccisa nell'anno.",
+   "text": "50.553 t di pesci (37.304 t acqua dolce, 13.249 t marino; trota 34.143 t). Escluso il totale dei molluschi. Non indica il numero di pesci né che tutta la biomassa sia stata uccisa nell'anno.",
+   "cifre_ok": false
+  },
+  {
+   "id": "f0f066e81d020c8d",
+   "ctx": "Animali uccisi per cittadino › h2",
+   "orig": "Pesci e molluschi: tutte le categorie",
+   "text": "Pesci e molluschi: tutte le categorie",
+   "cifre_ok": false
+  },
+  {
+   "id": "d874c03be4fabbc3",
+   "ctx": "Definizioni › dt",
+   "orig": "Molluschi d'acquacoltura",
+   "text": "Molluschi d'acquacoltura",
+   "cifre_ok": false
+  },
+  {
+   "id": "a3246ccd91e8de02",
+   "ctx": "⚠ contiene numeri · Definizioni › dd",
+   "orig": "79.160 t. Vongola filippina 21.547 t (ISPRA); le cozze sono circa il 44% della produzione nazionale. Lettura Eurostat da verificare. Non è un conteggio di individui.",
+   "text": "79.160 t. Vongola filippina 21.547 t (ISPRA); le cozze sono circa il 44% della produzione nazionale. Lettura Eurostat da verificare. Non è un conteggio di individui.",
+   "cifre_ok": false
+  },
+  {
+   "id": "031b1d4adc7b6ab8",
+   "ctx": "Impiego › p",
+   "orig": "Cozze, vongole e ostriche: vendute intere, sgusciate, surgelate, in scatola e in preparazioni.",
+   "text": "Cozze, vongole e ostriche: vendute intere, sgusciate, surgelate, in scatola e in preparazioni.",
+   "cifre_ok": false
+  },
+  {
+   "id": "259e8447dfa1b7c0",
+   "ctx": "⚠ contiene numeri · Animali uccisi per cittadino › dd",
+   "orig": "79.160 t nel 2023",
+   "text": "79.160 t nel 2023",
+   "cifre_ok": false
+  },
+  {
+   "id": "e8a814137e431b13",
+   "ctx": "⚠ contiene numeri · Animali uccisi per cittadino › dd",
+   "orig": "[Eurostat fish\\_aq2a e ISPRA](https://indicatoriambientali.isprambiente.it/en/node/4965)",
+   "text": "[Eurostat fish\\_aq2a e ISPRA](https://indicatoriambientali.isprambiente.it/en/node/4965)",
+   "cifre_ok": false
+  }
+ ],
+ "orfane": []
+}

@@ -1,0 +1,83 @@
+{
+ "titolo": "Mangia!Mangia!Mangia!",
+ "voci": [
+  {
+   "id": "6ada4ba68e2969d4",
+   "ctx": "h1",
+   "orig": "Mangia!\nMangia!\nMangia!",
+   "text": "Mangia!\nMangia!\nMangia!",
+   "cifre_ok": false
+  },
+  {
+   "id": "4df1abc4913de27e",
+   "ctx": "⚠ contiene numeri · Mangia!Mangia!Mangia! › p",
+   "orig": "Gli animali scorrono a una velocità proporzionale alla media annua dei dati ISTAT; nei primi due nastri ogni animale è seguito dalle fasi che portano alla carne confezionata. La velocità si basa sulla media annua dei dati ISTAT (ago 2025–lug 2026), divisa per i secondi dell'anno: non è un conteggio in tempo reale.",
+   "text": "Gli animali scorrono a una velocità proporzionale alla media annua dei dati ISTAT; nei primi due nastri ogni animale è seguito dalle fasi che portano alla carne confezionata. La velocità si basa sulla media annua dei dati ISTAT (ago 2025–lug 2026), divisa per i secondi dell'anno: non è un conteggio in tempo reale.",
+   "cifre_ok": false
+  },
+  {
+   "id": "c9be9d7f81b4453c",
+   "ctx": "Mangia!Mangia!Mangia! › p",
+   "orig": "Ricordi quando hai voluto una bistecca?",
+   "text": "Ricordi quando hai voluto una bistecca?",
+   "cifre_ok": false
+  },
+  {
+   "id": "0b48532bd4c5863c",
+   "ctx": "Mangia!Mangia!Mangia! › p",
+   "orig": "Ricordi quando hai voluto latte e cereali a colazione?",
+   "text": "Ricordi quando hai voluto latte e cereali a colazione?",
+   "cifre_ok": false
+  },
+  {
+   "id": "ad1b8c078287f927",
+   "ctx": "Mangia!Mangia!Mangia! › p",
+   "orig": "Ricordi quando hai voluto un panino col prosciutto?",
+   "text": "Ricordi quando hai voluto un panino col prosciutto?",
+   "cifre_ok": false
+  },
+  {
+   "id": "f095ec28728587eb",
+   "ctx": "Mangia!Mangia!Mangia! › p",
+   "orig": "Ricordi quando hai ordinato il pollo?",
+   "text": "Ricordi quando hai ordinato il pollo?",
+   "cifre_ok": false
+  },
+  {
+   "id": "e053caa1f4db61c2",
+   "ctx": "Mangia!Mangia!Mangia! › p",
+   "orig": "Ricordi quando hai voluto una frittata?",
+   "text": "Ricordi quando hai voluto una frittata?",
+   "cifre_ok": false
+  },
+  {
+   "id": "378bcc49e532e143",
+   "ctx": "Mangia!Mangia!Mangia! › p",
+   "orig": "Ricordi quando hai voluto un panino col tacchino?",
+   "text": "Ricordi quando hai voluto un panino col tacchino?",
+   "cifre_ok": false
+  },
+  {
+   "id": "7e17867658403571",
+   "ctx": "Mangia!Mangia!Mangia! › p",
+   "orig": "Ricordi quando a Pasqua c'era l'agnello?",
+   "text": "Ricordi quando a Pasqua c'era l'agnello?",
+   "cifre_ok": false
+  },
+  {
+   "id": "83c801053342c028",
+   "ctx": "Mangia!Mangia!Mangia! › p",
+   "orig": "Ricordi quando hai voluto il coniglio alla cacciatora?",
+   "text": "Ricordi quando hai voluto il coniglio alla cacciatora?",
+   "cifre_ok": false
+  },
+  {
+   "id": "2e49c83cff0a9bc5",
+   "ctx": "⚠ contiene numeri · Mangia!Mangia!Mangia! › p",
+   "orig": "Fonte: ISTAT, macellazioni (ago 2025–lug 2026). Sono animali macellati nei macelli registrati: non comprendono abbattimenti sanitari, macellazioni fuori macello né pesci e molluschi, che hanno altre unità di misura. Le righe non si sommano tra specie. Dettagli in Info e fonti.",
+   "text": "Fonte: ISTAT, macellazioni (ago 2025–lug 2026). Sono animali macellati nei macelli registrati: non comprendono abbattimenti sanitari, macellazioni fuori macello né pesci e molluschi, che hanno altre unità di misura. Le righe non si sommano tra specie. Dettagli in Info e fonti.",
+   "cifre_ok": false
+  }
+ ],
+ "orfane": []
+}

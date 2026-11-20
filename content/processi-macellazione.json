@@ -1,0 +1,132 @@
+{
+ "titolo": "Processi di macellazione",
+ "voci": [
+  {
+   "id": "e7fe45b821c49f2f",
+   "ctx": "h1",
+   "orig": "Processi di macellazione",
+   "text": "Processi di macellazione",
+   "cifre_ok": false
+  },
+  {
+   "id": "af38c41ee515f9d1",
+   "ctx": "Processi di macellazione › p",
+   "orig": "Le fasi che un animale attraversa dall'arrivo al macello fino ai prodotti e agli scarti. Cambiano secondo la specie.",
+   "text": "Le fasi che un animale attraversa dall'arrivo al macello fino ai prodotti e agli scarti. Cambiano secondo la specie.",
+   "cifre_ok": false
+  },
+  {
+   "id": "228e300e27033138",
+   "ctx": "Processi di macellazione › h2",
+   "orig": "Bovini e ovini",
+   "text": "Bovini e ovini",
+   "cifre_ok": false
+  },
+  {
+   "id": "ee02c52d7b5b9c6a",
+   "ctx": "Bovini e ovini › p",
+   "orig": "Ricezione e stabulazione → Trappola → Stordimento → Dissanguamento → Scuoiatura → Eviscerazione → Divisione e rifinitura → Pesatura → Raffreddamento → Taglio e disosso → Confezionamento → Scarti e sottoprodotti",
+   "text": "Ricezione e stabulazione → Trappola → Stordimento → Dissanguamento → Scuoiatura → Eviscerazione → Divisione e rifinitura → Pesatura → Raffreddamento → Taglio e disosso → Confezionamento → Scarti e sottoprodotti",
+   "cifre_ok": false
+  },
+  {
+   "id": "bb71e3037f1feb6f",
+   "ctx": "Bovini e ovini › p",
+   "orig": "Gli animali arrivano al macello e sostano in stalla di attesa prima della macellazione.",
+   "text": "Gli animali arrivano al macello e sostano in stalla di attesa prima della macellazione.",
+   "cifre_ok": false
+  },
+  {
+   "id": "e981ccd697d90e4d",
+   "ctx": "Bovini e ovini › p",
+   "orig": "Immobilizzazione individuale dell'animale. Per la macellazione senza stordimento è prevista quella meccanica per i ruminanti.",
+   "text": "Immobilizzazione individuale dell'animale. Per la macellazione senza stordimento è prevista quella meccanica per i ruminanti.",
+   "cifre_ok": false
+  },
+  {
+   "id": "9c1f574f4cba640e",
+   "ctx": "Bovini e ovini › p",
+   "orig": "Perdita di coscienza indotta prima del taglio, di solito con pistola a proiettile captivo. Deve durare fino alla morte.",
+   "text": "Perdita di coscienza indotta prima del taglio, di solito con pistola a proiettile captivo. Deve durare fino alla morte.",
+   "cifre_ok": false
+  },
+  {
+   "id": "91dd549d988414fd",
+   "ctx": "⚠ contiene numeri · Bovini e ovini › p",
+   "orig": "L'animale è sollevato su una rotaia e dissanguato fino a flusso trascurabile. Si rimuove il 40–60% del volume del sangue.",
+   "text": "L'animale è sollevato su una rotaia e dissanguato fino a flusso trascurabile. Si rimuove il 40–60% del volume del sangue.",
+   "cifre_ok": false
+  },
+  {
+   "id": "84a166d8461c1c3a",
+   "ctx": "Bovini e ovini › p",
+   "orig": "Si rimuove la pelle evitando che contamini la carcassa. Nei bovini, con rotaie aeree e scuoiatore automatico; negli ovini, con divaricatore.",
+   "text": "Si rimuove la pelle evitando che contamini la carcassa. Nei bovini, con rotaie aeree e scuoiatore automatico; negli ovini, con divaricatore.",
+   "cifre_ok": false
+  },
+  {
+   "id": "2b6ab87c240d3bc6",
+   "ctx": "Bovini e ovini › p",
+   "orig": "Si tolgono le viscere senza contaminare la carcassa. Restano identificate con la carcassa fino all'ispezione veterinaria.",
+   "text": "Si tolgono le viscere senza contaminare la carcassa. Restano identificate con la carcassa fino all'ispezione veterinaria.",
+   "cifre_ok": false
+  },
+  {
+   "id": "9f5174ee1829e419",
+   "ctx": "Bovini e ovini › p",
+   "orig": "Nei bovini la carcassa si divide lungo la colonna vertebrale; poi si tolgono le parti danneggiate e si lava a spruzzo.",
+   "text": "Nei bovini la carcassa si divide lungo la colonna vertebrale; poi si tolgono le parti danneggiate e si lava a spruzzo.",
+   "cifre_ok": false
+  },
+  {
+   "id": "1a8c719c60d535d9",
+   "ctx": "Bovini e ovini › p",
+   "orig": "Le carcasse si pesano prima di entrare in cella.",
+   "text": "Le carcasse si pesano prima di entrare in cella.",
+   "cifre_ok": false
+  },
+  {
+   "id": "447da659a02e1015",
+   "ctx": "⚠ contiene numeri · Bovini e ovini › p",
+   "orig": "Cella a circa 0 °C: 6–7 °C al centro del muscolo in 28–36 ore nei bovini, 24–30 negli ovini.",
+   "text": "Cella a circa 0 °C: 6–7 °C al centro del muscolo in 28–36 ore nei bovini, 24–30 negli ovini.",
+   "cifre_ok": false
+  },
+  {
+   "id": "d4c73d028220ba7e",
+   "ctx": "Bovini e ovini › p",
+   "orig": "La carcassa è ridotta in tagli primari; il disosso può essere fatto con la mezzena appesa.",
+   "text": "La carcassa è ridotta in tagli primari; il disosso può essere fatto con la mezzena appesa.",
+   "cifre_ok": false
+  },
+  {
+   "id": "58a70ef7a2589258",
+   "ctx": "Bovini e ovini › p",
+   "orig": "I tagli sono avvolti o chiusi in sacchetti a una postazione dedicata.",
+   "text": "I tagli sono avvolti o chiusi in sacchetti a una postazione dedicata.",
+   "cifre_ok": false
+  },
+  {
+   "id": "181ba84d5e998a45",
+   "ctx": "Bovini e ovini › p",
+   "orig": "Pelli, sangue e visceri non destinati al consumo diventano sottoprodotti di origine animale o rifiuti.",
+   "text": "Pelli, sangue e visceri non destinati al consumo diventano sottoprodotti di origine animale o rifiuti.",
+   "cifre_ok": false
+  },
+  {
+   "id": "94352c44b5bc42bd",
+   "ctx": "⚠ contiene numeri · Bovini e ovini › p",
+   "orig": "Fonti: FAO Paper 91 (1991) per le attrezzature e i valori; JRC, BREF macelli e industrie dei sottoprodotti, per le fasi dei suini e dei volatili; Reg. (CE) 1099/2009. L'ordine e i dettagli possono variare tra impianti. Il Reg. (CE) 1099/2009 vieta di sospendere o sollevare animali coscienti.",
+   "text": "Fonti: FAO Paper 91 (1991) per le attrezzature e i valori; JRC, BREF macelli e industrie dei sottoprodotti, per le fasi dei suini e dei volatili; Reg. (CE) 1099/2009. L'ordine e i dettagli possono variare tra impianti. Il Reg. (CE) 1099/2009 vieta di sospendere o sollevare animali coscienti.",
+   "cifre_ok": false
+  },
+  {
+   "id": "206c9a4a28c2d092",
+   "ctx": "Bovini e ovini › p",
+   "orig": "[Strumenti dell'industria](strumenti-industria.html) · [Macellazione rituale](macellazione-rituale.html)",
+   "text": "[Strumenti dell'industria](strumenti-industria.html) · [Macellazione rituale](macellazione-rituale.html)",
+   "cifre_ok": false
+  }
+ ],
+ "orfane": []
+}

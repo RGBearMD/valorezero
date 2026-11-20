@@ -1,0 +1,20 @@
+{
+ "titolo": "Filiere a confronto",
+ "voci": [
+  {
+   "id": "3ac02e1574e14b25",
+   "ctx": "h1",
+   "orig": "Filiere a confronto",
+   "text": "Filiere a confronto",
+   "cifre_ok": false
+  },
+  {
+   "id": "5997c36ff204f505",
+   "ctx": "Filiere a confronto › p",
+   "orig": "Confronti tra filiere produttive: che cosa cambia in termini di ambiente, composizione e costi quando lo stesso prodotto nasce da un animale o da una pianta.",
+   "text": "Confronti tra filiere produttive: che cosa cambia in termini di ambiente, composizione e costi quando lo stesso prodotto nasce da un animale o da una pianta.",
+   "cifre_ok": false
+  }
+ ],
+ "orfane": []
+}

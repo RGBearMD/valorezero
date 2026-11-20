@@ -1,0 +1,167 @@
+{
+ "titolo": "Latte animale vs vegetale",
+ "voci": [
+  {
+   "id": "98f25636004059b6",
+   "ctx": "h1",
+   "orig": "Latte animale vs vegetale",
+   "text": "Latte animale vs vegetale",
+   "cifre_ok": false
+  },
+  {
+   "id": "39078093b86618b3",
+   "ctx": "Latte animale vs vegetale › p",
+   "orig": "aziende agricole nello studio da cui vengono i dati ambientali del confronto.",
+   "text": "aziende agricole nello studio da cui vengono i dati ambientali del confronto.",
+   "cifre_ok": false
+  },
+  {
+   "id": "6259ae998f5034a8",
+   "ctx": "⚠ contiene numeri · Latte animale vs vegetale › p",
+   "orig": "Quattro domande, quattro risposte basate su testi di legge, linee guida scientifiche e uno studio su 38.000 aziende agricole. Dove la fonte non c'è, la pagina non risponde.",
+   "text": "Quattro domande, quattro risposte basate su testi di legge, linee guida scientifiche e uno studio su 38.000 aziende agricole. Dove la fonte non c'è, la pagina non risponde.",
+   "cifre_ok": false
+  },
+  {
+   "id": "7464a93e0fcd3965",
+   "ctx": "⚠ contiene numeri · Latte animale vs vegetale › h2",
+   "orig": "1. Anche il latte vaccino può essere «addizionato»",
+   "text": "1. Anche il latte vaccino può essere «addizionato»",
+   "cifre_ok": false
+  },
+  {
+   "id": "fcd0d46901bb0800",
+   "ctx": "1. Anche il latte vaccino può essere «addizionat › p",
+   "orig": "Il regolamento europeo sul latte alimentare ammette alcune modifiche al latte prima della vendita. Sono lecite se rispettano le regole di etichetta.",
+   "text": "Il regolamento europeo sul latte alimentare ammette alcune modifiche al latte prima della vendita. Sono lecite se rispettano le regole di etichetta.",
+   "cifre_ok": false
+  },
+  {
+   "id": "40dcded3e800dec8",
+   "ctx": "⚠ contiene numeri · 1. Anche il latte vaccino può essere «addizionat › p",
+   "orig": "Regolamento (UE) 1308/2013, allegato VII, parte IV, sezione III (punti 1 e 2), letto sulla copia britannica pubblicata su legislation.gov.uk: fa fede il testo su EUR-Lex. Le modifiche per arricchimento e lattosio devono essere indicate sulla confezione. La legge italiana 169/1989, nei suoi articoli ancora in vigore, non tratta le aggiunte. Le bevande vegetali sono spesso arricchite (per esempio con calcio): il confronto corretto è tra etichette.",
+   "text": "Regolamento (UE) 1308/2013, allegato VII, parte IV, sezione III (punti 1 e 2), letto sulla copia britannica pubblicata su legislation.gov.uk: fa fede il testo su EUR-Lex. Le modifiche per arricchimento e lattosio devono essere indicate sulla confezione. La legge italiana 169/1989, nei suoi articoli ancora in vigore, non tratta le aggiunte. Le bevande vegetali sono spesso arricchite (per esempio con calcio): il confronto corretto è tra etichette.",
+   "cifre_ok": false
+  },
+  {
+   "id": "cb1f2ddece5202d2",
+   "ctx": "⚠ contiene numeri · 1. Anche il latte vaccino può essere «addizionat › h2",
+   "orig": "2. Il latte contiene sempre cellule: globuli bianchi e cellule della mammella",
+   "text": "2. Il latte contiene sempre cellule: globuli bianchi e cellule della mammella",
+   "cifre_ok": false
+  },
+  {
+   "id": "c8312205626566e3",
+   "ctx": "2. Il latte contiene sempre cellule: globuli bia › p",
+   "orig": "Il latte vaccino contiene cellule somatiche, cioè cellule del corpo dell'animale. Sono soprattutto leucociti (globuli bianchi), più alcune cellule che si staccano dalla parete della mammella. Una mammella sana ne ha poche; con un'infiammazione o infezione (mastite) aumentano.",
+   "text": "Il latte vaccino contiene cellule somatiche, cioè cellule del corpo dell'animale. Sono soprattutto leucociti (globuli bianchi), più alcune cellule che si staccano dalla parete della mammella. Una mammella sana ne ha poche; con un'infiammazione o infezione (mastite) aumentano.",
+   "cifre_ok": false
+  },
+  {
+   "id": "ca31cae5ebc2ce44",
+   "ctx": "⚠ contiene numeri · 2. Il latte contiene sempre cellule: globuli bia › p",
+   "orig": "Smith, Hillerton e Harmon (2001), Guidelines on Normal and Abnormal Raw Milk Based on Somatic Cell Counts, National Mastitis Council: «Milk somatic cells are primarily leukocytes (white blood cells)»; sotto i 100.000 nei quarti non infetti; da 200.000 «the odds favor that the quarter is infected». Le soglie del quarto (singola mammella) e il limite di legge (latte di massa dell'allevamento) misurano cose diverse. Regolamento (CE) 853/2004, allegato III, sezione IX, capitolo I, parte III, copia britannica su legislation.gov.uk (fa fede EUR-Lex).",
+   "text": "Smith, Hillerton e Harmon (2001), Guidelines on Normal and Abnormal Raw Milk Based on Somatic Cell Counts, National Mastitis Council: «Milk somatic cells are primarily leukocytes (white blood cells)»; sotto i 100.000 nei quarti non infetti; da 200.000 «the odds favor that the quarter is infected». Le soglie del quarto (singola mammella) e il limite di legge (latte di massa dell'allevamento) misurano cose diverse. Regolamento (CE) 853/2004, allegato III, sezione IX, capitolo I, parte III, copia britannica su legislation.gov.uk (fa fede EUR-Lex).",
+   "cifre_ok": false
+  },
+  {
+   "id": "ec8ae22e1097f950",
+   "ctx": "⚠ contiene numeri · 2. Il latte contiene sempre cellule: globuli bia › dt",
+   "orig": "Carica batterica a 30 °C",
+   "text": "Carica batterica a 30 °C",
+   "cifre_ok": false
+  },
+  {
+   "id": "f133038cba2e0df0",
+   "ctx": "⚠ contiene numeri · 2. Il latte contiene sempre cellule: globuli bia › dd",
+   "orig": "massimo 100.000 per ml (media geometrica su due mesi)",
+   "text": "massimo 100.000 per ml (media geometrica su due mesi)",
+   "cifre_ok": false
+  },
+  {
+   "id": "f0494de061220ba8",
+   "ctx": "2. Il latte contiene sempre cellule: globuli bia › dt",
+   "orig": "Antibiotici",
+   "text": "Antibiotici",
+   "cifre_ok": false
+  },
+  {
+   "id": "7f7f13b2a31e9a25",
+   "ctx": "2. Il latte contiene sempre cellule: globuli bia › dd",
+   "orig": "il latte con residui oltre i limiti non può essere venduto",
+   "text": "il latte con residui oltre i limiti non può essere venduto",
+   "cifre_ok": false
+  },
+  {
+   "id": "b774dcdf64196ca1",
+   "ctx": "2. Il latte contiene sempre cellule: globuli bia › p",
+   "orig": "Non abbiamo una fonte che quantifichi la presenza di materia fecale nel latte: per questo la pagina non ne parla. La carica batterica massima sopra è il controllo di legge disponibile.",
+   "text": "Non abbiamo una fonte che quantifichi la presenza di materia fecale nel latte: per questo la pagina non ne parla. La carica batterica massima sopra è il controllo di legge disponibile.",
+   "cifre_ok": false
+  },
+  {
+   "id": "d2181fd7f4c81dae",
+   "ctx": "⚠ contiene numeri · 2. Il latte contiene sempre cellule: globuli bia › h2",
+   "orig": "3. Quanto nutre una bevanda vegetale rispetto al latte?",
+   "text": "3. Quanto nutre una bevanda vegetale rispetto al latte?",
+   "cifre_ok": false
+  },
+  {
+   "id": "dfcbc49682fe218e",
+   "ctx": "⚠ contiene numeri · 3. Quanto nutre una bevanda vegetale rispetto al › p",
+   "orig": "Per la proteina, una bevanda di soia è paragonabile al latte vaccino: lo studio sugli impatti la definisce con circa il 3,3% di proteine, come il latte. Avena, riso e mandorla hanno composizioni diverse e dipendono dalla ricetta e dalla fortificazione. Per vitamine e minerali il confronto va fatto sull'etichetta del prodotto scelto.",
+   "text": "Per la proteina, una bevanda di soia è paragonabile al latte vaccino: lo studio sugli impatti la definisce con circa il 3,3% di proteine, come il latte. Avena, riso e mandorla hanno composizioni diverse e dipendono dalla ricetta e dalla fortificazione. Per vitamine e minerali il confronto va fatto sull'etichetta del prodotto scelto.",
+   "cifre_ok": false
+  },
+  {
+   "id": "8efd9ec1826a8a0f",
+   "ctx": "⚠ contiene numeri · 3. Quanto nutre una bevanda vegetale rispetto al › p",
+   "orig": "Poore e Nemecek 2018, supplemento, tabella S1: «1 liter of soymilk (~3.3% protein)» e «1 liter of pasteurized milk (4% fat, 3.3% protein)». CREA, Tabelle di composizione degli alimenti (BDA): latte vaccino intero 64 kcal, proteine 3,3 g, grassi 3,6 g, calcio 119 mg per 100 g. Qui non c'è una tabella di composizione verificata per le bevande vegetali: non si può dire che nutrano meno né più del latte.",
+   "text": "Poore e Nemecek 2018, supplemento, tabella S1: «1 liter of soymilk (~3.3% protein)» e «1 liter of pasteurized milk (4% fat, 3.3% protein)». CREA, Tabelle di composizione degli alimenti (BDA): latte vaccino intero 64 kcal, proteine 3,3 g, grassi 3,6 g, calcio 119 mg per 100 g. Qui non c'è una tabella di composizione verificata per le bevande vegetali: non si può dire che nutrano meno né più del latte.",
+   "cifre_ok": false
+  },
+  {
+   "id": "c3b897c290e8094b",
+   "ctx": "⚠ contiene numeri · 3. Quanto nutre una bevanda vegetale rispetto al › h2",
+   "orig": "4. Quanto pesa sull'ambiente un litro?",
+   "text": "4. Quanto pesa sull'ambiente un litro?",
+   "cifre_ok": false
+  },
+  {
+   "id": "f91b07c60a53f1f4",
+   "ctx": "4. Quanto pesa sull'ambiente un litro? › p",
+   "orig": "Il latte vaccino parte da una filiera più lunga: prima si coltivano i mangimi e si allevano le vacche, poi si munge e si lavora il latte. La bevanda di soia salta quei passaggi.",
+   "text": "Il latte vaccino parte da una filiera più lunga: prima si coltivano i mangimi e si allevano le vacche, poi si munge e si lavora il latte. La bevanda di soia salta quei passaggi.",
+   "cifre_ok": false
+  },
+  {
+   "id": "37443fa19c6a0d38",
+   "ctx": "4. Quanto pesa sull'ambiente un litro? › p",
+   "orig": "Schema semplificato: non misura le fasi, mostra i passaggi in più dell'allevamento.",
+   "text": "Schema semplificato: non misura le fasi, mostra i passaggi in più dell'allevamento.",
+   "cifre_ok": false
+  },
+  {
+   "id": "da125ddb82e4a690",
+   "ctx": "⚠ contiene numeri · 4. Quanto pesa sull'ambiente un litro? › p",
+   "orig": "Poore e Nemecek (2018), Science 360, file dati S2, foglio «Results - Retail Weight», medie del campione ricampionato (soia e latte, per litro). Gas serra: IPCC 2013 con retroazioni climatiche. Studio su oltre 38.000 aziende in 119 Paesi, dalla produzione alla vendita. Sono medie internazionali, non misure sulle filiere italiane, e valgono per la soia: per avena, riso e mandorla la fonte che abbiamo letto non dà valori per litro.",
+   "text": "Poore e Nemecek (2018), Science 360, file dati S2, foglio «Results - Retail Weight», medie del campione ricampionato (soia e latte, per litro). Gas serra: IPCC 2013 con retroazioni climatiche. Studio su oltre 38.000 aziende in 119 Paesi, dalla produzione alla vendita. Sono medie internazionali, non misure sulle filiere italiane, e valgono per la soia: per avena, riso e mandorla la fonte che abbiamo letto non dà valori per litro.",
+   "cifre_ok": false
+  },
+  {
+   "id": "2ef616c990177f1a",
+   "ctx": "⚠ contiene numeri · 4. Quanto pesa sull'ambiente un litro? › p",
+   "orig": "Our World in Data (sintesi del confronto): rispetto alle bevande vegetali, il latte vaccino ha circa 3 volte i gas serra, circa 10 volte l'uso di suolo e da 2 a 20 volte l'uso di acqua dolce. Il latte di mandorla ha emissioni e uso del suolo inferiori alla soia, ma consuma più acqua e provoca più eutrofizzazione. Non c'è una bevanda vegetale migliore su tutte le misure.",
+   "text": "Our World in Data (sintesi del confronto): rispetto alle bevande vegetali, il latte vaccino ha circa 3 volte i gas serra, circa 10 volte l'uso di suolo e da 2 a 20 volte l'uso di acqua dolce. Il latte di mandorla ha emissioni e uso del suolo inferiori alla soia, ma consuma più acqua e provoca più eutrofizzazione. Non c'è una bevanda vegetale migliore su tutte le misure.",
+   "cifre_ok": false
+  },
+  {
+   "id": "212b5aae2064069b",
+   "ctx": "4. Quanto pesa sull'ambiente un litro? › p",
+   "orig": "[Filiere a confronto](filiere-a-confronto.html) · [Terra per allevamenti e mangimi](terra.html) · [Info e fonti](info.html)",
+   "text": "[Filiere a confronto](filiere-a-confronto.html) · [Terra per allevamenti e mangimi](terra.html) · [Info e fonti](info.html)",
+   "cifre_ok": false
+  }
+ ],
+ "orfane": []
+}

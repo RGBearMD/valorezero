@@ -1,0 +1,160 @@
+{
+ "titolo": "Caprini (totale)",
+ "voci": [
+  {
+   "id": "5a4eb256600c5f89",
+   "ctx": "h1",
+   "orig": "Caprini (totale)",
+   "text": "Caprini (totale)",
+   "cifre_ok": false
+  },
+  {
+   "id": "0e84dbf80a077119",
+   "ctx": "Impiego › p",
+   "orig": "Carne di capra e di capretto; il latte diventa formaggi caprini.",
+   "text": "Carne di capra e di capretto; il latte diventa formaggi caprini.",
+   "cifre_ok": false
+  },
+  {
+   "id": "542df37be9639d88",
+   "ctx": "⚠ contiene numeri · Animali uccisi per cittadino › dd",
+   "orig": "124.970 (ago 2025–lug 2026)",
+   "text": "124.970 (ago 2025–lug 2026)",
+   "cifre_ok": false
+  },
+  {
+   "id": "f002588ed35c2a41",
+   "ctx": "⚠ contiene numeri · Animali uccisi per cittadino › dd",
+   "orig": "Carcassa 11 kg · vivo 21 kg · resa 54,6%",
+   "text": "Carcassa 11 kg · vivo 21 kg · resa 54,6%",
+   "cifre_ok": false
+  },
+  {
+   "id": "50b0934f98770521",
+   "ctx": "Animali uccisi per cittadino › p",
+   "orig": "ISTAT «totale caprini»: capre, becchi, capretti e caprettoni.",
+   "text": "ISTAT «totale caprini»: capre, becchi, capretti e caprettoni.",
+   "cifre_ok": false
+  },
+  {
+   "id": "aa67341a84df6fe9",
+   "ctx": "Animali uccisi per cittadino › h2",
+   "orig": "Caprini: tutte le categorie",
+   "text": "Caprini: tutte le categorie",
+   "cifre_ok": false
+  },
+  {
+   "id": "34c7331bb77f5ad6",
+   "ctx": "Definizioni › dt",
+   "orig": "Capre",
+   "text": "Capre",
+   "cifre_ok": false
+  },
+  {
+   "id": "dbdca4a04cd8ad39",
+   "ctx": "Definizioni › dd",
+   "orig": "ISTAT «capre».",
+   "text": "ISTAT «capre».",
+   "cifre_ok": false
+  },
+  {
+   "id": "1f0b3c85869fb05a",
+   "ctx": "Definizioni › dt",
+   "orig": "Becchi",
+   "text": "Becchi",
+   "cifre_ok": false
+  },
+  {
+   "id": "842cb7ce38fc613c",
+   "ctx": "Definizioni › dd",
+   "orig": "ISTAT «becchi».",
+   "text": "ISTAT «becchi».",
+   "cifre_ok": false
+  },
+  {
+   "id": "be3202df4208dad7",
+   "ctx": "Definizioni › dt",
+   "orig": "Capretti e caprettoni",
+   "text": "Capretti e caprettoni",
+   "cifre_ok": false
+  },
+  {
+   "id": "27fef8d6772f57e1",
+   "ctx": "Definizioni › dd",
+   "orig": "ISTAT «capretti e caprettoni».",
+   "text": "ISTAT «capretti e caprettoni».",
+   "cifre_ok": false
+  },
+  {
+   "id": "0c276de11f6b67ad",
+   "ctx": "Impiego › p",
+   "orig": "Carne di capra a fine carriera; il latte diventa formaggi caprini.",
+   "text": "Carne di capra a fine carriera; il latte diventa formaggi caprini.",
+   "cifre_ok": false
+  },
+  {
+   "id": "0273070fd522d110",
+   "ctx": "⚠ contiene numeri · Animali uccisi per cittadino › dd",
+   "orig": "36.635 (ago 2025–lug 2026)",
+   "text": "36.635 (ago 2025–lug 2026)",
+   "cifre_ok": false
+  },
+  {
+   "id": "c4d0a3b351191ce6",
+   "ctx": "⚠ contiene numeri · Animali uccisi per cittadino › dd",
+   "orig": "Carcassa 18 kg · vivo 34 kg · resa 51,5%",
+   "text": "Carcassa 18 kg · vivo 34 kg · resa 51,5%",
+   "cifre_ok": false
+  },
+  {
+   "id": "1e4ed76588fa1fad",
+   "ctx": "Animali uccisi per cittadino › p",
+   "orig": "Compreso nel totale «Caprini (totale)». Le categorie non si sommano.",
+   "text": "Compreso nel totale «Caprini (totale)». Le categorie non si sommano.",
+   "cifre_ok": false
+  },
+  {
+   "id": "48c5213c17fc8dd3",
+   "ctx": "Impiego › p",
+   "orig": "Carne di becco. Alcuni maschi sono riproduttori.",
+   "text": "Carne di becco. Alcuni maschi sono riproduttori.",
+   "cifre_ok": false
+  },
+  {
+   "id": "f2d29cec9bbc4a2a",
+   "ctx": "⚠ contiene numeri · Animali uccisi per cittadino › dd",
+   "orig": "10.167 (ago 2025–lug 2026)",
+   "text": "10.167 (ago 2025–lug 2026)",
+   "cifre_ok": false
+  },
+  {
+   "id": "339f4ef0f8b02601",
+   "ctx": "⚠ contiene numeri · Animali uccisi per cittadino › dd",
+   "orig": "Carcassa 23 kg · vivo 45 kg · resa 51,2%",
+   "text": "Carcassa 23 kg · vivo 45 kg · resa 51,2%",
+   "cifre_ok": false
+  },
+  {
+   "id": "779ba521806512c7",
+   "ctx": "Impiego › p",
+   "orig": "Carne di capretto, tradizionale a Pasqua: in gran parte maschi della filiera del latte caprino.",
+   "text": "Carne di capretto, tradizionale a Pasqua: in gran parte maschi della filiera del latte caprino.",
+   "cifre_ok": false
+  },
+  {
+   "id": "f58fece281a2082a",
+   "ctx": "⚠ contiene numeri · Animali uccisi per cittadino › dd",
+   "orig": "78.168 (ago 2025–lug 2026)",
+   "text": "78.168 (ago 2025–lug 2026)",
+   "cifre_ok": false
+  },
+  {
+   "id": "79ea2a8dae1ebdae",
+   "ctx": "⚠ contiene numeri · Animali uccisi per cittadino › dd",
+   "orig": "Carcassa 6,8 kg · vivo 11 kg · resa 60,9%",
+   "text": "Carcassa 6,8 kg · vivo 11 kg · resa 60,9%",
+   "cifre_ok": false
+  }
+ ],
+ "orfane": []
+}

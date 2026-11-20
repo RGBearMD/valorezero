@@ -1,0 +1,132 @@
+{
+ "titolo": "Impatto ambientale delle diete",
+ "voci": [
+  {
+   "id": "d2bf3943ca06c857",
+   "ctx": "h1",
+   "orig": "Impatto ambientale delle diete",
+   "text": "Impatto ambientale delle diete",
+   "cifre_ok": false
+  },
+  {
+   "id": "f62bc63f37ed9744",
+   "ctx": "Impatto ambientale delle diete › p",
+   "orig": "del suolo agricolo usato dai vegani, rispetto a chi mangia molta carne.",
+   "text": "del suolo agricolo usato dai vegani, rispetto a chi mangia molta carne.",
+   "cifre_ok": false
+  },
+  {
+   "id": "3378ffea29c924cf",
+   "ctx": "⚠ contiene numeri · Impatto ambientale delle diete › p",
+   "orig": "Regno Unito, 55.504 adulti (studio EPIC-Oxford), consumi e impatti stimati. Non sono dati italiani.",
+   "text": "Regno Unito, 55.504 adulti (studio EPIC-Oxford), consumi e impatti stimati. Non sono dati italiani.",
+   "cifre_ok": false
+  },
+  {
+   "id": "030f85c04774a6ff",
+   "ctx": "Impatto ambientale delle diete › h2",
+   "orig": "Gas serra",
+   "text": "Gas serra",
+   "cifre_ok": false
+  },
+  {
+   "id": "bf1273a09f550db7",
+   "ctx": "⚠ contiene numeri · Gas serra › p",
+   "orig": "kg di CO2-eq al giorno (GWP100), per una dieta di 2.000 kcal. Mediana.",
+   "text": "kg di CO2-eq al giorno (GWP100), per una dieta di 2.000 kcal. Mediana.",
+   "cifre_ok": false
+  },
+  {
+   "id": "d87b06747fab1f08",
+   "ctx": "Gas serra › h2",
+   "orig": "Metano",
+   "text": "Metano",
+   "cifre_ok": false
+  },
+  {
+   "id": "859cce57d9401a5b",
+   "ctx": "⚠ contiene numeri · Metano › p",
+   "orig": "g di CH4 al giorno, per una dieta di 2.000 kcal. Mediana.",
+   "text": "g di CH4 al giorno, per una dieta di 2.000 kcal. Mediana.",
+   "cifre_ok": false
+  },
+  {
+   "id": "031e0b73900e5841",
+   "ctx": "Metano › h2",
+   "orig": "Suolo agricolo",
+   "text": "Suolo agricolo",
+   "cifre_ok": false
+  },
+  {
+   "id": "322c0a654c963b42",
+   "ctx": "⚠ contiene numeri · Suolo agricolo › p",
+   "orig": "m² al giorno, per una dieta di 2.000 kcal. Mediana.",
+   "text": "m² al giorno, per una dieta di 2.000 kcal. Mediana.",
+   "cifre_ok": false
+  },
+  {
+   "id": "8184007fc2d2ee63",
+   "ctx": "Suolo agricolo › h2",
+   "orig": "Acqua",
+   "text": "Acqua",
+   "cifre_ok": false
+  },
+  {
+   "id": "b833fcb797e94af6",
+   "ctx": "⚠ contiene numeri · Acqua › p",
+   "orig": "m³ al giorno, per una dieta di 2.000 kcal. Mediana.",
+   "text": "m³ al giorno, per una dieta di 2.000 kcal. Mediana.",
+   "cifre_ok": false
+  },
+  {
+   "id": "0059b299dc775ce1",
+   "ctx": "Acqua › h2",
+   "orig": "Eutrofizzazione",
+   "text": "Eutrofizzazione",
+   "cifre_ok": false
+  },
+  {
+   "id": "154f98dbfe1844fa",
+   "ctx": "⚠ contiene numeri · Eutrofizzazione › p",
+   "orig": "g di PO4-eq al giorno (inquinamento delle acque), per una dieta di 2.000 kcal. Mediana.",
+   "text": "g di PO4-eq al giorno (inquinamento delle acque), per una dieta di 2.000 kcal. Mediana.",
+   "cifre_ok": false
+  },
+  {
+   "id": "c8dafa0de48ff6d6",
+   "ctx": "⚠ contiene numeri · Eutrofizzazione › p",
+   "orig": "Le categorie: pescetariani mangiano pesce ma non carne; poca, media e molta carne indicano i grammi giornalieri di carne totale. Il confronto vale per queste persone, non per tutta la popolazione: nel campione il 77% sono donne e le diete sono dichiarate. Per ogni valore lo studio indica anche un intervallo di incertezza ampio, in particolare per chi mangia molta carne. Valori da Scarborough et al. 2023, Nature Food (tabelle 2, 3 e 4). I vegani qui sono 25,1% (15,1–37,0%) di chi mangia molta carne per i gas serra, 25,1% (7,1–44,5%) per il suolo, 46,4% (21,0–81,0%) per l'acqua, 27,0% (19,4–40,4%) per l'eutrofizzazione.",
+   "text": "Le categorie: pescetariani mangiano pesce ma non carne; poca, media e molta carne indicano i grammi giornalieri di carne totale. Il confronto vale per queste persone, non per tutta la popolazione: nel campione il 77% sono donne e le diete sono dichiarate. Per ogni valore lo studio indica anche un intervallo di incertezza ampio, in particolare per chi mangia molta carne. Valori da Scarborough et al. 2023, Nature Food (tabelle 2, 3 e 4). I vegani qui sono 25,1% (15,1–37,0%) di chi mangia molta carne per i gas serra, 25,1% (7,1–44,5%) per il suolo, 46,4% (21,0–81,0%) per l'acqua, 27,0% (19,4–40,4%) per l'eutrofizzazione.",
+   "cifre_ok": false
+  },
+  {
+   "id": "69b1e42b37cb2866",
+   "ctx": "Eutrofizzazione › h2",
+   "orig": "A livello mondiale",
+   "text": "A livello mondiale",
+   "cifre_ok": false
+  },
+  {
+   "id": "1f9e0dae39d090f7",
+   "ctx": "⚠ contiene numeri · A livello mondiale › p",
+   "orig": "Uno studio su 38.000 aziende agricole in 119 Paesi stima che passare dalle diete attuali a una senza prodotti animali ridurrebbe:",
+   "text": "Uno studio su 38.000 aziende agricole in 119 Paesi stima che passare dalle diete attuali a una senza prodotti animali ridurrebbe:",
+   "cifre_ok": false
+  },
+  {
+   "id": "d7db6e7fa149b822",
+   "ctx": "⚠ contiene numeri · A livello mondiale › p",
+   "orig": "Poore e Nemecek 2018, Science 360: anno di riferimento 2010, scenario modellato su scala globale. Gli intervalli sono nello studio (per esempio 5,5–7,4 miliardi di t per i gas serra). Il risparmio di acqua è l'unico con intervallo che include lo zero (da −5% a 32%).",
+   "text": "Poore e Nemecek 2018, Science 360: anno di riferimento 2010, scenario modellato su scala globale. Gli intervalli sono nello studio (per esempio 5,5–7,4 miliardi di t per i gas serra). Il risparmio di acqua è l'unico con intervallo che include lo zero (da −5% a 32%).",
+   "cifre_ok": false
+  },
+  {
+   "id": "3cc144ab453cac5e",
+   "ctx": "⚠ contiene numeri · A livello mondiale › p",
+   "orig": "Fonti: Scarborough et al. 2023, Nature Food, [doi.org/10.1038/s43016-023-00795-w](https://doi.org/10.1038/s43016-023-00795-w); Poore e Nemecek 2018, Science, [doi.org/10.1126/science.aaq0216](https://doi.org/10.1126/science.aaq0216).",
+   "text": "Fonti: Scarborough et al. 2023, Nature Food, [doi.org/10.1038/s43016-023-00795-w](https://doi.org/10.1038/s43016-023-00795-w); Poore e Nemecek 2018, Science, [doi.org/10.1126/science.aaq0216](https://doi.org/10.1126/science.aaq0216).",
+   "cifre_ok": false
+  }
+ ],
+ "orfane": []
+}

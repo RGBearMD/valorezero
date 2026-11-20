@@ -1,0 +1,118 @@
+{
+ "titolo": "Confronti nutrizionali",
+ "voci": [
+  {
+   "id": "c120b1d7ffc7f590",
+   "ctx": "h1",
+   "orig": "Confronti nutrizionali",
+   "text": "Confronti nutrizionali",
+   "cifre_ok": false
+  },
+  {
+   "id": "18933e19f5b60b51",
+   "ctx": "⚠ contiene numeri · Confronti nutrizionali › p",
+   "orig": "Composizione di 19 alimenti, animali e vegetali, secondo la banca dati CREA. Il confronto è per porzione di riferimento: gli stati degli alimenti sono diversi (crudo, cotto, secco), quindi i valori per 100 g non sono confrontabili tra loro.",
+   "text": "Composizione di 19 alimenti, animali e vegetali, secondo la banca dati CREA. Il confronto è per porzione di riferimento: gli stati degli alimenti sono diversi (crudo, cotto, secco), quindi i valori per 100 g non sono confrontabili tra loro.",
+   "cifre_ok": false
+  },
+  {
+   "id": "e0b4614552a2feb9",
+   "ctx": "Confronti nutrizionali › h2",
+   "orig": "Ferro per porzione",
+   "text": "Ferro per porzione",
+   "cifre_ok": false
+  },
+  {
+   "id": "538fca476e43ab36",
+   "ctx": "Ferro per porzione › p",
+   "orig": "Trasporta l'ossigeno nel sangue, nell'emoglobina, e nei muscoli. Serve alla formazione dei globuli rossi e al normale funzionamento del sistema immunitario.",
+   "text": "Trasporta l'ossigeno nel sangue, nell'emoglobina, e nei muscoli. Serve alla formazione dei globuli rossi e al normale funzionamento del sistema immunitario.",
+   "cifre_ok": false
+  },
+  {
+   "id": "244b9f55fbe27dc8",
+   "ctx": "⚠ contiene numeri · Ferro per porzione › p",
+   "orig": "Percentuale del riferimento EFSA giornaliero per gli adulti (11 e 16 mg, uomini · donne in premenopausa).",
+   "text": "Percentuale del riferimento EFSA giornaliero per gli adulti (11 e 16 mg, uomini · donne in premenopausa).",
+   "cifre_ok": false
+  },
+  {
+   "id": "bd8f1c0cade6a2c8",
+   "ctx": "⚠ contiene numeri · Ferro per porzione › p",
+   "orig": "Il contenuto non è l'assorbito. Carne e pesce contengono anche ferro «eme», più assorbibile; uova, latticini e alimenti vegetali contengono ferro «non eme», che la vitamina C nello stesso pasto favorisce e i fitati ostacolano. Per le donne dopo la menopausa il riferimento EFSA è 11 mg.",
+   "text": "Il contenuto non è l'assorbito. Carne e pesce contengono anche ferro «eme», più assorbibile; uova, latticini e alimenti vegetali contengono ferro «non eme», che la vitamina C nello stesso pasto favorisce e i fitati ostacolano. Per le donne dopo la menopausa il riferimento EFSA è 11 mg.",
+   "cifre_ok": false
+  },
+  {
+   "id": "bfadbfe510e742dd",
+   "ctx": "⚠ contiene numeri · Ferro per porzione › p",
+   "orig": "Fonti: CREA, Tabelle di composizione degli alimenti (BDA, pagine aggiornate a dicembre 2019); riferimenti EFSA, Dietary Reference Values (tabelle di sintesi, gennaio 2017). Le porzioni sono quelle di riferimento CREA e LARN/SINU; per i ceci e per gli spinaci è usata la porzione LARN, diversa da quella indicata da CREA. Alcuni valori CREA sono calcolati o imputati e non misurati.",
+   "text": "Fonti: CREA, Tabelle di composizione degli alimenti (BDA, pagine aggiornate a dicembre 2019); riferimenti EFSA, Dietary Reference Values (tabelle di sintesi, gennaio 2017). Le porzioni sono quelle di riferimento CREA e LARN/SINU; per i ceci e per gli spinaci è usata la porzione LARN, diversa da quella indicata da CREA. Alcuni valori CREA sono calcolati o imputati e non misurati.",
+   "cifre_ok": false
+  },
+  {
+   "id": "d2b19191921d3284",
+   "ctx": "⚠ contiene numeri · Ferro per porzione › h2",
+   "orig": "Il BPI Score: 20 fonti proteiche a confronto",
+   "text": "Il BPI Score: 20 fonti proteiche a confronto",
+   "cifre_ok": false
+  },
+  {
+   "id": "48c0be5b6648daaf",
+   "ctx": "⚠ contiene numeri · Il BPI Score: 20 fonti proteiche a confronto › p",
+   "orig": "Il BPI Score (Better Protein Index) è un indice proposto da Chris Macdonald, dell'Università di Cambridge e direttore del Better Protein Institute, in un articolo di tipo «perspective» pubblicato su *Frontiers in Sustainable Food Systems* il 29 luglio 2026. Assegna un punteggio a 20 alimenti ricchi di proteine, su un massimo di 40 punti, per 100 g di proteine.",
+   "text": "Il BPI Score (Better Protein Index) è un indice proposto da Chris Macdonald, dell'Università di Cambridge e direttore del Better Protein Institute, in un articolo di tipo «perspective» pubblicato su *Frontiers in Sustainable Food Systems* il 29 luglio 2026. Assegna un punteggio a 20 alimenti ricchi di proteine, su un massimo di 40 punti, per 100 g di proteine.",
+   "cifre_ok": false
+  },
+  {
+   "id": "a4bbcef02a0991b8",
+   "ctx": "⚠ contiene numeri · Il BPI Score: 20 fonti proteiche a confronto › p",
+   "orig": "Il punteggio somma due parti. Il **Planet Score** (massimo 16 punti) usa quattro misure ambientali: emissioni di gas serra, inquinamento dell'acqua, uso del suolo e consumo di acqua dolce, dalla banca dati di Clark et al. (2022). Il **People Score** (massimo 24 punti) usa sei misure: sodio, grassi saturi, colesterolo, completezza delle proteine, prezzo e disponibilità in un supermercato britannico; i dati nutrizionali vengono dalla banca dati Nutritionix. Per ogni misura gli alimenti sono ordinati e divisi in cinque gruppi da 0 a 4 punti.",
+   "text": "Il punteggio somma due parti. Il **Planet Score** (massimo 16 punti) usa quattro misure ambientali: emissioni di gas serra, inquinamento dell'acqua, uso del suolo e consumo di acqua dolce, dalla banca dati di Clark et al. (2022). Il **People Score** (massimo 24 punti) usa sei misure: sodio, grassi saturi, colesterolo, completezza delle proteine, prezzo e disponibilità in un supermercato britannico; i dati nutrizionali vengono dalla banca dati Nutritionix. Per ogni misura gli alimenti sono ordinati e divisi in cinque gruppi da 0 a 4 punti.",
+   "cifre_ok": false
+  },
+  {
+   "id": "2fef06a1dea3e403",
+   "ctx": "Il BPI Score: 20 fonti proteiche a confronto › h3",
+   "orig": "Risultati riportati nell'articolo",
+   "text": "Risultati riportati nell'articolo",
+   "cifre_ok": false
+  },
+  {
+   "id": "e1bac5172ffa2aff",
+   "ctx": "⚠ contiene numeri · Risultati riportati nell'articolo › p",
+   "orig": "Nel gruppo più alto (20%) ci sono solo alimenti vegetali (tofu, semi di chia, fagioli, quinoa); in quello più basso solo alimenti animali (mozzarella, maiale, cheddar, manzo). I valori sono quelli citati nel testo: la graduatoria completa è in una figura che non ho trascritto. Il paper dice che l'acqua dolce consumata è l'acqua «blu».",
+   "text": "Nel gruppo più alto (20%) ci sono solo alimenti vegetali (tofu, semi di chia, fagioli, quinoa); in quello più basso solo alimenti animali (mozzarella, maiale, cheddar, manzo). I valori sono quelli citati nel testo: la graduatoria completa è in una figura che non ho trascritto. Il paper dice che l'acqua dolce consumata è l'acqua «blu».",
+   "cifre_ok": false
+  },
+  {
+   "id": "f083ca8f8951ff6e",
+   "ctx": "Risultati riportati nell'articolo › h3",
+   "orig": "Limiti dichiarati dall'autore",
+   "text": "Limiti dichiarati dall'autore",
+   "cifre_ok": false
+  },
+  {
+   "id": "06494499f2eab439",
+   "ctx": "⚠ contiene numeri · Limiti dichiarati dall'autore › p",
+   "orig": "È la prima versione (V1) e una seconda è in sviluppo. Prezzo e disponibilità riguardano un solo supermercato britannico (Aldi), quindi non valgono in altri Paesi. La scala a cinque gruppi nasconde le differenze molto grandi, come quelle del manzo. La completezza delle proteine è un sì/no, e la maggior parte degli alimenti vegetali risulta «incompleta». Benessere animale, costi opportunità, resistenza agli antibiotici e rischio di malattie trasmesse dagli animali non sono inclusi. L'autore dirige l'istituto che propone l'indice; dichiara di non avere conflitti di interesse e che i costi di pubblicazione sono stati coperti dal Lucy Cavendish College. Il BPI Score non misura il numero di animali allevati o uccisi, ed è un indice, non una raccomandazione alimentare.",
+   "text": "È la prima versione (V1) e una seconda è in sviluppo. Prezzo e disponibilità riguardano un solo supermercato britannico (Aldi), quindi non valgono in altri Paesi. La scala a cinque gruppi nasconde le differenze molto grandi, come quelle del manzo. La completezza delle proteine è un sì/no, e la maggior parte degli alimenti vegetali risulta «incompleta». Benessere animale, costi opportunità, resistenza agli antibiotici e rischio di malattie trasmesse dagli animali non sono inclusi. L'autore dirige l'istituto che propone l'indice; dichiara di non avere conflitti di interesse e che i costi di pubblicazione sono stati coperti dal Lucy Cavendish College. Il BPI Score non misura il numero di animali allevati o uccisi, ed è un indice, non una raccomandazione alimentare.",
+   "cifre_ok": false
+  },
+  {
+   "id": "2109d45a94a8105c",
+   "ctx": "⚠ contiene numeri · Limiti dichiarati dall'autore › p",
+   "orig": "Fonte: Macdonald C. (2026), *What are the best sources of protein? Introducing the BPI Score*, Front. Sustain. Food Syst. 10:1677796, doi 10.3389/fsufs.2026.1677796, letto per intero. Le fonti dei dati (Clark et al. 2022, Nutritionix) sono citate dall'articolo e non le ho consultate.",
+   "text": "Fonte: Macdonald C. (2026), *What are the best sources of protein? Introducing the BPI Score*, Front. Sustain. Food Syst. 10:1677796, doi 10.3389/fsufs.2026.1677796, letto per intero. Le fonti dei dati (Clark et al. 2022, Nutritionix) sono citate dall'articolo e non le ho consultate.",
+   "cifre_ok": false
+  },
+  {
+   "id": "ff4937775f2d6a46",
+   "ctx": "Limiti dichiarati dall'autore › p",
+   "orig": "I valori descrivono il contenuto dell'alimento, non un'indicazione alimentare personale. Per esigenze individuali ci si rivolge a un medico o a un dietista.",
+   "text": "I valori descrivono il contenuto dell'alimento, non un'indicazione alimentare personale. Per esigenze individuali ci si rivolge a un medico o a un dietista.",
+   "cifre_ok": false
+  }
+ ],
+ "orfane": []
+}

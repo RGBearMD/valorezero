@@ -1,0 +1,12 @@
+{
+  "name": "valore-zero",
+  "private": true,
+  "scripts": {
+    "content": "node tools/content.js",
+    "minify": "esbuild src/app.src.js --minify --outfile=public/js/app.js --log-level=warning && esbuild src/read.src.js --minify --outfile=public/js/read.js --log-level=warning && esbuild src/theme.src.js --minify --outfile=public/js/theme.js --log-level=warning && esbuild src/edit.src.js --minify --outfile=public/js/edit.js --log-level=warning && esbuild src/styles.src.css --minify --outfile=public/css/styles.css --log-level=warning",
+    "prerender": "rm -rf dist && cp -r public dist && node tools/prerender.js && node tools/seo.js && mkdir -p dist/admin && cp admin/index.html admin/config.yml dist/admin/",
+    "build": "npm run content && npm run minify && npm run prerender",
+    "extract": "node tools/extract.js"
+  },
+  "devDependencies": { "esbuild": "^0.25.0", "playwright": "^1.50.0" }
+}

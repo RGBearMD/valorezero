@@ -1,0 +1,195 @@
+{
+ "titolo": "Ovini (totale)",
+ "voci": [
+  {
+   "id": "c2202f60ef6236e6",
+   "ctx": "h1",
+   "orig": "Ovini (totale)",
+   "text": "Ovini (totale)",
+   "cifre_ok": false
+  },
+  {
+   "id": "d742886c1b401745",
+   "ctx": "Impiego › p",
+   "orig": "Carne di agnello e di pecora (cosce, costolette, spezzatino), anche macinata; dalle pecore pecorino e ricotta, e la lana.",
+   "text": "Carne di agnello e di pecora (cosce, costolette, spezzatino), anche macinata; dalle pecore pecorino e ricotta, e la lana.",
+   "cifre_ok": false
+  },
+  {
+   "id": "a82f5958a6a830df",
+   "ctx": "⚠ contiene numeri · Animali uccisi per cittadino › dd",
+   "orig": "2.036.559 (ago 2025–lug 2026)",
+   "text": "2.036.559 (ago 2025–lug 2026)",
+   "cifre_ok": false
+  },
+  {
+   "id": "b7297e2a5bca1b9c",
+   "ctx": "⚠ contiene numeri · Animali uccisi per cittadino › dd",
+   "orig": "Carcassa 13 kg · vivo 23 kg · resa 55,7%",
+   "text": "Carcassa 13 kg · vivo 23 kg · resa 55,7%",
+   "cifre_ok": false
+  },
+  {
+   "id": "f41e89f1551a74ac",
+   "ctx": "Animali uccisi per cittadino › p",
+   "orig": "ISTAT «totale ovini»: agnelli, agnelloni, pecore, montoni. Le altre schede ovine sono componenti.",
+   "text": "ISTAT «totale ovini»: agnelli, agnelloni, pecore, montoni. Le altre schede ovine sono componenti.",
+   "cifre_ok": false
+  },
+  {
+   "id": "78b4ce643573d19d",
+   "ctx": "Animali uccisi per cittadino › h2",
+   "orig": "Ovini: tutte le categorie",
+   "text": "Ovini: tutte le categorie",
+   "cifre_ok": false
+  },
+  {
+   "id": "c7473cc000d393a6",
+   "ctx": "Definizioni › dt",
+   "orig": "Pecore",
+   "text": "Pecore",
+   "cifre_ok": false
+  },
+  {
+   "id": "9f5a8871ae260cf8",
+   "ctx": "Definizioni › dd",
+   "orig": "ISTAT «pecore».",
+   "text": "ISTAT «pecore».",
+   "cifre_ok": false
+  },
+  {
+   "id": "5aea06a7fe1de3ab",
+   "ctx": "Definizioni › dt",
+   "orig": "Montoni",
+   "text": "Montoni",
+   "cifre_ok": false
+  },
+  {
+   "id": "7fea7e92a72d960e",
+   "ctx": "Definizioni › dd",
+   "orig": "ISTAT «montoni».",
+   "text": "ISTAT «montoni».",
+   "cifre_ok": false
+  },
+  {
+   "id": "2a08ed9543e6900f",
+   "ctx": "Definizioni › dt",
+   "orig": "Agnelli",
+   "text": "Agnelli",
+   "cifre_ok": false
+  },
+  {
+   "id": "1a4b1c8b105c928a",
+   "ctx": "Definizioni › dd",
+   "orig": "ISTAT «agnelli». Le soglie di età o peso di ISTAT non sono state verificate.",
+   "text": "ISTAT «agnelli». Le soglie di età o peso di ISTAT non sono state verificate.",
+   "cifre_ok": false
+  },
+  {
+   "id": "a6c59bde9666a075",
+   "ctx": "Definizioni › dt",
+   "orig": "Agnelloni",
+   "text": "Agnelloni",
+   "cifre_ok": false
+  },
+  {
+   "id": "28c172003236d762",
+   "ctx": "Definizioni › dd",
+   "orig": "ISTAT «agnelloni».",
+   "text": "ISTAT «agnelloni».",
+   "cifre_ok": false
+  },
+  {
+   "id": "8916ebe89196fbd0",
+   "ctx": "Impiego › p",
+   "orig": "Carne di pecora a fine produzione di latte o lana; il latte diventa pecorino e ricotta.",
+   "text": "Carne di pecora a fine produzione di latte o lana; il latte diventa pecorino e ricotta.",
+   "cifre_ok": false
+  },
+  {
+   "id": "babe477db058b8ef",
+   "ctx": "⚠ contiene numeri · Animali uccisi per cittadino › dd",
+   "orig": "428.958 (ago 2025–lug 2026)",
+   "text": "428.958 (ago 2025–lug 2026)",
+   "cifre_ok": false
+  },
+  {
+   "id": "57367fb52c457e06",
+   "ctx": "⚠ contiene numeri · Animali uccisi per cittadino › dd",
+   "orig": "Carcassa 22 kg · vivo 44 kg · resa 50,4%",
+   "text": "Carcassa 22 kg · vivo 44 kg · resa 50,4%",
+   "cifre_ok": false
+  },
+  {
+   "id": "f853b5d7b6083ed9",
+   "ctx": "Animali uccisi per cittadino › p",
+   "orig": "Compreso nel totale «Ovini (totale)». Le categorie non si sommano.",
+   "text": "Compreso nel totale «Ovini (totale)». Le categorie non si sommano.",
+   "cifre_ok": false
+  },
+  {
+   "id": "09f22b5079163300",
+   "ctx": "Impiego › p",
+   "orig": "Carne di montone. Alcuni maschi sono riproduttori.",
+   "text": "Carne di montone. Alcuni maschi sono riproduttori.",
+   "cifre_ok": false
+  },
+  {
+   "id": "7c32d12c10619dad",
+   "ctx": "⚠ contiene numeri · Animali uccisi per cittadino › dd",
+   "orig": "58.484 (ago 2025–lug 2026)",
+   "text": "58.484 (ago 2025–lug 2026)",
+   "cifre_ok": false
+  },
+  {
+   "id": "c216eb81a9a24efb",
+   "ctx": "⚠ contiene numeri · Animali uccisi per cittadino › dd",
+   "orig": "Carcassa 29 kg · vivo 57 kg · resa 51,8%",
+   "text": "Carcassa 29 kg · vivo 57 kg · resa 51,8%",
+   "cifre_ok": false
+  },
+  {
+   "id": "3296ca5bdf30b564",
+   "ctx": "Impiego › p",
+   "orig": "Carne di agnello (cosciotto, costolette, spezzatino), molto richiesta a Pasqua e a Natale.",
+   "text": "Carne di agnello (cosciotto, costolette, spezzatino), molto richiesta a Pasqua e a Natale.",
+   "cifre_ok": false
+  },
+  {
+   "id": "b845fb360a3b78a7",
+   "ctx": "⚠ contiene numeri · Animali uccisi per cittadino › dd",
+   "orig": "1.389.005 (ago 2025–lug 2026)",
+   "text": "1.389.005 (ago 2025–lug 2026)",
+   "cifre_ok": false
+  },
+  {
+   "id": "ba8f3dd0bb1bc797",
+   "ctx": "⚠ contiene numeri · Animali uccisi per cittadino › dd",
+   "orig": "Carcassa 9,1 kg · vivo 15 kg · resa 60,5%",
+   "text": "Carcassa 9,1 kg · vivo 15 kg · resa 60,5%",
+   "cifre_ok": false
+  },
+  {
+   "id": "ee1da324e8f8b747",
+   "ctx": "Impiego › p",
+   "orig": "Carne di agnellone, venduta a pezzi.",
+   "text": "Carne di agnellone, venduta a pezzi.",
+   "cifre_ok": false
+  },
+  {
+   "id": "cdfced619c437eb8",
+   "ctx": "⚠ contiene numeri · Animali uccisi per cittadino › dd",
+   "orig": "155.085 (ago 2025–lug 2026)",
+   "text": "155.085 (ago 2025–lug 2026)",
+   "cifre_ok": false
+  },
+  {
+   "id": "27fd149d4e84eb97",
+   "ctx": "⚠ contiene numeri · Animali uccisi per cittadino › dd",
+   "orig": "Carcassa 15 kg · vivo 26 kg · resa 58,8%",
+   "text": "Carcassa 15 kg · vivo 26 kg · resa 58,8%",
+   "cifre_ok": false
+  }
+ ],
+ "orfane": []
+}

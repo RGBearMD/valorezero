@@ -1,0 +1,139 @@
+{
+ "titolo": "Macellazione rituale",
+ "voci": [
+  {
+   "id": "d20c37f9ca312eb9",
+   "ctx": "h1",
+   "orig": "Macellazione rituale",
+   "text": "Macellazione rituale",
+   "cifre_ok": false
+  },
+  {
+   "id": "0c492fc1b2da2a5a",
+   "ctx": "Macellazione rituale › h2",
+   "orig": "Strutture autorizzate per regione",
+   "text": "Strutture autorizzate per regione",
+   "cifre_ok": false
+  },
+  {
+   "id": "8e3269c6ade5aabe",
+   "ctx": "Strutture autorizzate per regione › p",
+   "orig": "Numero di strutture autorizzate alla macellazione rituale, per regione e categoria. Il numero è scritto in ogni regione; il trattino indica che la fonte non riporta strutture.",
+   "text": "Numero di strutture autorizzate alla macellazione rituale, per regione e categoria. Il numero è scritto in ogni regione; il trattino indica che la fonte non riporta strutture.",
+   "cifre_ok": false
+  },
+  {
+   "id": "490609b6f0638b00",
+   "ctx": "Strutture autorizzate per regione › p",
+   "orig": "Seleziona una regione per vedere tutte le categorie.",
+   "text": "Seleziona una regione per vedere tutte le categorie.",
+   "cifre_ok": false
+  },
+  {
+   "id": "b337c37477661ce1",
+   "ctx": "⚠ contiene numeri · Strutture autorizzate per regione › p",
+   "orig": "Fonte: Ministero della Salute, tabella 2 «N. strutture autorizzate per la macellazione rituale» (dati S.Inte.S.I.S.-Strutture, aggiornati al 5 aprile 2019; file fornito, senza titolo né indirizzo di pubblicazione). Sono conteggi regionali, non un elenco di indirizzi: la fonte non indica dove si trovi ogni struttura. Una struttura può essere autorizzata per più categorie, quindi le categorie non vanno sommate. Il Trentino-Alto Adige somma le province di Bolzano e Trento, riportate separatamente nella fonte. I dati hanno oltre sette anni.",
+   "text": "Fonte: Ministero della Salute, tabella 2 «N. strutture autorizzate per la macellazione rituale» (dati S.Inte.S.I.S.-Strutture, aggiornati al 5 aprile 2019; file fornito, senza titolo né indirizzo di pubblicazione). Sono conteggi regionali, non un elenco di indirizzi: la fonte non indica dove si trovi ogni struttura. Una struttura può essere autorizzata per più categorie, quindi le categorie non vanno sommate. Il Trentino-Alto Adige somma le province di Bolzano e Trento, riportate separatamente nella fonte. I dati hanno oltre sette anni.",
+   "cifre_ok": false
+  },
+  {
+   "id": "42c3a9562c8c87cf",
+   "ctx": "Strutture autorizzate per regione › p",
+   "orig": "In Europa gli animali devono essere storditi prima di essere uccisi. Il regolamento prevede una deroga per i metodi prescritti da riti religiosi, come quelli ebraico e islamico. Questa pagina descrive le regole, i riti e i dati disponibili.",
+   "text": "In Europa gli animali devono essere storditi prima di essere uccisi. Il regolamento prevede una deroga per i metodi prescritti da riti religiosi, come quelli ebraico e islamico. Questa pagina descrive le regole, i riti e i dati disponibili.",
+   "cifre_ok": false
+  },
+  {
+   "id": "1ec5117e0ff7480a",
+   "ctx": "Strutture autorizzate per regione › h2",
+   "orig": "I due riti a confronto",
+   "text": "I due riti a confronto",
+   "cifre_ok": false
+  },
+  {
+   "id": "fb251682db1dd2a6",
+   "ctx": "⚠ contiene numeri · I due riti a confronto › p",
+   "orig": "Fonti: Parlamento europeo (EPRS, 2023), pp. 2–6; HSA, scheda sulla macellazione religiosa (2026); Roggero (2016). Sono sintesi: le comunità religiose interpretano le regole in modi diversi.",
+   "text": "Fonti: Parlamento europeo (EPRS, 2023), pp. 2–6; HSA, scheda sulla macellazione religiosa (2026); Roggero (2016). Sono sintesi: le comunità religiose interpretano le regole in modi diversi.",
+   "cifre_ok": false
+  },
+  {
+   "id": "42171af17526f271",
+   "ctx": "I due riti a confronto › h2",
+   "orig": "La deroga nel diritto europeo",
+   "text": "La deroga nel diritto europeo",
+   "cifre_ok": false
+  },
+  {
+   "id": "70bda05ca232cd4f",
+   "ctx": "⚠ contiene numeri · La deroga nel diritto europeo › p",
+   "orig": "Il regolamento (CE) 1099/2009 stabilisce che gli animali sono abbattuti esclusivamente previo stordimento (art. 4, par. 1). Il paragrafo 4 esclude i «particolari metodi di macellazione prescritti da riti religiosi», a condizione che la macellazione avvenga in un macello. In questi casi l'animale va immobilizzato individualmente e i ruminanti meccanicamente (art. 15, par. 2), con controlli sistematici sull'assenza di segni di vita prima delle fasi successive e con un operatore dotato di certificato di idoneità.",
+   "text": "Il regolamento (CE) 1099/2009 stabilisce che gli animali sono abbattuti esclusivamente previo stordimento (art. 4, par. 1). Il paragrafo 4 esclude i «particolari metodi di macellazione prescritti da riti religiosi», a condizione che la macellazione avvenga in un macello. In questi casi l'animale va immobilizzato individualmente e i ruminanti meccanicamente (art. 15, par. 2), con controlli sistematici sull'assenza di segni di vita prima delle fasi successive e con un operatore dotato di certificato di idoneità.",
+   "cifre_ok": false
+  },
+  {
+   "id": "885920c47e8912e7",
+   "ctx": "⚠ contiene numeri · La deroga nel diritto europeo › p",
+   "orig": "Il regolamento lascia agli Stati membri la scelta se usare la deroga e permette norme più protettive (art. 26, par. 2, lett. c). Con la sentenza C-336/19 del 17 dicembre 2020 la Corte di giustizia ha stabilito che gli Stati possono imporre uno stordimento reversibile anche nella macellazione rituale, cercando un equilibrio tra benessere animale e libertà di religione. Vallonia (dal 2018) e Fiandre (dal 2019) lo impongono; la Danimarca vieta dal 2014 la macellazione senza stordimento; Bulgaria e Repubblica Ceca usano la deroga.",
+   "text": "Il regolamento lascia agli Stati membri la scelta se usare la deroga e permette norme più protettive (art. 26, par. 2, lett. c). Con la sentenza C-336/19 del 17 dicembre 2020 la Corte di giustizia ha stabilito che gli Stati possono imporre uno stordimento reversibile anche nella macellazione rituale, cercando un equilibrio tra benessere animale e libertà di religione. Vallonia (dal 2018) e Fiandre (dal 2019) lo impongono; la Danimarca vieta dal 2014 la macellazione senza stordimento; Bulgaria e Repubblica Ceca usano la deroga.",
+   "cifre_ok": false
+  },
+  {
+   "id": "1fc09e5e5a912f71",
+   "ctx": "La deroga nel diritto europeo › h2",
+   "orig": "La deroga in Italia",
+   "text": "La deroga in Italia",
+   "cifre_ok": false
+  },
+  {
+   "id": "34cf3c2670f79f1b",
+   "ctx": "⚠ contiene numeri · La deroga in Italia › p",
+   "orig": "La legge 439/1978 impone lo stordimento e consente metodi speciali per i riti religiosi con decreto ministeriale. Il D.M. 11 giugno 1980 autorizza la macellazione senza stordimento secondo i riti ebraico e islamico, con un coltello affilatissimo e un taglio unico di esofago, trachea e grossi vasi del collo. Il D.Lgs. 131/2013 prevede una sanzione da 2.000 a 6.000 euro per chi non stordisce, ma non la applica ai metodi rituali in macello; altre sanzioni, da 1.000 a 3.000 euro, riguardano la mancata verifica dei segni di vita e la mancata comunicazione all'autorità sanitaria, e da 2.000 a 6.000 euro l'assenza del certificato di idoneità.",
+   "text": "La legge 439/1978 impone lo stordimento e consente metodi speciali per i riti religiosi con decreto ministeriale. Il D.M. 11 giugno 1980 autorizza la macellazione senza stordimento secondo i riti ebraico e islamico, con un coltello affilatissimo e un taglio unico di esofago, trachea e grossi vasi del collo. Il D.Lgs. 131/2013 prevede una sanzione da 2.000 a 6.000 euro per chi non stordisce, ma non la applica ai metodi rituali in macello; altre sanzioni, da 1.000 a 3.000 euro, riguardano la mancata verifica dei segni di vita e la mancata comunicazione all'autorità sanitaria, e da 2.000 a 6.000 euro l'assenza del certificato di idoneità.",
+   "cifre_ok": false
+  },
+  {
+   "id": "896ae768af114662",
+   "ctx": "⚠ contiene numeri · La deroga in Italia › p",
+   "orig": "L'11 aprile 2024 è stato presentato al Senato un disegno di legge (S. 1100) che impone lo stordimento su tutto il territorio nazionale, anche per la macellazione rituale. Il suo esito non è stato verificato.",
+   "text": "L'11 aprile 2024 è stato presentato al Senato un disegno di legge (S. 1100) che impone lo stordimento su tutto il territorio nazionale, anche per la macellazione rituale. Il suo esito non è stato verificato.",
+   "cifre_ok": false
+  },
+  {
+   "id": "012ab728d0ed6f03",
+   "ctx": "La deroga in Italia › h2",
+   "orig": "Che cosa succede senza stordimento",
+   "text": "Che cosa succede senza stordimento",
+   "cifre_ok": false
+  },
+  {
+   "id": "2c625b1f7c407eb6",
+   "ctx": "⚠ contiene numeri · Che cosa succede senza stordimento › p",
+   "orig": "Secondo l'EFSA (2004) i tagli interessano un'area ricca di recettori del dolore e senza stordimento si osservano dolore e paura; l'EFSA indica tempi di perdita di sensibilità dopo il taglio fino a 20 secondi negli ovini e fino a 2 minuti nei bovini. Le fonti non concordano: la tradizione ebraica indica circa 2 secondi, Temple Grandin circa 10 secondi se la procedura è eseguita correttamente, mentre un rabbino citato dal Parlamento europeo riporta che il 17% dei bovini supera i 30 secondi, dato contestato. Lo stordimento reversibile prima del taglio, accettato da alcune autorità islamiche, e lo stordimento subito dopo il taglio sono le soluzioni più discusse. Secondo l'EFSA (2020), gli animali storditi in modo inefficace possono riprendere coscienza.",
+   "text": "Secondo l'EFSA (2004) i tagli interessano un'area ricca di recettori del dolore e senza stordimento si osservano dolore e paura; l'EFSA indica tempi di perdita di sensibilità dopo il taglio fino a 20 secondi negli ovini e fino a 2 minuti nei bovini. Le fonti non concordano: la tradizione ebraica indica circa 2 secondi, Temple Grandin circa 10 secondi se la procedura è eseguita correttamente, mentre un rabbino citato dal Parlamento europeo riporta che il 17% dei bovini supera i 30 secondi, dato contestato. Lo stordimento reversibile prima del taglio, accettato da alcune autorità islamiche, e lo stordimento subito dopo il taglio sono le soluzioni più discusse. Secondo l'EFSA (2020), gli animali storditi in modo inefficace possono riprendere coscienza.",
+   "cifre_ok": false
+  },
+  {
+   "id": "7b444b7cd332fa6e",
+   "ctx": "⚠ contiene numeri · Che cosa succede senza stordimento › p",
+   "orig": "Fonte: Parlamento europeo (EPRS, 2023), pp. 14–20. Sono citazioni di terzi, riportate come tali.",
+   "text": "Fonte: Parlamento europeo (EPRS, 2023), pp. 14–20. Sono citazioni di terzi, riportate come tali.",
+   "cifre_ok": false
+  },
+  {
+   "id": "a613a4706f5b8a4d",
+   "ctx": "Che cosa succede senza stordimento › h2",
+   "orig": "Quanti animali",
+   "text": "Quanti animali",
+   "cifre_ok": false
+  },
+  {
+   "id": "bab61e7136c9e6e0",
+   "ctx": "⚠ contiene numeri · Quanti animali › p",
+   "orig": "Fonte: HSA (2026), da dati della Food Standards Agency. Nel 2022, sempre in Inghilterra e Galles, 19,5 milioni di animali sono stati macellati senza pre-stordimento: 18,3 milioni di polli (2,3% del totale), 219 mila ovini (23%) e 33 mila bovini (1%), secondo il Parlamento europeo (EPRS, 2023). Per l'Italia l'unico dato trovato, del 2009, indica che quasi il 95% della macellazione halal avviene senza stordimento (Catanese et al., citato da Roggero, 2016); non è aggiornato né riferito a un totale nazionale.",
+   "text": "Fonte: HSA (2026), da dati della Food Standards Agency. Nel 2022, sempre in Inghilterra e Galles, 19,5 milioni di animali sono stati macellati senza pre-stordimento: 18,3 milioni di polli (2,3% del totale), 219 mila ovini (23%) e 33 mila bovini (1%), secondo il Parlamento europeo (EPRS, 2023). Per l'Italia l'unico dato trovato, del 2009, indica che quasi il 95% della macellazione halal avviene senza stordimento (Catanese et al., citato da Roggero, 2016); non è aggiornato né riferito a un totale nazionale.",
+   "cifre_ok": false
+  }
+ ],
+ "orfane": []
+}

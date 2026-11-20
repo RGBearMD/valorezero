@@ -1,0 +1,160 @@
+{
+ "titolo": "Suini (totale)",
+ "voci": [
+  {
+   "id": "5ab3da4156f27ff6",
+   "ctx": "h1",
+   "orig": "Suini (totale)",
+   "text": "Suini (totale)",
+   "cifre_ok": false
+  },
+  {
+   "id": "96ce1181477c2595",
+   "ctx": "Impiego › p",
+   "orig": "Carne fresca (cotolette, costine, salsicce), prosciutti e salumi, speck, pancetta, wurstel, preparazioni industriali; strutto e altri sottoprodotti.",
+   "text": "Carne fresca (cotolette, costine, salsicce), prosciutti e salumi, speck, pancetta, wurstel, preparazioni industriali; strutto e altri sottoprodotti.",
+   "cifre_ok": false
+  },
+  {
+   "id": "3f64be4dcbb333b1",
+   "ctx": "⚠ contiene numeri · Animali uccisi per cittadino › dd",
+   "orig": "9.869.286 (ago 2025–lug 2026)",
+   "text": "9.869.286 (ago 2025–lug 2026)",
+   "cifre_ok": false
+  },
+  {
+   "id": "d8bb5e3ab94fe1c9",
+   "ctx": "⚠ contiene numeri · Animali uccisi per cittadino › dd",
+   "orig": "Carcassa 131 kg · vivo 159 kg · resa 82,8%",
+   "text": "Carcassa 131 kg · vivo 159 kg · resa 82,8%",
+   "cifre_ok": false
+  },
+  {
+   "id": "d35d54c5ed044918",
+   "ctx": "Animali uccisi per cittadino › p",
+   "orig": "ISTAT «totale suini». Le categorie di dettaglio non si sommano al totale.",
+   "text": "ISTAT «totale suini». Le categorie di dettaglio non si sommano al totale.",
+   "cifre_ok": false
+  },
+  {
+   "id": "d210a4bbe5fd3f08",
+   "ctx": "⚠ contiene numeri · Animali uccisi per cittadino › p",
+   "orig": "Abbattimenti sanitari documentati: peste suina africana, 89.458 suini in circa 60 giorni del 2024 (al 20/9, Ministero della Salute citato da Il Fatto Alimentare, riportato da terzi). Non inclusi nel contatore.",
+   "text": "Abbattimenti sanitari documentati: peste suina africana, 89.458 suini in circa 60 giorni del 2024 (al 20/9, Ministero della Salute citato da Il Fatto Alimentare, riportato da terzi). Non inclusi nel contatore.",
+   "cifre_ok": false
+  },
+  {
+   "id": "6f1313eda9b708e6",
+   "ctx": "Animali uccisi per cittadino › h2",
+   "orig": "Suini: tutte le categorie",
+   "text": "Suini: tutte le categorie",
+   "cifre_ok": false
+  },
+  {
+   "id": "0e37044faea63cbf",
+   "ctx": "Definizioni › dt",
+   "orig": "Lattonzoli",
+   "text": "Lattonzoli",
+   "cifre_ok": false
+  },
+  {
+   "id": "bdb0076e768315ca",
+   "ctx": "Definizioni › dd",
+   "orig": "ISTAT «lattonzoli».",
+   "text": "ISTAT «lattonzoli».",
+   "cifre_ok": false
+  },
+  {
+   "id": "adb0012251f204ad",
+   "ctx": "⚠ contiene numeri · Definizioni › dt",
+   "orig": "Suini da 30 a 100 kg",
+   "text": "Suini da 30 a 100 kg",
+   "cifre_ok": false
+  },
+  {
+   "id": "e32021882a5ab2ba",
+   "ctx": "⚠ contiene numeri · Definizioni › dd",
+   "orig": "ISTAT «suini da 30 a 100 kg». Non è verificato se coincida con la categoria «magroni».",
+   "text": "ISTAT «suini da 30 a 100 kg». Non è verificato se coincida con la categoria «magroni».",
+   "cifre_ok": false
+  },
+  {
+   "id": "bed25d2a3c67cf5b",
+   "ctx": "Definizioni › dt",
+   "orig": "Suini grassi",
+   "text": "Suini grassi",
+   "cifre_ok": false
+  },
+  {
+   "id": "203ae5fe86e6feae",
+   "ctx": "⚠ contiene numeri · Definizioni › dd",
+   "orig": "ISTAT «suini grassi» (oltre 100 kg).",
+   "text": "ISTAT «suini grassi» (oltre 100 kg).",
+   "cifre_ok": false
+  },
+  {
+   "id": "f19b9e2f4f368918",
+   "ctx": "Impiego › p",
+   "orig": "Carne di lattonzolo (maialino da latte): arrosti e porchetta.",
+   "text": "Carne di lattonzolo (maialino da latte): arrosti e porchetta.",
+   "cifre_ok": false
+  },
+  {
+   "id": "f582a5b13688e864",
+   "ctx": "⚠ contiene numeri · Animali uccisi per cittadino › dd",
+   "orig": "351.984 (ago 2025–lug 2026)",
+   "text": "351.984 (ago 2025–lug 2026)",
+   "cifre_ok": false
+  },
+  {
+   "id": "c96eca1c5e76e33c",
+   "ctx": "⚠ contiene numeri · Animali uccisi per cittadino › dd",
+   "orig": "Carcassa 14 kg · vivo 17 kg · resa 81,5%",
+   "text": "Carcassa 14 kg · vivo 17 kg · resa 81,5%",
+   "cifre_ok": false
+  },
+  {
+   "id": "1147a37ba0a39171",
+   "ctx": "Animali uccisi per cittadino › p",
+   "orig": "Compreso nel totale «Suini (totale)». Le categorie non si sommano.",
+   "text": "Compreso nel totale «Suini (totale)». Le categorie non si sommano.",
+   "cifre_ok": false
+  },
+  {
+   "id": "3e26ec3ea3d9fe08",
+   "ctx": "Impiego › p",
+   "orig": "Suini in fase di accrescimento: la carne va al fresco e ai salumi.",
+   "text": "Suini in fase di accrescimento: la carne va al fresco e ai salumi.",
+   "cifre_ok": false
+  },
+  {
+   "id": "68feb43d77c16024",
+   "ctx": "⚠ contiene numeri · Animali uccisi per cittadino › dd",
+   "orig": "825.317 (ago 2025–lug 2026)",
+   "text": "825.317 (ago 2025–lug 2026)",
+   "cifre_ok": false
+  },
+  {
+   "id": "8814cbb683ffecc8",
+   "ctx": "⚠ contiene numeri · Impiego › p",
+   "orig": "Suino grasso (oltre 100 kg): carne fresca e soprattutto prosciutti, salumi, mortadella e preparazioni.",
+   "text": "Suino grasso (oltre 100 kg): carne fresca e soprattutto prosciutti, salumi, mortadella e preparazioni.",
+   "cifre_ok": false
+  },
+  {
+   "id": "cb24676e19432d44",
+   "ctx": "⚠ contiene numeri · Animali uccisi per cittadino › dd",
+   "orig": "9.043.969 (ago 2025–lug 2026)",
+   "text": "9.043.969 (ago 2025–lug 2026)",
+   "cifre_ok": false
+  },
+  {
+   "id": "f20ec4d776893f85",
+   "ctx": "⚠ contiene numeri · Animali uccisi per cittadino › dd",
+   "orig": "Carcassa 139 kg · vivo 168 kg · resa 82,9%",
+   "text": "Carcassa 139 kg · vivo 168 kg · resa 82,9%",
+   "cifre_ok": false
+  }
+ ],
+ "orfane": []
+}

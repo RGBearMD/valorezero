@@ -1,0 +1,118 @@
+{
+ "titolo": "Onnivori, vegetariani, vegani",
+ "voci": [
+  {
+   "id": "2dc81c4d12d6f7f8",
+   "ctx": "h1",
+   "orig": "Onnivori, vegetariani, vegani",
+   "text": "Onnivori, vegetariani, vegani",
+   "cifre_ok": false
+  },
+  {
+   "id": "ba6f294c61aa7e89",
+   "ctx": "Onnivori, vegetariani, vegani › p",
+   "orig": "Le diete sostengono filiere animali diverse. Un confronto numerico completo tra onnivori, vegetariani e vegani non è ancora possibile.",
+   "text": "Le diete sostengono filiere animali diverse. Un confronto numerico completo tra onnivori, vegetariani e vegani non è ancora possibile.",
+   "cifre_ok": false
+  },
+  {
+   "id": "93f60e9ce16db36e",
+   "ctx": "⚠ contiene numeri · Onnivori, vegetariani, vegani › p",
+   "orig": "Consumo effettivo, indagine CREA IV SCAI, 2017–2020.",
+   "text": "Consumo effettivo, indagine CREA IV SCAI, 2017–2020.",
+   "cifre_ok": false
+  },
+  {
+   "id": "27ee44cff1fe7877",
+   "ctx": "Onnivori, vegetariani, vegani › h2",
+   "orig": "Quanti sono vegetariani e vegani",
+   "text": "Quanti sono vegetariani e vegani",
+   "cifre_ok": false
+  },
+  {
+   "id": "2227e4c134a85291",
+   "ctx": "⚠ contiene numeri · Quanti sono vegetariani e vegani › p",
+   "orig": "Indagine Eurispes, Rapporto Italia 2026 (riportata da Open, 18/06/2026), popolazione adulta. Sono autodefinizioni, non classificazioni basate sui consumi. Il campione non è indicato nell'articolo. Nel Rapporto Italia 2025 erano 6,6% vegetariani e 2,9% vegani: le differenze tra anni sono piccole e non sono una misura precisa della popolazione.",
+   "text": "Indagine Eurispes, Rapporto Italia 2026 (riportata da Open, 18/06/2026), popolazione adulta. Sono autodefinizioni, non classificazioni basate sui consumi. Il campione non è indicato nell'articolo. Nel Rapporto Italia 2025 erano 6,6% vegetariani e 2,9% vegani: le differenze tra anni sono piccole e non sono una misura precisa della popolazione.",
+   "cifre_ok": false
+  },
+  {
+   "id": "7fa203613823a3f4",
+   "ctx": "Quanti sono vegetariani e vegani › h2",
+   "orig": "Quanta carne mangia un cittadino",
+   "text": "Quanta carne mangia un cittadino",
+   "cifre_ok": false
+  },
+  {
+   "id": "e3d423f4eca16e20",
+   "ctx": "⚠ contiene numeri · Quanta carne mangia un cittadino › p",
+   "orig": "Secondo l'indagine alimentare nazionale CREA IV SCAI (rilevazioni 2017–2020, popolazione da 3 a 74 anni), la media è di **100 g al giorno** di «carne e derivati», che consuma il 92% del campione. Sono circa 36,5 kg all'anno (calcolo: 100 g × 365). È il consumo effettivo, rilevato con interviste sulle 24 ore e diari alimentari.",
+   "text": "Secondo l'indagine alimentare nazionale CREA IV SCAI (rilevazioni 2017–2020, popolazione da 3 a 74 anni), la media è di **100 g al giorno** di «carne e derivati», che consuma il 92% del campione. Sono circa 36,5 kg all'anno (calcolo: 100 g × 365). È il consumo effettivo, rilevato con interviste sulle 24 ore e diari alimentari.",
+   "cifre_ok": false
+  },
+  {
+   "id": "369ddd3d01202e8c",
+   "ctx": "⚠ contiene numeri · Quanta carne mangia un cittadino › p",
+   "orig": "Grammi al giorno per classe d'età. Tra gli adolescenti i maschi sono a 157 g e le femmine a 126 g; tra gli adulti 151 g contro 100 g. Per sottogruppi, il documento riporta circa 31 g al giorno di carne avicola, circa 31 g di bovina e 23 g di processata (salumi e simili); consumano carne processata il 59% del campione, bovina il 48%, avicola il 42%, di maiale il 12%. Altri gruppi: pesce 33 g al giorno (consumato dal 49%), uova 13 g (47%), latte e derivati 237 g (98%). I dati non sono del 2025 e non includono gli over 75.",
+   "text": "Grammi al giorno per classe d'età. Tra gli adolescenti i maschi sono a 157 g e le femmine a 126 g; tra gli adulti 151 g contro 100 g. Per sottogruppi, il documento riporta circa 31 g al giorno di carne avicola, circa 31 g di bovina e 23 g di processata (salumi e simili); consumano carne processata il 59% del campione, bovina il 48%, avicola il 42%, di maiale il 12%. Altri gruppi: pesce 33 g al giorno (consumato dal 49%), uova 13 g (47%), latte e derivati 237 g (98%). I dati non sono del 2025 e non includono gli over 75.",
+   "cifre_ok": false
+  },
+  {
+   "id": "1b387ec36c876921",
+   "ctx": "Quanta carne mangia un cittadino › h2",
+   "orig": "Tre diete a confronto, in Italia",
+   "text": "Tre diete a confronto, in Italia",
+   "cifre_ok": false
+  },
+  {
+   "id": "ccb41f9dda2660cc",
+   "ctx": "⚠ contiene numeri · Tre diete a confronto, in Italia › p",
+   "orig": "Studio italiano su 153 adulti (51 onnivori, 51 ovo-latto-vegetariani, 51 vegani), con diario alimentare di 7 giorni. Non è un campione rappresentativo degli italiani: mostra le differenze tra gruppi di persone che seguono già quella dieta.",
+   "text": "Studio italiano su 153 adulti (51 onnivori, 51 ovo-latto-vegetariani, 51 vegani), con diario alimentare di 7 giorni. Non è un campione rappresentativo degli italiani: mostra le differenze tra gruppi di persone che seguono già quella dieta.",
+   "cifre_ok": false
+  },
+  {
+   "id": "2528a18c34b9067d",
+   "ctx": "⚠ contiene numeri · Tre diete a confronto, in Italia › p",
+   "orig": "Fonte: Rosi et al. (2017), Scientific Reports 7:6105, tabelle 2 e 4. Per carbonio, acqua e impronta ecologica gli onnivori risultano diversi dagli altri due gruppi; tra vegetariani e vegani lo studio non rileva differenze significative. Le impronte dipendono dai coefficienti usati dagli autori.",
+   "text": "Fonte: Rosi et al. (2017), Scientific Reports 7:6105, tabelle 2 e 4. Per carbonio, acqua e impronta ecologica gli onnivori risultano diversi dagli altri due gruppi; tra vegetariani e vegani lo studio non rileva differenze significative. Le impronte dipendono dai coefficienti usati dagli autori.",
+   "cifre_ok": false
+  },
+  {
+   "id": "e8cc8340c3a56b36",
+   "ctx": "Tre diete a confronto, in Italia › h2",
+   "orig": "Consumo apparente: quanto entra sul mercato",
+   "text": "Consumo apparente: quanto entra sul mercato",
+   "cifre_ok": false
+  },
+  {
+   "id": "1e1a170da8239006",
+   "ctx": "⚠ contiene numeri · Consumo apparente: quanto entra sul mercato › p",
+   "orig": "Fonte: ISMEA (Scheda Avicoli 2026, Scheda Bovino 2025, Scheda Suini 2026, Tendenze Uova 2026), su dati ISTAT; file forniti dall'utente e letti. I chili sono tonnellate equivalente carcassa divise per i residenti, cioè consumo apparente (produzione + import − export), non quanto si mangia davvero. Per i suini la scheda dà solo il totale, che comprende carni fresche, congelate e preparazioni: non c'è un dato in kg per persona. Salumi, carne fresca e pesce sono di altri anni e fonti: non si sommano ai valori ISMEA. Sottraendo, ASSICA implica circa 11 kg di carne suina fresca nel 2024 (27,6 − 16,5, calcolo). Sono medie su tutta la popolazione, non il consumo dell'onnivoro. Il consumo effettivo CREA (36,5 kg all'anno) e quello apparente non sono confrontabili: il secondo conta carcassa, scarti e sprechi. Una verifica ha corretto il documento di ricerca iniziale: 21,4 kg di avicola e 16,1 kg di bovina non corrispondono alle schede (16,1 kg è il bovino del 2020; l'avicola 2023 è 21,7 kg).",
+   "text": "Fonte: ISMEA (Scheda Avicoli 2026, Scheda Bovino 2025, Scheda Suini 2026, Tendenze Uova 2026), su dati ISTAT; file forniti dall'utente e letti. I chili sono tonnellate equivalente carcassa divise per i residenti, cioè consumo apparente (produzione + import − export), non quanto si mangia davvero. Per i suini la scheda dà solo il totale, che comprende carni fresche, congelate e preparazioni: non c'è un dato in kg per persona. Salumi, carne fresca e pesce sono di altri anni e fonti: non si sommano ai valori ISMEA. Sottraendo, ASSICA implica circa 11 kg di carne suina fresca nel 2024 (27,6 − 16,5, calcolo). Sono medie su tutta la popolazione, non il consumo dell'onnivoro. Il consumo effettivo CREA (36,5 kg all'anno) e quello apparente non sono confrontabili: il secondo conta carcassa, scarti e sprechi. Una verifica ha corretto il documento di ricerca iniziale: 21,4 kg di avicola e 16,1 kg di bovina non corrispondono alle schede (16,1 kg è il bovino del 2020; l'avicola 2023 è 21,7 kg).",
+   "cifre_ok": false
+  },
+  {
+   "id": "e3d1ec73699d119b",
+   "ctx": "Consumo apparente: quanto entra sul mercato › p",
+   "orig": "Le diete sostengono filiere diverse.",
+   "text": "Le diete sostengono filiere diverse.",
+   "cifre_ok": false
+  },
+  {
+   "id": "944e7ba4a0af20c9",
+   "ctx": "Consumo apparente: quanto entra sul mercato › p",
+   "orig": "Il numero totale di individui attribuibile ai consumi italiani richiede ancora dati e coefficienti specifici: non può essere ricavato dalle sole macellazioni nazionali.",
+   "text": "Il numero totale di individui attribuibile ai consumi italiani richiede ancora dati e coefficienti specifici: non può essere ricavato dalle sole macellazioni nazionali.",
+   "cifre_ok": false
+  },
+  {
+   "id": "c2a548ed0fa17d61",
+   "ctx": "Consumo apparente: quanto entra sul mercato › p",
+   "orig": "Sintesi del documento di ricerca fornito dall'utente (rapporto sugli effetti delle diete). Le citazioni sono di terzi e non sono state riverificate una per una. Fonti: Info e fonti.",
+   "text": "Sintesi del documento di ricerca fornito dall'utente (rapporto sugli effetti delle diete). Le citazioni sono di terzi e non sono state riverificate una per una. Fonti: Info e fonti.",
+   "cifre_ok": false
+  }
+ ],
+ "orfane": []
+}

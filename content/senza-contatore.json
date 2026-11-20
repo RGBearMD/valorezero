@@ -1,0 +1,55 @@
+{
+ "titolo": "Categorie senza contatore",
+ "voci": [
+  {
+   "id": "ed6b4fdd89ab31f7",
+   "ctx": "Categorie senza contatore › p",
+   "orig": "Per queste categorie non esiste un dato di animali uccisi, confrontabile e affidabile. Dove il dato manca non c'è uno zero: si spiega cosa manca.",
+   "text": "Per queste categorie non esiste un dato di animali uccisi, confrontabile e affidabile. Dove il dato manca non c'è uno zero: si spiega cosa manca.",
+   "cifre_ok": false
+  },
+  {
+   "id": "adabb9d4f929c79a",
+   "ctx": "Categorie senza contatore › h2",
+   "orig": "Api",
+   "text": "Api",
+   "cifre_ok": false
+  },
+  {
+   "id": "13a4965250e44a40",
+   "ctx": "Api › p",
+   "orig": "**Contatore non attivato.** Non è calcolabile un numero di api uccise. L'unità pertinente è la colonia, e non c'è un dato nazionale sulle colonie distrutte per ordine sanitario.",
+   "text": "**Contatore non attivato.** Non è calcolabile un numero di api uccise. L'unità pertinente è la colonia, e non c'è un dato nazionale sulle colonie distrutte per ordine sanitario.",
+   "cifre_ok": false
+  },
+  {
+   "id": "06180aefa4dc8f6f",
+   "ctx": "Api › p",
+   "orig": "Gli alveari censiti non sono un denominatore delle uccisioni. Servono apiari, colonie distrutte, patologia, regione e data dell'ordine.",
+   "text": "Gli alveari censiti non sono un denominatore delle uccisioni. Servono apiari, colonie distrutte, patologia, regione e data dell'ordine.",
+   "cifre_ok": false
+  },
+  {
+   "id": "bea24f4ef0e5dfe1",
+   "ctx": "Api › h2",
+   "orig": "Animali nella ricerca",
+   "text": "Animali nella ricerca",
+   "cifre_ok": false
+  },
+  {
+   "id": "7de7e3826f01803b",
+   "ctx": "Animali nella ricerca › p",
+   "orig": "**Contatore non attivato.** Il dato riguarda gli utilizzi, non le uccisioni. La quota soppressa a fine procedura non è stata trovata. Per questo non c'è un contatore di uccisioni.",
+   "text": "**Contatore non attivato.** Il dato riguarda gli utilizzi, non le uccisioni. La quota soppressa a fine procedura non è stata trovata. Per questo non c'è un contatore di uccisioni.",
+   "cifre_ok": false
+  },
+  {
+   "id": "3d2bfc1ce69bc7fe",
+   "ctx": "Animali nella ricerca › p",
+   "orig": "La Gazzetta non è stata aperta: la distinzione tra utilizzati, uccisi e soppressi resta da verificare lì.",
+   "text": "La Gazzetta non è stata aperta: la distinzione tra utilizzati, uccisi e soppressi resta da verificare lì.",
+   "cifre_ok": false
+  }
+ ],
+ "orfane": []
+}
