@@ -4,4 +4,21 @@
 <body>
 <!-- Sveltia CMS (compatibile con la configurazione Decap). Consigliato fissare una versione precisa dopo il primo test. -->
 <script src="https://unpkg.com/@sveltia/cms/dist/sveltia-cms.js"></script>
+<script>
+/* Anteprima con lo stile del sito: carica i CSS reali nell'iframe di anteprima. */
+(function(){
+  function reg(){
+    if(!window.CMS||!CMS.registerPreviewStyle){return false}
+    CMS.registerPreviewStyle('/css/styles.css');
+    CMS.registerPreviewStyle(
+      'body{padding:20px 22px;max-width:680px;margin:0 auto;font-family:var(--body,system-ui,sans-serif);line-height:1.55}'+
+      "[data-key-path$='.ctx']{font:12px/1.3 ui-monospace,monospace;opacity:.6;margin:18px 0 4px}"+
+      "[data-key-path$='.ctx'] p{margin:0}"+
+      "[data-field-type='boolean']{display:none}",
+      {raw:true});
+    return true;
+  }
+  if(!reg()){var n=0,t=setInterval(function(){if(reg()||++n>40)clearInterval(t)},250)}
+})();
+</script>
 </body></html>
