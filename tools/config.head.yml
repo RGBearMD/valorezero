@@ -1,9 +1,9 @@
 # Configurazione del CMS (generata da tools/extract.js: non modificare a mano, modificare tools/config.head.yml)
 backend:
   name: github
-  repo: OWNER/valore-zero            # <-- da sostituire con utente/repository GitHub
+  repo: RGBearMD/valorezero
   branch: main
-  base_url: https://AUTH-WORKER.workers.dev   # <-- indirizzo del servizio di login (vedi GUIDA_IMPOSTAZIONE.md)
+  base_url: https://sveltia-cms-auth.fancy-hill-2c61.workers.dev
 locale: it
 publish_mode: simple
 media_folder: public/img/upload
