@@ -5,20 +5,58 @@
 <!-- Sveltia CMS (compatibile con la configurazione Decap). Consigliato fissare una versione precisa dopo il primo test. -->
 <script src="https://unpkg.com/@sveltia/cms/dist/sveltia-cms.js"></script>
 <script>
-/* Anteprima con lo stile del sito: carica i CSS reali nell'iframe di anteprima. */
+/* Anteprima "a pagina": mostra solo i testi, con titoli, paragrafi ed elenchi nello stile del sito (niente etichette del modulo). */
 (function(){
-  function reg(){
-    if(!window.CMS||!CMS.registerPreviewStyle){return false}
+  var TAGS={h1:1,h2:1,h3:1,h4:1,p:1,li:1,dt:1,dd:1,summary:1,figcaption:1,blockquote:1};
+  function esc(s){return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')}
+  function toHtml(md){ /* Markdown minimo: **grassetto**, *corsivo*, [testo](link) */
+    var i=0,n=md.length;
+    function inline(end){var s='';
+      while(i<n){var ch=md[i];
+        if(end&&md.substr(i,end.length)===end)return s;
+        if(ch==='\\'&&i+1<n){s+=esc(md[i+1]);i+=2;continue}
+        if(ch==='\n'){s+='<br>';i++;continue}
+        if(ch==='*'&&md[i+1]==='*'){i+=2;s+='<strong>'+inline('**')+'</strong>';i+=2;continue}
+        if(ch==='*'||ch==='_'){i++;s+='<em>'+inline(ch)+'</em>';i++;continue}
+        if(ch==='['){var save=i;i++;var t=inline(']');
+          if(md[i]===']'&&md[i+1]==='('){var j=md.indexOf(')',i+2);
+            if(j>0){var u=md.slice(i+2,j).trim();i=j+1;s+='<a href="'+esc(u).replace(/"/g,'&quot;')+'" target="_blank" rel="noopener">'+t+'</a>';continue}}
+          i=save;s+='[';i++;continue}
+        s+=esc(ch);i++}
+      return s}
+    return inline('');
+  }
+  function Preview(props){
+    var h=window.h||(window.CMS&&CMS.h);
+    var list=props.entry.getIn(['data','voci']);
+    var voci=list&&list.toJS?list.toJS():[];
+    var kids=[],lis=null;
+    function flush(){if(lis){kids.push(h('ul',{key:'u'+kids.length},lis));lis=null}}
+    voci.forEach(function(v,idx){
+      var m=/(h[1-4]|p|li|dt|dd|summary|figcaption|blockquote)\s*$/.exec(v.ctx||''),tag=m&&TAGS[m[1]]?m[1]:'p';
+      var props2={'data-key-path':'voci.'+idx+'.text',tabindex:'0',dangerouslySetInnerHTML:{__html:toHtml(v.text||'')}};
+      var warn=/^⚠/.test(v.ctx||'');
+      if(tag==='li'){
+        if(!lis)lis=[];
+        lis.push(h('li',Object.assign({key:idx},props2)));return}
+      flush();
+      var el=(tag==='dt'||tag==='dd'||tag==='summary'||tag==='figcaption'||tag==='blockquote')?'p':tag;
+      kids.push(h('div',{key:idx,className:'vzp-b'+(warn?' vzp-w':'')},h(el,props2),warn?h('small',{className:'vzp-n'},'contiene numeri'):null));
+    });
+    flush();
+    return h('main',{id:'app'},kids);
+  }
+  function setup(){
+    if(!window.CMS||!CMS.registerPreviewStyle||!CMS.registerPreviewTemplate)return false;
     CMS.registerPreviewStyle('/css/styles.css');
-    CMS.registerPreviewStyle(
-      'body{padding:20px 22px;max-width:680px;margin:0 auto;font-family:var(--body,system-ui,sans-serif);line-height:1.55}'+
-      "[data-key-path$='.ctx']{font:12px/1.3 ui-monospace,monospace;opacity:.6;margin:18px 0 4px}"+
-      "[data-key-path$='.ctx'] p{margin:0}"+
-      "[data-field-type='boolean']{display:none}",
-      {raw:true});
+    CMS.registerPreviewStyle('body{padding:12px 16px;max-width:720px;margin:0 auto}#app{display:block;padding:0}.vzp-b{position:relative}.vzp-n{display:inline-block;font:11px/1.2 ui-monospace,monospace;color:#b45309;border:1px solid currentColor;border-radius:3px;padding:1px 5px;margin:-4px 0 8px}[data-key-path]{outline-offset:3px}[data-key-path]:hover{outline:1px dashed #888}',{raw:true});
+    fetch('/admin/config.yml').then(function(r){return r.text()}).then(function(t){
+      var re=/^\s+- name: "([^"]+)"/gm,m;
+      while((m=re.exec(t)))CMS.registerPreviewTemplate(m[1],Preview);
+    });
     return true;
   }
-  if(!reg()){var n=0,t=setInterval(function(){if(reg()||++n>40)clearInterval(t)},250)}
+  if(!setup()){var n=0,t=setInterval(function(){if(setup()||++n>40)clearInterval(t)},250)}
 })();
 </script>
 </body></html>
